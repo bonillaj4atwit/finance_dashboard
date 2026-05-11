@@ -32,6 +32,8 @@ An end-to-end personal finance analytics dashboard built with Python, SQL, and d
 ---
 
 ## 📁 Project Structure
+
+```
 finance_dashboard/
 ├── data/
 │   ├── setup_db.py              # Creates the SQLite schema
@@ -45,6 +47,7 @@ finance_dashboard/
 │   └── ml_models.py             # Machine learning models
 ├── main.py                      # Streamlit dashboard
 └── README.md
+```
 
 ---
 
