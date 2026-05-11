@@ -1,0 +1,2188 @@
+date,amount,merchant,category,budget,month,day_of_week,week,merchant_encoded,category_encoded,cluster,anomaly,is_anomaly
+2025-05-10,40.54,Target,Shopping,300.0,5,5,19,15,4,2,1,False
+2025-05-10,96.96,Duke Energy,Utilities,200.0,5,5,19,6,6,6,1,False
+2025-05-10,11.53,Duke Energy,Utilities,200.0,5,5,19,6,6,6,1,False
+2025-05-10,95.49,Delta Airlines,Transport,150.0,5,5,19,5,5,6,1,False
+2025-05-10,76.65,CVS Pharmacy,Health,100.0,5,5,19,3,3,6,1,False
+2025-05-10,185.39,CVS Pharmacy,Health,100.0,5,5,19,3,3,5,1,False
+2025-05-10,158.74,Target,Shopping,300.0,5,5,19,15,4,0,1,False
+2025-05-11,15.35,McDonalds,Dining,200.0,5,6,19,9,0,6,1,False
+2025-05-11,116.27,McDonalds,Dining,200.0,5,6,19,9,0,6,1,False
+2025-05-11,43.92,Gym Membership,Health,100.0,5,6,19,7,3,6,1,False
+2025-05-11,193.33,Chipotle,Dining,200.0,5,6,19,4,0,5,1,False
+2025-05-11,156.3,Shell Gas,Transport,150.0,5,6,19,12,5,0,1,False
+2025-05-11,128.45,Chipotle,Dining,200.0,5,6,19,4,0,6,1,False
+2025-05-11,192.6,AMC Theaters,Entertainment,100.0,5,6,19,0,1,5,-1,True
+2025-05-11,98.27,Kroger,Groceries,400.0,5,6,19,8,2,6,1,False
+2025-05-12,139.39,Duke Energy,Utilities,200.0,5,0,20,6,6,3,1,False
+2025-05-12,168.04,Uber,Transport,150.0,5,0,20,17,5,1,1,False
+2025-05-12,156.59,Trader Joes,Groceries,400.0,5,0,20,16,2,1,1,False
+2025-05-12,84.05,AMC Theaters,Entertainment,100.0,5,0,20,0,1,3,1,False
+2025-05-12,64.1,Water Dept,Utilities,200.0,5,0,20,18,6,4,1,False
+2025-05-12,136.26,McDonalds,Dining,200.0,5,0,20,9,0,3,1,False
+2025-05-12,10.22,Gym Membership,Health,100.0,5,0,20,7,3,4,1,False
+2025-05-12,116.26,Amazon,Shopping,300.0,5,0,20,2,4,3,1,False
+2025-05-13,63.55,Spotify,Entertainment,100.0,5,1,20,13,1,4,1,False
+2025-05-13,11.43,Chipotle,Dining,200.0,5,1,20,4,0,4,1,False
+2025-05-13,132.69,McDonalds,Dining,200.0,5,1,20,9,0,3,1,False
+2025-05-13,152.11,Kroger,Groceries,400.0,5,1,20,8,2,3,1,False
+2025-05-13,159.63,Spotify,Entertainment,100.0,5,1,20,13,1,1,1,False
+2025-05-14,173.65,Shell Gas,Transport,150.0,5,2,20,12,5,0,1,False
+2025-05-14,86.7,Gym Membership,Health,100.0,5,2,20,7,3,4,1,False
+2025-05-14,156.0,Chipotle,Dining,200.0,5,2,20,4,0,3,1,False
+2025-05-14,145.57,Netflix,Entertainment,100.0,5,2,20,10,1,3,1,False
+2025-05-14,94.35,Spotify,Entertainment,100.0,5,2,20,13,1,4,1,False
+2025-05-14,124.73,CVS Pharmacy,Health,100.0,5,2,20,3,3,3,1,False
+2025-05-14,65.5,Spotify,Entertainment,100.0,5,2,20,13,1,4,1,False
+2025-05-14,153.94,Kroger,Groceries,400.0,5,2,20,8,2,3,1,False
+2025-05-15,149.2,Kroger,Groceries,400.0,5,3,20,8,2,3,1,False
+2025-05-15,93.63,McDonalds,Dining,200.0,5,3,20,9,0,6,1,False
+2025-05-15,165.0,Uber,Transport,150.0,5,3,20,17,5,0,1,False
+2025-05-15,80.26,McDonalds,Dining,200.0,5,3,20,9,0,6,1,False
+2025-05-15,185.05,Uber,Transport,150.0,5,3,20,17,5,0,1,False
+2025-05-15,180.87,Uber,Transport,150.0,5,3,20,17,5,0,1,False
+2025-05-16,118.56,AMC Theaters,Entertainment,100.0,5,4,20,0,1,6,1,False
+2025-05-16,39.18,Trader Joes,Groceries,400.0,5,4,20,16,2,2,1,False
+2025-05-16,101.13,Spotify,Entertainment,100.0,5,4,20,13,1,0,1,False
+2025-05-16,180.24,Netflix,Entertainment,100.0,5,4,20,10,1,0,1,False
+2025-05-16,47.8,Water Dept,Utilities,200.0,5,4,20,18,6,2,1,False
+2025-05-17,126.42,AMC Theaters,Entertainment,100.0,5,5,20,0,1,6,1,False
+2025-05-17,172.04,Spotify,Entertainment,100.0,5,5,20,13,1,0,1,False
+2025-05-17,57.71,Amazon,Shopping,300.0,5,5,20,2,4,6,1,False
+2025-05-18,120.49,Amazon,Shopping,300.0,5,6,20,2,4,6,1,False
+2025-05-18,78.79,Trader Joes,Groceries,400.0,5,6,20,16,2,2,1,False
+2025-05-18,31.53,CVS Pharmacy,Health,100.0,5,6,20,3,3,6,1,False
+2025-05-19,50.79,Spotify,Entertainment,100.0,5,0,21,13,1,4,1,False
+2025-05-19,25.92,Chipotle,Dining,200.0,5,0,21,4,0,4,1,False
+2025-05-19,75.04,Whole Foods,Groceries,400.0,5,0,21,19,2,4,1,False
+2025-05-19,132.76,Uber,Transport,150.0,5,0,21,17,5,1,1,False
+2025-05-19,139.74,Water Dept,Utilities,200.0,5,0,21,18,6,1,1,False
+2025-05-19,96.32,McDonalds,Dining,200.0,5,0,21,9,0,4,1,False
+2025-05-20,132.65,McDonalds,Dining,200.0,5,1,21,9,0,3,1,False
+2025-05-20,101.87,AMC Theaters,Entertainment,100.0,5,1,21,0,1,3,1,False
+2025-05-20,126.36,Starbucks,Dining,200.0,5,1,21,14,0,1,1,False
+2025-05-20,34.33,Duke Energy,Utilities,200.0,5,1,21,6,6,4,1,False
+2025-05-20,15.19,Delta Airlines,Transport,150.0,5,1,21,5,5,4,1,False
+2025-05-20,103.11,Duke Energy,Utilities,200.0,5,1,21,6,6,3,1,False
+2025-05-20,134.92,Spotify,Entertainment,100.0,5,1,21,13,1,1,1,False
+2025-05-21,26.9,Trader Joes,Groceries,400.0,5,2,21,16,2,4,1,False
+2025-05-21,173.83,Spotify,Entertainment,100.0,5,2,21,13,1,0,1,False
+2025-05-21,60.99,Chipotle,Dining,200.0,5,2,21,4,0,4,1,False
+2025-05-21,58.13,Chipotle,Dining,200.0,5,2,21,4,0,4,1,False
+2025-05-21,42.54,Trader Joes,Groceries,400.0,5,2,21,16,2,4,1,False
+2025-05-21,105.39,Kroger,Groceries,400.0,5,2,21,8,2,3,1,False
+2025-05-21,163.0,Netflix,Entertainment,100.0,5,2,21,10,1,3,1,False
+2025-05-21,141.47,Chipotle,Dining,200.0,5,2,21,4,0,3,1,False
+2025-05-21,32.71,Water Dept,Utilities,200.0,5,2,21,18,6,4,1,False
+2025-05-22,61.64,CVS Pharmacy,Health,100.0,5,3,21,3,3,6,1,False
+2025-05-22,115.57,Delta Airlines,Transport,150.0,5,3,21,5,5,3,1,False
+2025-05-22,22.47,CVS Pharmacy,Health,100.0,5,3,21,3,3,6,1,False
+2025-05-22,169.69,Duke Energy,Utilities,200.0,5,3,21,6,6,3,1,False
+2025-05-22,167.69,Netflix,Entertainment,100.0,5,3,21,10,1,0,1,False
+2025-05-23,136.84,Chipotle,Dining,200.0,5,4,21,4,0,5,1,False
+2025-05-23,74.88,Delta Airlines,Transport,150.0,5,4,21,5,5,6,1,False
+2025-05-23,75.31,Chipotle,Dining,200.0,5,4,21,4,0,6,1,False
+2025-05-23,81.09,Gym Membership,Health,100.0,5,4,21,7,3,6,1,False
+2025-05-23,7.55,Kroger,Groceries,400.0,5,4,21,8,2,6,1,False
+2025-05-23,60.77,Spotify,Entertainment,100.0,5,4,21,13,1,2,1,False
+2025-05-23,43.06,McDonalds,Dining,200.0,5,4,21,9,0,6,1,False
+2025-05-23,79.72,Whole Foods,Groceries,400.0,5,4,21,19,2,2,1,False
+2025-05-24,19.46,Spotify,Entertainment,100.0,5,5,21,13,1,2,1,False
+2025-05-24,16.47,CVS Pharmacy,Health,100.0,5,5,21,3,3,6,1,False
+2025-05-24,9.84,Spotify,Entertainment,100.0,5,5,21,13,1,2,1,False
+2025-05-24,35.65,Kroger,Groceries,400.0,5,5,21,8,2,6,1,False
+2025-05-25,28.92,Nike,Shopping,300.0,5,6,21,11,4,6,1,False
+2025-05-25,111.88,Chipotle,Dining,200.0,5,6,21,4,0,6,1,False
+2025-05-25,34.81,Chipotle,Dining,200.0,5,6,21,4,0,6,1,False
+2025-05-26,35.23,Starbucks,Dining,200.0,5,0,22,14,0,4,1,False
+2025-05-26,9.28,CVS Pharmacy,Health,100.0,5,0,22,3,3,4,1,False
+2025-05-26,66.33,Delta Airlines,Transport,150.0,5,0,22,5,5,4,1,False
+2025-05-26,169.6,CVS Pharmacy,Health,100.0,5,0,22,3,3,3,1,False
+2025-05-26,175.97,Water Dept,Utilities,200.0,5,0,22,18,6,1,1,False
+2025-05-26,175.6,Nike,Shopping,300.0,5,0,22,11,4,3,1,False
+2025-05-26,196.2,Nike,Shopping,300.0,5,0,22,11,4,3,1,False
+2025-05-26,170.05,Shell Gas,Transport,150.0,5,0,22,12,5,3,1,False
+2025-05-26,197.32,Delta Airlines,Transport,150.0,5,0,22,5,5,3,1,False
+2025-05-26,15.65,AMC Theaters,Entertainment,100.0,5,0,22,0,1,4,-1,True
+2025-05-27,124.17,Amazon,Shopping,300.0,5,1,22,2,4,3,1,False
+2025-05-27,164.32,Amazon,Shopping,300.0,5,1,22,2,4,3,1,False
+2025-05-27,101.51,AMC Theaters,Entertainment,100.0,5,1,22,0,1,3,1,False
+2025-05-27,12.3,Chipotle,Dining,200.0,5,1,22,4,0,4,1,False
+2025-05-27,158.79,Whole Foods,Groceries,400.0,5,1,22,19,2,0,1,False
+2025-05-27,49.13,Starbucks,Dining,200.0,5,1,22,14,0,4,1,False
+2025-05-28,181.27,McDonalds,Dining,200.0,5,2,22,9,0,3,1,False
+2025-05-28,126.61,Target,Shopping,300.0,5,2,22,15,4,0,1,False
+2025-05-28,64.83,Gym Membership,Health,100.0,5,2,22,7,3,4,1,False
+2025-05-28,36.14,Spotify,Entertainment,100.0,5,2,22,13,1,4,1,False
+2025-05-28,154.19,Duke Energy,Utilities,200.0,5,2,22,6,6,3,1,False
+2025-05-28,146.37,Duke Energy,Utilities,200.0,5,2,22,6,6,3,1,False
+2025-05-28,192.96,Shell Gas,Transport,150.0,5,2,22,12,5,0,1,False
+2025-05-28,197.94,Duke Energy,Utilities,200.0,5,2,22,6,6,3,1,False
+2025-05-29,183.01,Nike,Shopping,300.0,5,3,22,11,4,0,1,False
+2025-05-29,9.31,Spotify,Entertainment,100.0,5,3,22,13,1,4,1,False
+2025-05-29,106.52,Gym Membership,Health,100.0,5,3,22,7,3,3,1,False
+2025-05-29,180.68,Nike,Shopping,300.0,5,3,22,11,4,0,1,False
+2025-05-29,137.63,Amazon,Shopping,300.0,5,3,22,2,4,3,1,False
+2025-05-29,115.19,McDonalds,Dining,200.0,5,3,22,9,0,0,1,False
+2025-05-30,59.25,Amazon,Shopping,300.0,5,4,22,2,4,6,1,False
+2025-05-30,175.62,Nike,Shopping,300.0,5,4,22,11,4,0,1,False
+2025-05-30,64.74,Duke Energy,Utilities,200.0,5,4,22,6,6,6,1,False
+2025-05-30,23.29,Amazon,Shopping,300.0,5,4,22,2,4,6,1,False
+2025-05-31,73.82,Target,Shopping,300.0,5,5,22,15,4,2,1,False
+2025-05-31,35.67,Target,Shopping,300.0,5,5,22,15,4,2,1,False
+2025-05-31,16.56,Shell Gas,Transport,150.0,5,5,22,12,5,2,1,False
+2025-05-31,120.11,Kroger,Groceries,400.0,5,5,22,8,2,6,1,False
+2025-05-31,174.63,CVS Pharmacy,Health,100.0,5,5,22,3,3,5,1,False
+2025-05-31,143.08,Kroger,Groceries,400.0,5,5,22,8,2,5,1,False
+2025-05-31,187.96,Duke Energy,Utilities,200.0,5,5,22,6,6,5,1,False
+2025-05-31,137.51,Netflix,Entertainment,100.0,5,5,22,10,1,0,1,False
+2025-06-01,37.09,Target,Shopping,300.0,6,6,22,15,4,2,1,False
+2025-06-01,154.08,Uber,Transport,150.0,6,6,22,17,5,0,1,False
+2025-06-01,21.57,AMC Theaters,Entertainment,100.0,6,6,22,0,1,6,1,False
+2025-06-01,182.78,AMC Theaters,Entertainment,100.0,6,6,22,0,1,5,-1,True
+2025-06-02,56.64,Amazon,Shopping,300.0,6,0,23,2,4,4,1,False
+2025-06-02,175.83,AMC Theaters,Entertainment,100.0,6,0,23,0,1,3,-1,True
+2025-06-02,182.43,AT&T,Utilities,200.0,6,0,23,1,6,3,1,False
+2025-06-03,139.87,McDonalds,Dining,200.0,6,1,23,9,0,3,1,False
+2025-06-03,54.46,Delta Airlines,Transport,150.0,6,1,23,5,5,4,1,False
+2025-06-03,147.34,Netflix,Entertainment,100.0,6,1,23,10,1,3,1,False
+2025-06-03,55.61,CVS Pharmacy,Health,100.0,6,1,23,3,3,4,1,False
+2025-06-03,25.93,Target,Shopping,300.0,6,1,23,15,4,4,1,False
+2025-06-03,82.8,McDonalds,Dining,200.0,6,1,23,9,0,4,1,False
+2025-06-03,99.18,McDonalds,Dining,200.0,6,1,23,9,0,4,1,False
+2025-06-04,7.61,Chipotle,Dining,200.0,6,2,23,4,0,4,1,False
+2025-06-04,23.82,Starbucks,Dining,200.0,6,2,23,14,0,4,1,False
+2025-06-04,32.1,McDonalds,Dining,200.0,6,2,23,9,0,4,1,False
+2025-06-04,101.37,Amazon,Shopping,300.0,6,2,23,2,4,3,1,False
+2025-06-04,120.71,Whole Foods,Groceries,400.0,6,2,23,19,2,1,1,False
+2025-06-05,51.85,McDonalds,Dining,200.0,6,3,23,9,0,4,1,False
+2025-06-05,10.16,CVS Pharmacy,Health,100.0,6,3,23,3,3,6,1,False
+2025-06-05,88.53,Nike,Shopping,300.0,6,3,23,11,4,4,1,False
+2025-06-05,59.83,Duke Energy,Utilities,200.0,6,3,23,6,6,6,1,False
+2025-06-05,72.0,Whole Foods,Groceries,400.0,6,3,23,19,2,2,1,False
+2025-06-05,48.18,Target,Shopping,300.0,6,3,23,15,4,2,1,False
+2025-06-05,192.2,Chipotle,Dining,200.0,6,3,23,4,0,3,1,False
+2025-06-05,193.79,Delta Airlines,Transport,150.0,6,3,23,5,5,3,1,False
+2025-06-06,130.42,CVS Pharmacy,Health,100.0,6,4,23,3,3,5,1,False
+2025-06-06,152.52,Kroger,Groceries,400.0,6,4,23,8,2,5,1,False
+2025-06-06,11.94,Spotify,Entertainment,100.0,6,4,23,13,1,2,1,False
+2025-06-06,155.15,Trader Joes,Groceries,400.0,6,4,23,16,2,0,1,False
+2025-06-07,173.55,Gym Membership,Health,100.0,6,5,23,7,3,5,1,False
+2025-06-07,188.15,McDonalds,Dining,200.0,6,5,23,9,0,5,1,False
+2025-06-07,130.79,AT&T,Utilities,200.0,6,5,23,1,6,5,1,False
+2025-06-07,171.88,Nike,Shopping,300.0,6,5,23,11,4,0,1,False
+2025-06-07,191.54,Uber,Transport,150.0,6,5,23,17,5,0,1,False
+2025-06-07,163.19,Trader Joes,Groceries,400.0,6,5,23,16,2,0,1,False
+2025-06-07,39.27,Trader Joes,Groceries,400.0,6,5,23,16,2,2,1,False
+2025-06-08,163.51,Delta Airlines,Transport,150.0,6,6,23,5,5,5,1,False
+2025-06-08,21.79,McDonalds,Dining,200.0,6,6,23,9,0,6,1,False
+2025-06-08,68.79,Gym Membership,Health,100.0,6,6,23,7,3,6,1,False
+2025-06-08,55.67,Chipotle,Dining,200.0,6,6,23,4,0,6,1,False
+2025-06-08,160.78,Kroger,Groceries,400.0,6,6,23,8,2,5,1,False
+2025-06-08,102.59,Target,Shopping,300.0,6,6,23,15,4,2,1,False
+2025-06-08,47.16,Spotify,Entertainment,100.0,6,6,23,13,1,2,1,False
+2025-06-08,32.04,Duke Energy,Utilities,200.0,6,6,23,6,6,6,1,False
+2025-06-08,101.66,McDonalds,Dining,200.0,6,6,23,9,0,6,1,False
+2025-06-08,155.39,Whole Foods,Groceries,400.0,6,6,23,19,2,0,1,False
+2025-06-09,9.22,Nike,Shopping,300.0,6,0,24,11,4,4,1,False
+2025-06-09,70.78,Starbucks,Dining,200.0,6,0,24,14,0,4,1,False
+2025-06-09,194.57,Delta Airlines,Transport,150.0,6,0,24,5,5,3,1,False
+2025-06-09,108.86,Netflix,Entertainment,100.0,6,0,24,10,1,4,1,False
+2025-06-09,197.49,Water Dept,Utilities,200.0,6,0,24,18,6,1,-1,True
+2025-06-09,166.01,McDonalds,Dining,200.0,6,0,24,9,0,3,1,False
+2025-06-09,69.31,Nike,Shopping,300.0,6,0,24,11,4,4,1,False
+2025-06-10,20.58,Netflix,Entertainment,100.0,6,1,24,10,1,4,1,False
+2025-06-10,139.15,Trader Joes,Groceries,400.0,6,1,24,16,2,1,1,False
+2025-06-10,111.17,Chipotle,Dining,200.0,6,1,24,4,0,3,1,False
+2025-06-10,121.42,Delta Airlines,Transport,150.0,6,1,24,5,5,3,1,False
+2025-06-11,87.71,Amazon,Shopping,300.0,6,2,24,2,4,3,1,False
+2025-06-11,52.01,Uber,Transport,150.0,6,2,24,17,5,4,1,False
+2025-06-11,106.75,Water Dept,Utilities,200.0,6,2,24,18,6,1,1,False
+2025-06-11,39.03,AMC Theaters,Entertainment,100.0,6,2,24,0,1,4,1,False
+2025-06-11,79.32,Nike,Shopping,300.0,6,2,24,11,4,4,1,False
+2025-06-11,139.8,Target,Shopping,300.0,6,2,24,15,4,1,1,False
+2025-06-11,55.65,Amazon,Shopping,300.0,6,2,24,2,4,4,1,False
+2025-06-11,161.61,McDonalds,Dining,200.0,6,2,24,9,0,3,1,False
+2025-06-11,108.9,Uber,Transport,150.0,6,2,24,17,5,1,1,False
+2025-06-12,149.84,Water Dept,Utilities,200.0,6,3,24,18,6,0,1,False
+2025-06-12,8.61,AMC Theaters,Entertainment,100.0,6,3,24,0,1,6,1,False
+2025-06-12,128.24,Whole Foods,Groceries,400.0,6,3,24,19,2,0,1,False
+2025-06-12,123.03,Amazon,Shopping,300.0,6,3,24,2,4,3,1,False
+2025-06-12,56.11,Uber,Transport,150.0,6,3,24,17,5,2,1,False
+2025-06-12,110.77,Shell Gas,Transport,150.0,6,3,24,12,5,0,1,False
+2025-06-12,164.91,Gym Membership,Health,100.0,6,3,24,7,3,3,1,False
+2025-06-13,177.34,Delta Airlines,Transport,150.0,6,4,24,5,5,5,1,False
+2025-06-13,119.98,Nike,Shopping,300.0,6,4,24,11,4,0,1,False
+2025-06-13,197.97,Uber,Transport,150.0,6,4,24,17,5,0,1,False
+2025-06-13,182.29,Netflix,Entertainment,100.0,6,4,24,10,1,0,1,False
+2025-06-13,65.39,AMC Theaters,Entertainment,100.0,6,4,24,0,1,6,1,False
+2025-06-13,41.83,Chipotle,Dining,200.0,6,4,24,4,0,6,1,False
+2025-06-13,157.4,Uber,Transport,150.0,6,4,24,17,5,0,1,False
+2025-06-13,28.55,Chipotle,Dining,200.0,6,4,24,4,0,6,1,False
+2025-06-13,45.12,CVS Pharmacy,Health,100.0,6,4,24,3,3,6,1,False
+2025-06-14,39.81,Amazon,Shopping,300.0,6,5,24,2,4,6,1,False
+2025-06-14,195.96,Whole Foods,Groceries,400.0,6,5,24,19,2,0,1,False
+2025-06-14,169.73,Water Dept,Utilities,200.0,6,5,24,18,6,0,1,False
+2025-06-14,28.94,Duke Energy,Utilities,200.0,6,5,24,6,6,6,1,False
+2025-06-15,143.92,Duke Energy,Utilities,200.0,6,6,24,6,6,5,1,False
+2025-06-15,194.82,McDonalds,Dining,200.0,6,6,24,9,0,5,1,False
+2025-06-15,12.57,Target,Shopping,300.0,6,6,24,15,4,2,1,False
+2025-06-15,22.85,Spotify,Entertainment,100.0,6,6,24,13,1,2,1,False
+2025-06-15,117.35,Chipotle,Dining,200.0,6,6,24,4,0,5,1,False
+2025-06-15,38.78,AT&T,Utilities,200.0,6,6,24,1,6,6,1,False
+2025-06-15,113.7,Delta Airlines,Transport,150.0,6,6,24,5,5,5,1,False
+2025-06-15,185.92,Amazon,Shopping,300.0,6,6,24,2,4,5,1,False
+2025-06-15,155.11,Chipotle,Dining,200.0,6,6,24,4,0,5,1,False
+2025-06-16,191.79,Spotify,Entertainment,100.0,6,0,25,13,1,1,1,False
+2025-06-16,190.94,Water Dept,Utilities,200.0,6,0,25,18,6,1,1,False
+2025-06-16,124.19,Shell Gas,Transport,150.0,6,0,25,12,5,1,1,False
+2025-06-16,154.58,Nike,Shopping,300.0,6,0,25,11,4,3,1,False
+2025-06-16,180.5,McDonalds,Dining,200.0,6,0,25,9,0,3,1,False
+2025-06-16,52.84,Target,Shopping,300.0,6,0,25,15,4,4,1,False
+2025-06-16,41.12,Gym Membership,Health,100.0,6,0,25,7,3,4,1,False
+2025-06-16,77.1,Gym Membership,Health,100.0,6,0,25,7,3,4,1,False
+2025-06-17,179.91,Gym Membership,Health,100.0,6,1,25,7,3,3,1,False
+2025-06-17,52.18,McDonalds,Dining,200.0,6,1,25,9,0,4,1,False
+2025-06-17,165.25,Netflix,Entertainment,100.0,6,1,25,10,1,3,1,False
+2025-06-17,153.68,Shell Gas,Transport,150.0,6,1,25,12,5,1,1,False
+2025-06-17,196.9,Netflix,Entertainment,100.0,6,1,25,10,1,3,1,False
+2025-06-18,33.38,Amazon,Shopping,300.0,6,2,25,2,4,4,1,False
+2025-06-18,198.32,AT&T,Utilities,200.0,6,2,25,1,6,3,1,False
+2025-06-18,180.64,Trader Joes,Groceries,400.0,6,2,25,16,2,0,1,False
+2025-06-18,86.22,Chipotle,Dining,200.0,6,2,25,4,0,4,1,False
+2025-06-18,61.96,Gym Membership,Health,100.0,6,2,25,7,3,4,1,False
+2025-06-18,68.48,Netflix,Entertainment,100.0,6,2,25,10,1,4,1,False
+2025-06-18,36.11,CVS Pharmacy,Health,100.0,6,2,25,3,3,4,1,False
+2025-06-18,118.05,AT&T,Utilities,200.0,6,2,25,1,6,3,1,False
+2025-06-18,88.84,Starbucks,Dining,200.0,6,2,25,14,0,4,1,False
+2025-06-19,39.78,Shell Gas,Transport,150.0,6,3,25,12,5,4,1,False
+2025-06-19,126.64,Amazon,Shopping,300.0,6,3,25,2,4,3,1,False
+2025-06-19,62.09,Amazon,Shopping,300.0,6,3,25,2,4,6,1,False
+2025-06-20,9.77,Shell Gas,Transport,150.0,6,4,25,12,5,2,1,False
+2025-06-20,74.27,Starbucks,Dining,200.0,6,4,25,14,0,2,1,False
+2025-06-20,81.18,McDonalds,Dining,200.0,6,4,25,9,0,6,1,False
+2025-06-20,141.88,AT&T,Utilities,200.0,6,4,25,1,6,5,1,False
+2025-06-20,90.38,Uber,Transport,150.0,6,4,25,17,5,2,1,False
+2025-06-20,38.83,Duke Energy,Utilities,200.0,6,4,25,6,6,6,1,False
+2025-06-21,127.18,Starbucks,Dining,200.0,6,5,25,14,0,0,1,False
+2025-06-21,173.05,Target,Shopping,300.0,6,5,25,15,4,0,1,False
+2025-06-22,78.66,Duke Energy,Utilities,200.0,6,6,25,6,6,6,1,False
+2025-06-22,77.13,AMC Theaters,Entertainment,100.0,6,6,25,0,1,6,1,False
+2025-06-22,49.98,Shell Gas,Transport,150.0,6,6,25,12,5,2,1,False
+2025-06-22,166.98,Starbucks,Dining,200.0,6,6,25,14,0,0,1,False
+2025-06-22,58.69,Target,Shopping,300.0,6,6,25,15,4,2,1,False
+2025-06-22,190.0,Spotify,Entertainment,100.0,6,6,25,13,1,0,1,False
+2025-06-22,38.58,Uber,Transport,150.0,6,6,25,17,5,2,1,False
+2025-06-23,6.77,Uber,Transport,150.0,6,0,26,17,5,4,-1,True
+2025-06-23,70.65,Amazon,Shopping,300.0,6,0,26,2,4,4,1,False
+2025-06-23,51.12,Uber,Transport,150.0,6,0,26,17,5,4,1,False
+2025-06-24,133.8,AMC Theaters,Entertainment,100.0,6,1,26,0,1,3,1,False
+2025-06-24,11.52,Whole Foods,Groceries,400.0,6,1,26,19,2,4,1,False
+2025-06-24,17.78,Water Dept,Utilities,200.0,6,1,26,18,6,4,1,False
+2025-06-24,193.25,CVS Pharmacy,Health,100.0,6,1,26,3,3,3,1,False
+2025-06-24,103.45,Starbucks,Dining,200.0,6,1,26,14,0,1,1,False
+2025-06-24,71.52,McDonalds,Dining,200.0,6,1,26,9,0,4,1,False
+2025-06-24,159.71,McDonalds,Dining,200.0,6,1,26,9,0,3,1,False
+2025-06-24,142.17,Water Dept,Utilities,200.0,6,1,26,18,6,1,1,False
+2025-06-25,162.34,Delta Airlines,Transport,150.0,6,2,26,5,5,3,1,False
+2025-06-25,21.24,Uber,Transport,150.0,6,2,26,17,5,4,1,False
+2025-06-25,98.33,Netflix,Entertainment,100.0,6,2,26,10,1,4,1,False
+2025-06-25,85.08,Target,Shopping,300.0,6,2,26,15,4,4,1,False
+2025-06-25,78.4,Uber,Transport,150.0,6,2,26,17,5,1,1,False
+2025-06-25,97.33,Kroger,Groceries,400.0,6,2,26,8,2,4,1,False
+2025-06-26,114.3,McDonalds,Dining,200.0,6,3,26,9,0,3,1,False
+2025-06-26,83.48,Nike,Shopping,300.0,6,3,26,11,4,4,1,False
+2025-06-26,194.26,Shell Gas,Transport,150.0,6,3,26,12,5,0,1,False
+2025-06-26,134.34,Water Dept,Utilities,200.0,6,3,26,18,6,0,1,False
+2025-06-27,139.55,AT&T,Utilities,200.0,6,4,26,1,6,5,1,False
+2025-06-27,7.66,Nike,Shopping,300.0,6,4,26,11,4,2,1,False
+2025-06-27,20.75,AMC Theaters,Entertainment,100.0,6,4,26,0,1,6,1,False
+2025-06-27,90.64,Kroger,Groceries,400.0,6,4,26,8,2,6,1,False
+2025-06-27,158.62,Uber,Transport,150.0,6,4,26,17,5,0,1,False
+2025-06-27,144.02,Netflix,Entertainment,100.0,6,4,26,10,1,0,1,False
+2025-06-28,152.76,Whole Foods,Groceries,400.0,6,5,26,19,2,0,1,False
+2025-06-28,132.34,Whole Foods,Groceries,400.0,6,5,26,19,2,0,1,False
+2025-06-29,142.38,Chipotle,Dining,200.0,6,6,26,4,0,5,1,False
+2025-06-29,167.3,Spotify,Entertainment,100.0,6,6,26,13,1,0,1,False
+2025-06-29,60.84,Nike,Shopping,300.0,6,6,26,11,4,2,1,False
+2025-06-30,11.85,Kroger,Groceries,400.0,6,0,27,8,2,4,1,False
+2025-06-30,171.33,CVS Pharmacy,Health,100.0,6,0,27,3,3,3,1,False
+2025-06-30,182.23,Netflix,Entertainment,100.0,6,0,27,10,1,3,1,False
+2025-06-30,70.23,Chipotle,Dining,200.0,6,0,27,4,0,4,1,False
+2025-06-30,102.47,Uber,Transport,150.0,6,0,27,17,5,1,1,False
+2025-06-30,188.3,Amazon,Shopping,300.0,6,0,27,2,4,3,1,False
+2025-06-30,196.42,Duke Energy,Utilities,200.0,6,0,27,6,6,3,1,False
+2025-07-01,22.71,McDonalds,Dining,200.0,7,1,27,9,0,4,1,False
+2025-07-01,7.11,Water Dept,Utilities,200.0,7,1,27,18,6,4,1,False
+2025-07-01,136.42,Delta Airlines,Transport,150.0,7,1,27,5,5,3,1,False
+2025-07-01,22.59,Delta Airlines,Transport,150.0,7,1,27,5,5,4,1,False
+2025-07-01,159.72,Gym Membership,Health,100.0,7,1,27,7,3,3,1,False
+2025-07-01,45.11,Trader Joes,Groceries,400.0,7,1,27,16,2,4,1,False
+2025-07-01,171.29,Whole Foods,Groceries,400.0,7,1,27,19,2,1,1,False
+2025-07-01,111.5,Nike,Shopping,300.0,7,1,27,11,4,1,1,False
+2025-07-02,177.82,AT&T,Utilities,200.0,7,2,27,1,6,3,1,False
+2025-07-02,144.41,Water Dept,Utilities,200.0,7,2,27,18,6,1,1,False
+2025-07-02,148.23,Netflix,Entertainment,100.0,7,2,27,10,1,1,1,False
+2025-07-02,75.3,Nike,Shopping,300.0,7,2,27,11,4,4,1,False
+2025-07-02,34.66,Amazon,Shopping,300.0,7,2,27,2,4,4,1,False
+2025-07-02,50.53,Spotify,Entertainment,100.0,7,2,27,13,1,4,1,False
+2025-07-03,96.78,Kroger,Groceries,400.0,7,3,27,8,2,4,1,False
+2025-07-03,135.5,Starbucks,Dining,200.0,7,3,27,14,0,1,1,False
+2025-07-03,65.37,McDonalds,Dining,200.0,7,3,27,9,0,4,1,False
+2025-07-03,158.15,Chipotle,Dining,200.0,7,3,27,4,0,5,1,False
+2025-07-03,68.39,Whole Foods,Groceries,400.0,7,3,27,19,2,2,1,False
+2025-07-03,122.05,Uber,Transport,150.0,7,3,27,17,5,1,1,False
+2025-07-04,74.96,Nike,Shopping,300.0,7,4,27,11,4,2,1,False
+2025-07-04,82.43,Gym Membership,Health,100.0,7,4,27,7,3,6,1,False
+2025-07-04,41.19,Uber,Transport,150.0,7,4,27,17,5,2,1,False
+2025-07-04,192.08,Whole Foods,Groceries,400.0,7,4,27,19,2,0,1,False
+2025-07-04,111.6,Gym Membership,Health,100.0,7,4,27,7,3,5,1,False
+2025-07-04,79.61,Delta Airlines,Transport,150.0,7,4,27,5,5,6,1,False
+2025-07-04,55.86,Spotify,Entertainment,100.0,7,4,27,13,1,2,1,False
+2025-07-05,168.93,McDonalds,Dining,200.0,7,5,27,9,0,5,1,False
+2025-07-05,44.9,Delta Airlines,Transport,150.0,7,5,27,5,5,6,1,False
+2025-07-05,58.97,AT&T,Utilities,200.0,7,5,27,1,6,6,1,False
+2025-07-06,108.93,Netflix,Entertainment,100.0,7,6,27,10,1,5,1,False
+2025-07-06,29.81,Trader Joes,Groceries,400.0,7,6,27,16,2,2,1,False
+2025-07-06,169.18,Nike,Shopping,300.0,7,6,27,11,4,5,1,False
+2025-07-06,140.41,Amazon,Shopping,300.0,7,6,27,2,4,5,1,False
+2025-07-06,28.56,Spotify,Entertainment,100.0,7,6,27,13,1,2,1,False
+2025-07-06,154.28,Whole Foods,Groceries,400.0,7,6,27,19,2,0,1,False
+2025-07-07,113.31,Target,Shopping,300.0,7,0,28,15,4,1,1,False
+2025-07-07,10.02,Starbucks,Dining,200.0,7,0,28,14,0,4,1,False
+2025-07-07,192.37,AT&T,Utilities,200.0,7,0,28,1,6,3,-1,True
+2025-07-07,196.32,Target,Shopping,300.0,7,0,28,15,4,1,1,False
+2025-07-07,139.87,Spotify,Entertainment,100.0,7,0,28,13,1,1,1,False
+2025-07-08,113.04,Chipotle,Dining,200.0,7,1,28,4,0,3,1,False
+2025-07-08,57.44,Delta Airlines,Transport,150.0,7,1,28,5,5,4,1,False
+2025-07-08,152.23,Nike,Shopping,300.0,7,1,28,11,4,1,1,False
+2025-07-08,20.25,Chipotle,Dining,200.0,7,1,28,4,0,4,1,False
+2025-07-08,48.47,Target,Shopping,300.0,7,1,28,15,4,4,1,False
+2025-07-08,110.47,Chipotle,Dining,200.0,7,1,28,4,0,3,1,False
+2025-07-08,126.25,Water Dept,Utilities,200.0,7,1,28,18,6,1,1,False
+2025-07-08,184.12,Kroger,Groceries,400.0,7,1,28,8,2,3,1,False
+2025-07-08,120.45,AMC Theaters,Entertainment,100.0,7,1,28,0,1,3,1,False
+2025-07-09,107.22,Kroger,Groceries,400.0,7,2,28,8,2,4,1,False
+2025-07-09,177.34,Water Dept,Utilities,200.0,7,2,28,18,6,1,1,False
+2025-07-09,176.68,Shell Gas,Transport,150.0,7,2,28,12,5,1,1,False
+2025-07-09,38.85,Trader Joes,Groceries,400.0,7,2,28,16,2,4,1,False
+2025-07-09,145.73,Whole Foods,Groceries,400.0,7,2,28,19,2,1,1,False
+2025-07-10,55.2,Trader Joes,Groceries,400.0,7,3,28,16,2,2,1,False
+2025-07-10,160.02,Whole Foods,Groceries,400.0,7,3,28,19,2,0,1,False
+2025-07-10,57.04,Whole Foods,Groceries,400.0,7,3,28,19,2,2,1,False
+2025-07-10,160.28,Delta Airlines,Transport,150.0,7,3,28,5,5,5,1,False
+2025-07-10,184.86,Whole Foods,Groceries,400.0,7,3,28,19,2,0,1,False
+2025-07-11,86.73,Nike,Shopping,300.0,7,4,28,11,4,2,1,False
+2025-07-11,107.41,CVS Pharmacy,Health,100.0,7,4,28,3,3,5,1,False
+2025-07-11,49.97,Chipotle,Dining,200.0,7,4,28,4,0,6,1,False
+2025-07-11,31.94,Kroger,Groceries,400.0,7,4,28,8,2,6,1,False
+2025-07-11,93.94,Kroger,Groceries,400.0,7,4,28,8,2,5,1,False
+2025-07-11,173.14,CVS Pharmacy,Health,100.0,7,4,28,3,3,5,1,False
+2025-07-12,93.91,Kroger,Groceries,400.0,7,5,28,8,2,5,1,False
+2025-07-12,164.8,Gym Membership,Health,100.0,7,5,28,7,3,5,1,False
+2025-07-12,64.58,Chipotle,Dining,200.0,7,5,28,4,0,6,1,False
+2025-07-13,39.34,Starbucks,Dining,200.0,7,6,28,14,0,2,1,False
+2025-07-13,71.24,McDonalds,Dining,200.0,7,6,28,9,0,2,1,False
+2025-07-13,20.75,Shell Gas,Transport,150.0,7,6,28,12,5,2,1,False
+2025-07-13,98.28,Trader Joes,Groceries,400.0,7,6,28,16,2,2,1,False
+2025-07-13,164.23,CVS Pharmacy,Health,100.0,7,6,28,3,3,5,1,False
+2025-07-13,154.65,Starbucks,Dining,200.0,7,6,28,14,0,0,1,False
+2025-07-13,129.9,Trader Joes,Groceries,400.0,7,6,28,16,2,2,1,False
+2025-07-13,102.84,Trader Joes,Groceries,400.0,7,6,28,16,2,2,1,False
+2025-07-14,166.63,Water Dept,Utilities,200.0,7,0,29,18,6,1,1,False
+2025-07-14,102.48,Uber,Transport,150.0,7,0,29,17,5,1,1,False
+2025-07-14,112.53,Duke Energy,Utilities,200.0,7,0,29,6,6,3,1,False
+2025-07-14,34.21,AT&T,Utilities,200.0,7,0,29,1,6,4,1,False
+2025-07-14,90.31,AMC Theaters,Entertainment,100.0,7,0,29,0,1,3,1,False
+2025-07-14,36.3,AMC Theaters,Entertainment,100.0,7,0,29,0,1,4,1,False
+2025-07-15,186.92,Gym Membership,Health,100.0,7,1,29,7,3,3,1,False
+2025-07-15,156.83,Target,Shopping,300.0,7,1,29,15,4,1,1,False
+2025-07-15,151.39,Spotify,Entertainment,100.0,7,1,29,13,1,1,1,False
+2025-07-15,23.63,Spotify,Entertainment,100.0,7,1,29,13,1,4,1,False
+2025-07-15,89.98,Nike,Shopping,300.0,7,1,29,11,4,4,1,False
+2025-07-15,155.48,McDonalds,Dining,200.0,7,1,29,9,0,3,1,False
+2025-07-15,100.74,Whole Foods,Groceries,400.0,7,1,29,19,2,1,1,False
+2025-07-15,163.62,Nike,Shopping,300.0,7,1,29,11,4,1,1,False
+2025-07-15,184.02,Nike,Shopping,300.0,7,1,29,11,4,1,1,False
+2025-07-16,193.37,Spotify,Entertainment,100.0,7,2,29,13,1,1,1,False
+2025-07-16,126.17,AT&T,Utilities,200.0,7,2,29,1,6,3,1,False
+2025-07-16,105.76,CVS Pharmacy,Health,100.0,7,2,29,3,3,3,1,False
+2025-07-16,199.77,Duke Energy,Utilities,200.0,7,2,29,6,6,3,1,False
+2025-07-16,114.05,CVS Pharmacy,Health,100.0,7,2,29,3,3,3,1,False
+2025-07-16,101.28,Shell Gas,Transport,150.0,7,2,29,12,5,1,1,False
+2025-07-17,129.45,CVS Pharmacy,Health,100.0,7,3,29,3,3,5,1,False
+2025-07-17,148.9,Delta Airlines,Transport,150.0,7,3,29,5,5,5,1,False
+2025-07-17,8.45,Duke Energy,Utilities,200.0,7,3,29,6,6,4,1,False
+2025-07-17,5.53,Starbucks,Dining,200.0,7,3,29,14,0,2,1,False
+2025-07-18,14.11,Starbucks,Dining,200.0,7,4,29,14,0,2,1,False
+2025-07-18,165.26,Amazon,Shopping,300.0,7,4,29,2,4,5,1,False
+2025-07-18,21.37,Nike,Shopping,300.0,7,4,29,11,4,2,1,False
+2025-07-18,13.2,Netflix,Entertainment,100.0,7,4,29,10,1,2,1,False
+2025-07-18,193.25,Whole Foods,Groceries,400.0,7,4,29,19,2,0,1,False
+2025-07-18,116.09,Starbucks,Dining,200.0,7,4,29,14,0,2,1,False
+2025-07-18,181.48,Target,Shopping,300.0,7,4,29,15,4,0,1,False
+2025-07-18,182.41,Gym Membership,Health,100.0,7,4,29,7,3,5,1,False
+2025-07-19,189.57,Uber,Transport,150.0,7,5,29,17,5,0,1,False
+2025-07-19,28.35,Trader Joes,Groceries,400.0,7,5,29,16,2,2,1,False
+2025-07-19,177.33,Netflix,Entertainment,100.0,7,5,29,10,1,5,1,False
+2025-07-19,6.11,CVS Pharmacy,Health,100.0,7,5,29,3,3,6,1,False
+2025-07-19,184.08,Gym Membership,Health,100.0,7,5,29,7,3,5,1,False
+2025-07-19,66.52,Kroger,Groceries,400.0,7,5,29,8,2,6,1,False
+2025-07-19,178.86,Trader Joes,Groceries,400.0,7,5,29,16,2,0,1,False
+2025-07-20,152.56,Duke Energy,Utilities,200.0,7,6,29,6,6,5,1,False
+2025-07-20,154.29,Duke Energy,Utilities,200.0,7,6,29,6,6,5,1,False
+2025-07-20,190.91,Kroger,Groceries,400.0,7,6,29,8,2,5,1,False
+2025-07-20,168.95,Trader Joes,Groceries,400.0,7,6,29,16,2,0,1,False
+2025-07-20,135.41,McDonalds,Dining,200.0,7,6,29,9,0,5,1,False
+2025-07-20,88.31,Uber,Transport,150.0,7,6,29,17,5,2,1,False
+2025-07-21,143.21,Duke Energy,Utilities,200.0,7,0,30,6,6,3,1,False
+2025-07-21,82.97,Delta Airlines,Transport,150.0,7,0,30,5,5,4,1,False
+2025-07-21,19.64,Target,Shopping,300.0,7,0,30,15,4,4,1,False
+2025-07-21,118.1,Shell Gas,Transport,150.0,7,0,30,12,5,1,1,False
+2025-07-21,24.9,McDonalds,Dining,200.0,7,0,30,9,0,4,1,False
+2025-07-22,15.85,Gym Membership,Health,100.0,7,1,30,7,3,4,1,False
+2025-07-22,96.1,Duke Energy,Utilities,200.0,7,1,30,6,6,4,1,False
+2025-07-22,5.19,Target,Shopping,300.0,7,1,30,15,4,4,1,False
+2025-07-22,59.81,Uber,Transport,150.0,7,1,30,17,5,4,1,False
+2025-07-22,24.93,Shell Gas,Transport,150.0,7,1,30,12,5,4,1,False
+2025-07-22,118.53,Whole Foods,Groceries,400.0,7,1,30,19,2,1,1,False
+2025-07-22,138.22,AMC Theaters,Entertainment,100.0,7,1,30,0,1,3,1,False
+2025-07-22,172.75,Uber,Transport,150.0,7,1,30,17,5,1,1,False
+2025-07-22,113.11,Nike,Shopping,300.0,7,1,30,11,4,1,1,False
+2025-07-22,78.67,Kroger,Groceries,400.0,7,1,30,8,2,4,1,False
+2025-07-23,58.74,AT&T,Utilities,200.0,7,2,30,1,6,4,1,False
+2025-07-23,162.3,AT&T,Utilities,200.0,7,2,30,1,6,3,1,False
+2025-07-23,179.27,Spotify,Entertainment,100.0,7,2,30,13,1,1,1,False
+2025-07-23,152.3,Trader Joes,Groceries,400.0,7,2,30,16,2,1,1,False
+2025-07-24,117.52,Netflix,Entertainment,100.0,7,3,30,10,1,1,1,False
+2025-07-24,135.09,Water Dept,Utilities,200.0,7,3,30,18,6,1,1,False
+2025-07-24,72.5,AMC Theaters,Entertainment,100.0,7,3,30,0,1,6,1,False
+2025-07-24,198.99,AT&T,Utilities,200.0,7,3,30,1,6,3,1,False
+2025-07-24,132.39,Delta Airlines,Transport,150.0,7,3,30,5,5,5,1,False
+2025-07-24,93.8,Target,Shopping,300.0,7,3,30,15,4,2,1,False
+2025-07-24,126.82,Netflix,Entertainment,100.0,7,3,30,10,1,1,1,False
+2025-07-25,142.97,Chipotle,Dining,200.0,7,4,30,4,0,5,1,False
+2025-07-25,99.36,Trader Joes,Groceries,400.0,7,4,30,16,2,2,1,False
+2025-07-25,134.54,Water Dept,Utilities,200.0,7,4,30,18,6,0,1,False
+2025-07-25,57.27,Target,Shopping,300.0,7,4,30,15,4,2,1,False
+2025-07-25,24.17,Shell Gas,Transport,150.0,7,4,30,12,5,2,1,False
+2025-07-25,14.06,Trader Joes,Groceries,400.0,7,4,30,16,2,2,1,False
+2025-07-25,85.44,AMC Theaters,Entertainment,100.0,7,4,30,0,1,6,1,False
+2025-07-26,94.5,Netflix,Entertainment,100.0,7,5,30,10,1,2,1,False
+2025-07-26,188.99,Trader Joes,Groceries,400.0,7,5,30,16,2,0,1,False
+2025-07-26,72.82,Trader Joes,Groceries,400.0,7,5,30,16,2,2,1,False
+2025-07-26,101.7,AMC Theaters,Entertainment,100.0,7,5,30,0,1,5,1,False
+2025-07-26,183.11,Starbucks,Dining,200.0,7,5,30,14,0,0,1,False
+2025-07-26,136.92,Kroger,Groceries,400.0,7,5,30,8,2,5,1,False
+2025-07-27,122.69,Nike,Shopping,300.0,7,6,30,11,4,5,1,False
+2025-07-27,69.53,Starbucks,Dining,200.0,7,6,30,14,0,2,1,False
+2025-07-27,167.91,AT&T,Utilities,200.0,7,6,30,1,6,5,1,False
+2025-07-27,33.14,Starbucks,Dining,200.0,7,6,30,14,0,2,1,False
+2025-07-28,121.77,Uber,Transport,150.0,7,0,31,17,5,1,1,False
+2025-07-28,119.33,Shell Gas,Transport,150.0,7,0,31,12,5,1,1,False
+2025-07-28,183.12,Spotify,Entertainment,100.0,7,0,31,13,1,1,1,False
+2025-07-28,139.55,Chipotle,Dining,200.0,7,0,31,4,0,3,1,False
+2025-07-28,194.32,Whole Foods,Groceries,400.0,7,0,31,19,2,1,-1,True
+2025-07-28,102.02,Starbucks,Dining,200.0,7,0,31,14,0,1,1,False
+2025-07-28,93.75,Uber,Transport,150.0,7,0,31,17,5,1,1,False
+2025-07-28,181.89,CVS Pharmacy,Health,100.0,7,0,31,3,3,3,1,False
+2025-07-29,76.58,Target,Shopping,300.0,7,1,31,15,4,4,1,False
+2025-07-29,159.44,Duke Energy,Utilities,200.0,7,1,31,6,6,3,1,False
+2025-07-29,30.87,Target,Shopping,300.0,7,1,31,15,4,4,1,False
+2025-07-29,31.09,Trader Joes,Groceries,400.0,7,1,31,16,2,4,1,False
+2025-07-29,66.27,Shell Gas,Transport,150.0,7,1,31,12,5,4,1,False
+2025-07-29,173.34,Kroger,Groceries,400.0,7,1,31,8,2,3,1,False
+2025-07-30,11.04,Spotify,Entertainment,100.0,7,2,31,13,1,4,1,False
+2025-07-30,7.81,Gym Membership,Health,100.0,7,2,31,7,3,4,1,False
+2025-07-30,171.03,McDonalds,Dining,200.0,7,2,31,9,0,3,1,False
+2025-07-30,93.37,Duke Energy,Utilities,200.0,7,2,31,6,6,4,1,False
+2025-07-30,91.2,Spotify,Entertainment,100.0,7,2,31,13,1,1,1,False
+2025-07-31,8.81,Target,Shopping,300.0,7,3,31,15,4,2,1,False
+2025-07-31,19.64,Trader Joes,Groceries,400.0,7,3,31,16,2,2,1,False
+2025-08-01,125.98,McDonalds,Dining,200.0,8,4,31,9,0,5,1,False
+2025-08-01,28.49,CVS Pharmacy,Health,100.0,8,4,31,3,3,6,1,False
+2025-08-01,12.98,CVS Pharmacy,Health,100.0,8,4,31,3,3,6,1,False
+2025-08-01,93.32,Duke Energy,Utilities,200.0,8,4,31,6,6,5,1,False
+2025-08-01,198.6,Target,Shopping,300.0,8,4,31,15,4,0,1,False
+2025-08-01,105.8,Whole Foods,Groceries,400.0,8,4,31,19,2,2,1,False
+2025-08-02,39.66,Water Dept,Utilities,200.0,8,5,31,18,6,2,1,False
+2025-08-02,158.55,McDonalds,Dining,200.0,8,5,31,9,0,5,1,False
+2025-08-03,9.88,Netflix,Entertainment,100.0,8,6,31,10,1,2,1,False
+2025-08-03,184.35,Delta Airlines,Transport,150.0,8,6,31,5,5,5,1,False
+2025-08-03,179.48,Delta Airlines,Transport,150.0,8,6,31,5,5,5,1,False
+2025-08-03,196.8,Whole Foods,Groceries,400.0,8,6,31,19,2,0,-1,True
+2025-08-03,111.74,AMC Theaters,Entertainment,100.0,8,6,31,0,1,5,1,False
+2025-08-04,194.98,Chipotle,Dining,200.0,8,0,32,4,0,3,1,False
+2025-08-04,89.48,McDonalds,Dining,200.0,8,0,32,9,0,4,1,False
+2025-08-04,71.89,AMC Theaters,Entertainment,100.0,8,0,32,0,1,4,1,False
+2025-08-05,67.85,Duke Energy,Utilities,200.0,8,1,32,6,6,4,1,False
+2025-08-05,24.98,Gym Membership,Health,100.0,8,1,32,7,3,4,1,False
+2025-08-05,102.47,Kroger,Groceries,400.0,8,1,32,8,2,4,1,False
+2025-08-05,162.75,Water Dept,Utilities,200.0,8,1,32,18,6,1,1,False
+2025-08-05,168.71,Kroger,Groceries,400.0,8,1,32,8,2,3,1,False
+2025-08-05,27.6,AT&T,Utilities,200.0,8,1,32,1,6,4,1,False
+2025-08-05,58.33,AT&T,Utilities,200.0,8,1,32,1,6,4,1,False
+2025-08-06,76.75,Gym Membership,Health,100.0,8,2,32,7,3,4,1,False
+2025-08-06,37.46,CVS Pharmacy,Health,100.0,8,2,32,3,3,4,1,False
+2025-08-06,176.78,Nike,Shopping,300.0,8,2,32,11,4,1,1,False
+2025-08-06,172.67,Whole Foods,Groceries,400.0,8,2,32,19,2,1,1,False
+2025-08-06,73.86,Netflix,Entertainment,100.0,8,2,32,10,1,4,1,False
+2025-08-06,178.4,Delta Airlines,Transport,150.0,8,2,32,5,5,3,1,False
+2025-08-07,42.67,Chipotle,Dining,200.0,8,3,32,4,0,4,1,False
+2025-08-07,165.61,McDonalds,Dining,200.0,8,3,32,9,0,5,1,False
+2025-08-07,22.78,Duke Energy,Utilities,200.0,8,3,32,6,6,4,1,False
+2025-08-07,137.62,Uber,Transport,150.0,8,3,32,17,5,1,1,False
+2025-08-08,172.9,Duke Energy,Utilities,200.0,8,4,32,6,6,5,1,False
+2025-08-08,10.56,Uber,Transport,150.0,8,4,32,17,5,2,1,False
+2025-08-08,167.47,Duke Energy,Utilities,200.0,8,4,32,6,6,5,1,False
+2025-08-08,20.69,Shell Gas,Transport,150.0,8,4,32,12,5,2,1,False
+2025-08-08,61.33,Nike,Shopping,300.0,8,4,32,11,4,2,1,False
+2025-08-09,17.78,McDonalds,Dining,200.0,8,5,32,9,0,2,1,False
+2025-08-09,60.43,Whole Foods,Groceries,400.0,8,5,32,19,2,2,1,False
+2025-08-09,176.68,Shell Gas,Transport,150.0,8,5,32,12,5,5,1,False
+2025-08-09,71.76,Netflix,Entertainment,100.0,8,5,32,10,1,2,1,False
+2025-08-09,184.95,AT&T,Utilities,200.0,8,5,32,1,6,5,1,False
+2025-08-09,95.61,Target,Shopping,300.0,8,5,32,15,4,2,1,False
+2025-08-09,50.9,Nike,Shopping,300.0,8,5,32,11,4,2,1,False
+2025-08-10,130.52,Chipotle,Dining,200.0,8,6,32,4,0,5,1,False
+2025-08-10,123.08,CVS Pharmacy,Health,100.0,8,6,32,3,3,5,1,False
+2025-08-10,59.85,Amazon,Shopping,300.0,8,6,32,2,4,6,1,False
+2025-08-10,66.7,Gym Membership,Health,100.0,8,6,32,7,3,6,1,False
+2025-08-10,190.69,Delta Airlines,Transport,150.0,8,6,32,5,5,5,1,False
+2025-08-10,146.34,Kroger,Groceries,400.0,8,6,32,8,2,5,1,False
+2025-08-11,195.11,Spotify,Entertainment,100.0,8,0,33,13,1,1,1,False
+2025-08-11,165.21,CVS Pharmacy,Health,100.0,8,0,33,3,3,3,1,False
+2025-08-11,122.52,Duke Energy,Utilities,200.0,8,0,33,6,6,3,1,False
+2025-08-11,149.79,Whole Foods,Groceries,400.0,8,0,33,19,2,1,1,False
+2025-08-11,91.53,McDonalds,Dining,200.0,8,0,33,9,0,4,1,False
+2025-08-11,181.06,Kroger,Groceries,400.0,8,0,33,8,2,3,1,False
+2025-08-11,80.04,Delta Airlines,Transport,150.0,8,0,33,5,5,4,1,False
+2025-08-11,138.44,Uber,Transport,150.0,8,0,33,17,5,1,1,False
+2025-08-11,25.4,Spotify,Entertainment,100.0,8,0,33,13,1,4,1,False
+2025-08-11,123.55,Nike,Shopping,300.0,8,0,33,11,4,1,1,False
+2025-08-12,18.06,Water Dept,Utilities,200.0,8,1,33,18,6,4,1,False
+2025-08-12,144.61,Gym Membership,Health,100.0,8,1,33,7,3,3,1,False
+2025-08-12,103.22,Delta Airlines,Transport,150.0,8,1,33,5,5,4,1,False
+2025-08-12,198.45,Trader Joes,Groceries,400.0,8,1,33,16,2,1,1,False
+2025-08-12,29.76,Starbucks,Dining,200.0,8,1,33,14,0,4,1,False
+2025-08-12,139.92,Shell Gas,Transport,150.0,8,1,33,12,5,1,1,False
+2025-08-12,23.33,CVS Pharmacy,Health,100.0,8,1,33,3,3,4,1,False
+2025-08-13,45.47,Delta Airlines,Transport,150.0,8,2,33,5,5,4,1,False
+2025-08-13,13.19,Delta Airlines,Transport,150.0,8,2,33,5,5,4,1,False
+2025-08-14,8.41,Nike,Shopping,300.0,8,3,33,11,4,4,1,False
+2025-08-14,11.53,Trader Joes,Groceries,400.0,8,3,33,16,2,2,1,False
+2025-08-14,115.71,Delta Airlines,Transport,150.0,8,3,33,5,5,5,1,False
+2025-08-14,21.99,Gym Membership,Health,100.0,8,3,33,7,3,4,1,False
+2025-08-14,130.17,CVS Pharmacy,Health,100.0,8,3,33,3,3,5,1,False
+2025-08-14,30.93,Chipotle,Dining,200.0,8,3,33,4,0,4,1,False
+2025-08-14,152.87,Whole Foods,Groceries,400.0,8,3,33,19,2,1,1,False
+2025-08-15,98.43,Target,Shopping,300.0,8,4,33,15,4,2,1,False
+2025-08-15,44.32,Uber,Transport,150.0,8,4,33,17,5,2,1,False
+2025-08-15,127.8,CVS Pharmacy,Health,100.0,8,4,33,3,3,5,1,False
+2025-08-15,44.96,Starbucks,Dining,200.0,8,4,33,14,0,2,1,False
+2025-08-15,124.22,McDonalds,Dining,200.0,8,4,33,9,0,5,1,False
+2025-08-16,71.01,Amazon,Shopping,300.0,8,5,33,2,4,5,1,False
+2025-08-16,81.76,Water Dept,Utilities,200.0,8,5,33,18,6,2,1,False
+2025-08-17,194.21,CVS Pharmacy,Health,100.0,8,6,33,3,3,5,1,False
+2025-08-17,125.75,Netflix,Entertainment,100.0,8,6,33,10,1,5,1,False
+2025-08-17,175.14,Water Dept,Utilities,200.0,8,6,33,18,6,0,1,False
+2025-08-17,58.63,Duke Energy,Utilities,200.0,8,6,33,6,6,6,1,False
+2025-08-17,72.39,Spotify,Entertainment,100.0,8,6,33,13,1,2,1,False
+2025-08-17,138.34,AT&T,Utilities,200.0,8,6,33,1,6,5,1,False
+2025-08-17,9.16,Chipotle,Dining,200.0,8,6,33,4,0,6,1,False
+2025-08-18,104.11,Whole Foods,Groceries,400.0,8,0,34,19,2,1,1,False
+2025-08-18,166.84,Shell Gas,Transport,150.0,8,0,34,12,5,1,1,False
+2025-08-18,9.13,Amazon,Shopping,300.0,8,0,34,2,4,4,1,False
+2025-08-18,23.67,Kroger,Groceries,400.0,8,0,34,8,2,4,1,False
+2025-08-18,7.53,Whole Foods,Groceries,400.0,8,0,34,19,2,4,-1,True
+2025-08-18,191.62,AT&T,Utilities,200.0,8,0,34,1,6,3,-1,True
+2025-08-18,127.08,AT&T,Utilities,200.0,8,0,34,1,6,3,1,False
+2025-08-19,48.73,Kroger,Groceries,400.0,8,1,34,8,2,4,1,False
+2025-08-19,194.55,Uber,Transport,150.0,8,1,34,17,5,1,1,False
+2025-08-19,177.28,Spotify,Entertainment,100.0,8,1,34,13,1,1,1,False
+2025-08-19,153.18,Duke Energy,Utilities,200.0,8,1,34,6,6,3,1,False
+2025-08-20,125.97,Starbucks,Dining,200.0,8,2,34,14,0,1,1,False
+2025-08-20,142.29,CVS Pharmacy,Health,100.0,8,2,34,3,3,3,1,False
+2025-08-20,12.74,Uber,Transport,150.0,8,2,34,17,5,2,1,False
+2025-08-20,127.18,AT&T,Utilities,200.0,8,2,34,1,6,3,1,False
+2025-08-20,67.59,Chipotle,Dining,200.0,8,2,34,4,0,4,1,False
+2025-08-20,157.77,Spotify,Entertainment,100.0,8,2,34,13,1,1,1,False
+2025-08-21,24.8,Nike,Shopping,300.0,8,3,34,11,4,2,1,False
+2025-08-21,106.02,Target,Shopping,300.0,8,3,34,15,4,1,1,False
+2025-08-21,16.67,CVS Pharmacy,Health,100.0,8,3,34,3,3,4,1,False
+2025-08-21,111.83,Uber,Transport,150.0,8,3,34,17,5,1,1,False
+2025-08-21,146.21,Duke Energy,Utilities,200.0,8,3,34,6,6,5,1,False
+2025-08-21,57.25,Starbucks,Dining,200.0,8,3,34,14,0,2,1,False
+2025-08-21,126.72,Duke Energy,Utilities,200.0,8,3,34,6,6,5,1,False
+2025-08-21,31.34,AMC Theaters,Entertainment,100.0,8,3,34,0,1,6,1,False
+2025-08-21,76.84,Nike,Shopping,300.0,8,3,34,11,4,2,1,False
+2025-08-21,67.26,Nike,Shopping,300.0,8,3,34,11,4,2,1,False
+2025-08-22,117.61,McDonalds,Dining,200.0,8,4,34,9,0,5,1,False
+2025-08-22,135.78,CVS Pharmacy,Health,100.0,8,4,34,3,3,5,1,False
+2025-08-22,42.96,Duke Energy,Utilities,200.0,8,4,34,6,6,6,1,False
+2025-08-22,173.67,Nike,Shopping,300.0,8,4,34,11,4,5,1,False
+2025-08-23,19.29,Delta Airlines,Transport,150.0,8,5,34,5,5,6,1,False
+2025-08-23,153.43,Gym Membership,Health,100.0,8,5,34,7,3,5,1,False
+2025-08-23,54.77,Chipotle,Dining,200.0,8,5,34,4,0,6,1,False
+2025-08-23,8.57,Gym Membership,Health,100.0,8,5,34,7,3,2,1,False
+2025-08-23,143.36,Kroger,Groceries,400.0,8,5,34,8,2,5,1,False
+2025-08-24,17.64,AT&T,Utilities,200.0,8,6,34,1,6,6,1,False
+2025-08-24,50.33,Trader Joes,Groceries,400.0,8,6,34,16,2,2,1,False
+2025-08-24,24.04,McDonalds,Dining,200.0,8,6,34,9,0,2,1,False
+2025-08-24,26.34,Starbucks,Dining,200.0,8,6,34,14,0,2,1,False
+2025-08-24,177.96,Gym Membership,Health,100.0,8,6,34,7,3,5,1,False
+2025-08-24,128.95,Water Dept,Utilities,200.0,8,6,34,18,6,2,1,False
+2025-08-24,134.75,Spotify,Entertainment,100.0,8,6,34,13,1,5,1,False
+2025-08-25,13.67,Kroger,Groceries,400.0,8,0,35,8,2,4,1,False
+2025-08-25,199.24,Amazon,Shopping,300.0,8,0,35,2,4,3,-1,True
+2025-08-25,175.23,Water Dept,Utilities,200.0,8,0,35,18,6,1,1,False
+2025-08-25,178.43,Netflix,Entertainment,100.0,8,0,35,10,1,1,1,False
+2025-08-26,165.96,Delta Airlines,Transport,150.0,8,1,35,5,5,3,1,False
+2025-08-26,15.82,Netflix,Entertainment,100.0,8,1,35,10,1,4,1,False
+2025-08-26,174.75,Kroger,Groceries,400.0,8,1,35,8,2,3,1,False
+2025-08-26,67.68,Amazon,Shopping,300.0,8,1,35,2,4,4,1,False
+2025-08-26,60.93,Kroger,Groceries,400.0,8,1,35,8,2,4,1,False
+2025-08-26,87.62,Target,Shopping,300.0,8,1,35,15,4,1,1,False
+2025-08-26,42.58,Netflix,Entertainment,100.0,8,1,35,10,1,4,1,False
+2025-08-27,25.86,Shell Gas,Transport,150.0,8,2,35,12,5,4,1,False
+2025-08-27,174.83,AMC Theaters,Entertainment,100.0,8,2,35,0,1,3,1,False
+2025-08-27,183.89,Starbucks,Dining,200.0,8,2,35,14,0,1,1,False
+2025-08-28,75.12,Kroger,Groceries,400.0,8,3,35,8,2,4,1,False
+2025-08-28,153.95,CVS Pharmacy,Health,100.0,8,3,35,3,3,5,1,False
+2025-08-28,31.77,Starbucks,Dining,200.0,8,3,35,14,0,2,1,False
+2025-08-28,74.93,Trader Joes,Groceries,400.0,8,3,35,16,2,2,1,False
+2025-08-28,8.22,McDonalds,Dining,200.0,8,3,35,9,0,4,1,False
+2025-08-29,132.73,Amazon,Shopping,300.0,8,4,35,2,4,5,1,False
+2025-08-29,122.11,Shell Gas,Transport,150.0,8,4,35,12,5,2,1,False
+2025-08-29,126.59,Shell Gas,Transport,150.0,8,4,35,12,5,5,1,False
+2025-08-29,179.42,Amazon,Shopping,300.0,8,4,35,2,4,5,1,False
+2025-08-29,42.75,Nike,Shopping,300.0,8,4,35,11,4,2,1,False
+2025-08-29,138.56,Amazon,Shopping,300.0,8,4,35,2,4,5,1,False
+2025-08-30,128.69,Uber,Transport,150.0,8,5,35,17,5,2,1,False
+2025-08-30,129.55,McDonalds,Dining,200.0,8,5,35,9,0,5,1,False
+2025-08-30,72.18,Chipotle,Dining,200.0,8,5,35,4,0,5,1,False
+2025-08-30,124.98,Delta Airlines,Transport,150.0,8,5,35,5,5,5,1,False
+2025-08-30,41.29,Trader Joes,Groceries,400.0,8,5,35,16,2,2,1,False
+2025-08-30,48.29,Shell Gas,Transport,150.0,8,5,35,12,5,2,1,False
+2025-08-30,141.14,Spotify,Entertainment,100.0,8,5,35,13,1,5,1,False
+2025-08-30,188.79,CVS Pharmacy,Health,100.0,8,5,35,3,3,5,1,False
+2025-08-31,107.1,Delta Airlines,Transport,150.0,8,6,35,5,5,5,1,False
+2025-08-31,143.71,Spotify,Entertainment,100.0,8,6,35,13,1,5,1,False
+2025-08-31,37.22,Kroger,Groceries,400.0,8,6,35,8,2,2,1,False
+2025-08-31,25.51,Target,Shopping,300.0,8,6,35,15,4,2,1,False
+2025-08-31,19.99,Whole Foods,Groceries,400.0,8,6,35,19,2,2,-1,True
+2025-08-31,7.1,CVS Pharmacy,Health,100.0,8,6,35,3,3,6,1,False
+2025-09-01,171.78,Kroger,Groceries,400.0,9,0,36,8,2,1,1,False
+2025-09-01,66.76,Spotify,Entertainment,100.0,9,0,36,13,1,4,1,False
+2025-09-01,176.53,Kroger,Groceries,400.0,9,0,36,8,2,1,1,False
+2025-09-01,26.55,Amazon,Shopping,300.0,9,0,36,2,4,4,1,False
+2025-09-01,123.03,Kroger,Groceries,400.0,9,0,36,8,2,1,1,False
+2025-09-01,83.26,Trader Joes,Groceries,400.0,9,0,36,16,2,1,1,False
+2025-09-02,30.33,Netflix,Entertainment,100.0,9,1,36,10,1,4,1,False
+2025-09-02,160.24,CVS Pharmacy,Health,100.0,9,1,36,3,3,3,1,False
+2025-09-02,119.09,Whole Foods,Groceries,400.0,9,1,36,19,2,1,1,False
+2025-09-02,83.27,Netflix,Entertainment,100.0,9,1,36,10,1,4,1,False
+2025-09-02,143.39,Chipotle,Dining,200.0,9,1,36,4,0,3,1,False
+2025-09-02,190.43,Whole Foods,Groceries,400.0,9,1,36,19,2,1,1,False
+2025-09-02,102.82,Trader Joes,Groceries,400.0,9,1,36,16,2,1,1,False
+2025-09-02,115.63,Gym Membership,Health,100.0,9,1,36,7,3,1,1,False
+2025-09-02,114.51,Water Dept,Utilities,200.0,9,1,36,18,6,1,1,False
+2025-09-02,151.97,Amazon,Shopping,300.0,9,1,36,2,4,3,1,False
+2025-09-03,69.34,Delta Airlines,Transport,150.0,9,2,36,5,5,4,1,False
+2025-09-03,161.96,Netflix,Entertainment,100.0,9,2,36,10,1,1,1,False
+2025-09-03,197.55,Target,Shopping,300.0,9,2,36,15,4,1,1,False
+2025-09-03,103.65,Whole Foods,Groceries,400.0,9,2,36,19,2,1,1,False
+2025-09-03,108.16,Spotify,Entertainment,100.0,9,2,36,13,1,1,1,False
+2025-09-03,29.55,Water Dept,Utilities,200.0,9,2,36,18,6,2,1,False
+2025-09-04,79.53,Amazon,Shopping,300.0,9,3,36,2,4,5,1,False
+2025-09-04,163.33,Starbucks,Dining,200.0,9,3,36,14,0,1,1,False
+2025-09-04,80.29,Chipotle,Dining,200.0,9,3,36,4,0,5,1,False
+2025-09-04,111.63,Amazon,Shopping,300.0,9,3,36,2,4,5,1,False
+2025-09-04,83.47,Duke Energy,Utilities,200.0,9,3,36,6,6,5,1,False
+2025-09-04,10.9,AT&T,Utilities,200.0,9,3,36,1,6,4,1,False
+2025-09-04,79.66,Uber,Transport,150.0,9,3,36,17,5,2,1,False
+2025-09-05,170.96,Chipotle,Dining,200.0,9,4,36,4,0,5,1,False
+2025-09-05,78.01,Spotify,Entertainment,100.0,9,4,36,13,1,2,1,False
+2025-09-05,104.94,Spotify,Entertainment,100.0,9,4,36,13,1,2,1,False
+2025-09-06,168.99,Nike,Shopping,300.0,9,5,36,11,4,5,1,False
+2025-09-06,13.25,Amazon,Shopping,300.0,9,5,36,2,4,6,1,False
+2025-09-07,99.28,Amazon,Shopping,300.0,9,6,36,2,4,5,1,False
+2025-09-07,63.78,AT&T,Utilities,200.0,9,6,36,1,6,5,1,False
+2025-09-07,127.33,CVS Pharmacy,Health,100.0,9,6,36,3,3,5,1,False
+2025-09-07,120.4,Delta Airlines,Transport,150.0,9,6,36,5,5,5,1,False
+2025-09-07,55.92,Trader Joes,Groceries,400.0,9,6,36,16,2,2,1,False
+2025-09-07,93.87,CVS Pharmacy,Health,100.0,9,6,36,3,3,5,1,False
+2025-09-07,157.37,Kroger,Groceries,400.0,9,6,36,8,2,5,1,False
+2025-09-07,94.02,Duke Energy,Utilities,200.0,9,6,36,6,6,5,1,False
+2025-09-07,31.78,Amazon,Shopping,300.0,9,6,36,2,4,6,1,False
+2025-09-08,84.99,Trader Joes,Groceries,400.0,9,0,37,16,2,1,1,False
+2025-09-08,188.99,McDonalds,Dining,200.0,9,0,37,9,0,1,1,False
+2025-09-08,130.77,CVS Pharmacy,Health,100.0,9,0,37,3,3,3,1,False
+2025-09-08,178.9,Gym Membership,Health,100.0,9,0,37,7,3,1,1,False
+2025-09-08,10.81,Delta Airlines,Transport,150.0,9,0,37,5,5,4,1,False
+2025-09-08,39.36,Starbucks,Dining,200.0,9,0,37,14,0,4,1,False
+2025-09-08,125.45,Uber,Transport,150.0,9,0,37,17,5,1,1,False
+2025-09-08,61.09,Uber,Transport,150.0,9,0,37,17,5,1,1,False
+2025-09-09,28.92,McDonalds,Dining,200.0,9,1,37,9,0,4,1,False
+2025-09-09,182.4,Spotify,Entertainment,100.0,9,1,37,13,1,1,1,False
+2025-09-09,148.77,Amazon,Shopping,300.0,9,1,37,2,4,3,1,False
+2025-09-09,50.04,Starbucks,Dining,200.0,9,1,37,14,0,4,1,False
+2025-09-09,118.98,McDonalds,Dining,200.0,9,1,37,9,0,1,1,False
+2025-09-10,11.27,Nike,Shopping,300.0,9,2,37,11,4,4,1,False
+2025-09-10,85.78,Delta Airlines,Transport,150.0,9,2,37,5,5,4,1,False
+2025-09-10,70.97,Amazon,Shopping,300.0,9,2,37,2,4,4,1,False
+2025-09-10,116.66,Spotify,Entertainment,100.0,9,2,37,13,1,1,1,False
+2025-09-10,46.89,Kroger,Groceries,400.0,9,2,37,8,2,4,1,False
+2025-09-10,93.93,Netflix,Entertainment,100.0,9,2,37,10,1,1,1,False
+2025-09-10,84.53,Nike,Shopping,300.0,9,2,37,11,4,1,1,False
+2025-09-11,57.13,Kroger,Groceries,400.0,9,3,37,8,2,4,1,False
+2025-09-11,155.22,Gym Membership,Health,100.0,9,3,37,7,3,5,1,False
+2025-09-11,198.38,Spotify,Entertainment,100.0,9,3,37,13,1,1,1,False
+2025-09-11,42.39,Trader Joes,Groceries,400.0,9,3,37,16,2,2,1,False
+2025-09-11,65.1,Netflix,Entertainment,100.0,9,3,37,10,1,2,1,False
+2025-09-11,88.3,Amazon,Shopping,300.0,9,3,37,2,4,5,1,False
+2025-09-11,90.7,Water Dept,Utilities,200.0,9,3,37,18,6,2,1,False
+2025-09-11,107.93,AMC Theaters,Entertainment,100.0,9,3,37,0,1,5,1,False
+2025-09-11,148.01,Water Dept,Utilities,200.0,9,3,37,18,6,1,1,False
+2025-09-12,38.16,Chipotle,Dining,200.0,9,4,37,4,0,6,1,False
+2025-09-12,175.52,Spotify,Entertainment,100.0,9,4,37,13,1,1,1,False
+2025-09-12,180.72,AT&T,Utilities,200.0,9,4,37,1,6,5,1,False
+2025-09-13,196.97,Kroger,Groceries,400.0,9,5,37,8,2,5,1,False
+2025-09-13,183.9,Delta Airlines,Transport,150.0,9,5,37,5,5,5,1,False
+2025-09-13,47.19,CVS Pharmacy,Health,100.0,9,5,37,3,3,6,1,False
+2025-09-13,12.11,Duke Energy,Utilities,200.0,9,5,37,6,6,2,1,False
+2025-09-13,138.59,Trader Joes,Groceries,400.0,9,5,37,16,2,2,1,False
+2025-09-14,74.71,Shell Gas,Transport,150.0,9,6,37,12,5,2,1,False
+2025-09-14,194.56,Duke Energy,Utilities,200.0,9,6,37,6,6,5,1,False
+2025-09-14,127.18,Uber,Transport,150.0,9,6,37,17,5,2,1,False
+2025-09-14,149.06,Spotify,Entertainment,100.0,9,6,37,13,1,5,1,False
+2025-09-14,141.52,Amazon,Shopping,300.0,9,6,37,2,4,5,1,False
+2025-09-14,57.39,McDonalds,Dining,200.0,9,6,37,9,0,2,1,False
+2025-09-15,100.67,Target,Shopping,300.0,9,0,38,15,4,1,1,False
+2025-09-15,83.53,Spotify,Entertainment,100.0,9,0,38,13,1,1,1,False
+2025-09-15,40.94,AT&T,Utilities,200.0,9,0,38,1,6,4,1,False
+2025-09-15,149.91,Nike,Shopping,300.0,9,0,38,11,4,1,1,False
+2025-09-15,14.5,Nike,Shopping,300.0,9,0,38,11,4,4,1,False
+2025-09-16,65.93,Uber,Transport,150.0,9,1,38,17,5,1,1,False
+2025-09-16,24.02,Netflix,Entertainment,100.0,9,1,38,10,1,4,1,False
+2025-09-16,56.34,Gym Membership,Health,100.0,9,1,38,7,3,4,1,False
+2025-09-17,82.42,Starbucks,Dining,200.0,9,2,38,14,0,1,1,False
+2025-09-17,136.1,Starbucks,Dining,200.0,9,2,38,14,0,1,1,False
+2025-09-17,149.06,Trader Joes,Groceries,400.0,9,2,38,16,2,1,1,False
+2025-09-18,143.46,Whole Foods,Groceries,400.0,9,3,38,19,2,1,1,False
+2025-09-18,22.39,Delta Airlines,Transport,150.0,9,3,38,5,5,4,1,False
+2025-09-18,118.71,Target,Shopping,300.0,9,3,38,15,4,1,1,False
+2025-09-18,132.94,Uber,Transport,150.0,9,3,38,17,5,1,1,False
+2025-09-18,112.62,McDonalds,Dining,200.0,9,3,38,9,0,5,1,False
+2025-09-18,197.39,Netflix,Entertainment,100.0,9,3,38,10,1,1,1,False
+2025-09-19,74.93,Duke Energy,Utilities,200.0,9,4,38,6,6,5,1,False
+2025-09-19,37.99,Spotify,Entertainment,100.0,9,4,38,13,1,2,1,False
+2025-09-19,128.95,CVS Pharmacy,Health,100.0,9,4,38,3,3,5,1,False
+2025-09-20,152.2,Netflix,Entertainment,100.0,9,5,38,10,1,5,1,False
+2025-09-20,80.57,Gym Membership,Health,100.0,9,5,38,7,3,5,1,False
+2025-09-20,11.1,Amazon,Shopping,300.0,9,5,38,2,4,6,1,False
+2025-09-20,41.77,AMC Theaters,Entertainment,100.0,9,5,38,0,1,6,1,False
+2025-09-20,154.12,Gym Membership,Health,100.0,9,5,38,7,3,5,1,False
+2025-09-20,97.09,Duke Energy,Utilities,200.0,9,5,38,6,6,5,1,False
+2025-09-20,190.89,Target,Shopping,300.0,9,5,38,15,4,5,1,False
+2025-09-21,161.59,Amazon,Shopping,300.0,9,6,38,2,4,5,1,False
+2025-09-21,88.33,Starbucks,Dining,200.0,9,6,38,14,0,2,1,False
+2025-09-21,19.98,Water Dept,Utilities,200.0,9,6,38,18,6,2,1,False
+2025-09-21,59.27,Chipotle,Dining,200.0,9,6,38,4,0,5,1,False
+2025-09-21,50.81,CVS Pharmacy,Health,100.0,9,6,38,3,3,5,1,False
+2025-09-21,157.75,Netflix,Entertainment,100.0,9,6,38,10,1,5,1,False
+2025-09-21,186.48,Nike,Shopping,300.0,9,6,38,11,4,5,1,False
+2025-09-22,170.31,Shell Gas,Transport,150.0,9,0,39,12,5,1,1,False
+2025-09-22,60.65,Chipotle,Dining,200.0,9,0,39,4,0,4,1,False
+2025-09-22,37.81,Shell Gas,Transport,150.0,9,0,39,12,5,4,1,False
+2025-09-23,149.9,Nike,Shopping,300.0,9,1,39,11,4,1,1,False
+2025-09-23,178.97,Chipotle,Dining,200.0,9,1,39,4,0,3,1,False
+2025-09-23,40.3,Spotify,Entertainment,100.0,9,1,39,13,1,4,1,False
+2025-09-23,35.95,Spotify,Entertainment,100.0,9,1,39,13,1,4,1,False
+2025-09-23,82.87,McDonalds,Dining,200.0,9,1,39,9,0,4,1,False
+2025-09-23,31.51,Delta Airlines,Transport,150.0,9,1,39,5,5,4,1,False
+2025-09-24,135.15,Gym Membership,Health,100.0,9,2,39,7,3,1,1,False
+2025-09-24,108.92,Uber,Transport,150.0,9,2,39,17,5,1,1,False
+2025-09-24,94.85,Nike,Shopping,300.0,9,2,39,11,4,1,1,False
+2025-09-24,170.65,Netflix,Entertainment,100.0,9,2,39,10,1,1,1,False
+2025-09-24,114.2,Trader Joes,Groceries,400.0,9,2,39,16,2,1,1,False
+2025-09-24,130.96,Netflix,Entertainment,100.0,9,2,39,10,1,1,1,False
+2025-09-24,104.92,Shell Gas,Transport,150.0,9,2,39,12,5,1,1,False
+2025-09-25,162.14,Duke Energy,Utilities,200.0,9,3,39,6,6,5,1,False
+2025-09-25,88.01,Spotify,Entertainment,100.0,9,3,39,13,1,2,1,False
+2025-09-25,123.78,Kroger,Groceries,400.0,9,3,39,8,2,5,1,False
+2025-09-25,63.26,Chipotle,Dining,200.0,9,3,39,4,0,4,1,False
+2025-09-25,153.09,Uber,Transport,150.0,9,3,39,17,5,1,1,False
+2025-09-25,93.86,Trader Joes,Groceries,400.0,9,3,39,16,2,2,1,False
+2025-09-25,67.97,Gym Membership,Health,100.0,9,3,39,7,3,4,1,False
+2025-09-25,51.55,Target,Shopping,300.0,9,3,39,15,4,2,1,False
+2025-09-26,110.59,Trader Joes,Groceries,400.0,9,4,39,16,2,2,1,False
+2025-09-26,90.9,Netflix,Entertainment,100.0,9,4,39,10,1,2,1,False
+2025-09-26,8.22,AMC Theaters,Entertainment,100.0,9,4,39,0,1,6,1,False
+2025-09-26,58.8,Amazon,Shopping,300.0,9,4,39,2,4,5,1,False
+2025-09-26,111.59,AMC Theaters,Entertainment,100.0,9,4,39,0,1,5,1,False
+2025-09-26,195.68,Starbucks,Dining,200.0,9,4,39,14,0,1,1,False
+2025-09-26,84.33,Target,Shopping,300.0,9,4,39,15,4,2,1,False
+2025-09-26,150.03,Chipotle,Dining,200.0,9,4,39,4,0,5,1,False
+2025-09-27,142.43,Starbucks,Dining,200.0,9,5,39,14,0,5,1,False
+2025-09-27,141.33,Whole Foods,Groceries,400.0,9,5,39,19,2,2,1,False
+2025-09-27,191.95,AMC Theaters,Entertainment,100.0,9,5,39,0,1,5,-1,True
+2025-09-27,165.43,Water Dept,Utilities,200.0,9,5,39,18,6,0,1,False
+2025-09-27,10.42,Delta Airlines,Transport,150.0,9,5,39,5,5,6,1,False
+2025-09-28,183.34,Starbucks,Dining,200.0,9,6,39,14,0,5,1,False
+2025-09-28,99.55,Amazon,Shopping,300.0,9,6,39,2,4,5,1,False
+2025-09-28,158.51,Shell Gas,Transport,150.0,9,6,39,12,5,5,1,False
+2025-09-28,121.63,Amazon,Shopping,300.0,9,6,39,2,4,5,1,False
+2025-09-28,82.26,Netflix,Entertainment,100.0,9,6,39,10,1,2,1,False
+2025-09-28,81.23,Delta Airlines,Transport,150.0,9,6,39,5,5,5,1,False
+2025-09-29,85.5,Nike,Shopping,300.0,9,0,40,11,4,4,1,False
+2025-09-29,172.75,Delta Airlines,Transport,150.0,9,0,40,5,5,3,1,False
+2025-09-29,121.46,Gym Membership,Health,100.0,9,0,40,7,3,1,1,False
+2025-09-30,121.2,Whole Foods,Groceries,400.0,9,1,40,19,2,1,1,False
+2025-09-30,108.49,AMC Theaters,Entertainment,100.0,9,1,40,0,1,3,1,False
+2025-09-30,61.79,Trader Joes,Groceries,400.0,9,1,40,16,2,1,1,False
+2025-09-30,61.82,Delta Airlines,Transport,150.0,9,1,40,5,5,4,1,False
+2025-09-30,17.28,AT&T,Utilities,200.0,9,1,40,1,6,4,1,False
+2025-09-30,56.87,Nike,Shopping,300.0,9,1,40,11,4,4,1,False
+2025-09-30,78.29,Whole Foods,Groceries,400.0,9,1,40,19,2,1,1,False
+2025-10-01,159.65,Kroger,Groceries,400.0,10,2,40,8,2,1,1,False
+2025-10-01,162.78,AMC Theaters,Entertainment,100.0,10,2,40,0,1,5,1,False
+2025-10-01,40.51,Starbucks,Dining,200.0,10,2,40,14,0,2,1,False
+2025-10-01,132.47,Duke Energy,Utilities,200.0,10,2,40,6,6,5,1,False
+2025-10-01,63.53,Trader Joes,Groceries,400.0,10,2,40,16,2,1,1,False
+2025-10-01,92.79,CVS Pharmacy,Health,100.0,10,2,40,3,3,5,1,False
+2025-10-01,148.94,Duke Energy,Utilities,200.0,10,2,40,6,6,5,1,False
+2025-10-02,20.84,Target,Shopping,300.0,10,3,40,15,4,2,1,False
+2025-10-02,127.22,AMC Theaters,Entertainment,100.0,10,3,40,0,1,5,1,False
+2025-10-02,159.36,Uber,Transport,150.0,10,3,40,17,5,1,1,False
+2025-10-02,151.59,McDonalds,Dining,200.0,10,3,40,9,0,5,1,False
+2025-10-02,92.65,Kroger,Groceries,400.0,10,3,40,8,2,5,1,False
+2025-10-02,52.68,Spotify,Entertainment,100.0,10,3,40,13,1,2,1,False
+2025-10-02,25.27,AMC Theaters,Entertainment,100.0,10,3,40,0,1,4,1,False
+2025-10-03,44.12,AT&T,Utilities,200.0,10,4,40,1,6,5,1,False
+2025-10-03,180.28,Duke Energy,Utilities,200.0,10,4,40,6,6,5,1,False
+2025-10-03,120.94,Water Dept,Utilities,200.0,10,4,40,18,6,2,1,False
+2025-10-03,124.29,Kroger,Groceries,400.0,10,4,40,8,2,5,1,False
+2025-10-03,164.47,Uber,Transport,150.0,10,4,40,17,5,1,1,False
+2025-10-04,91.33,Target,Shopping,300.0,10,5,40,15,4,2,1,False
+2025-10-04,135.67,Delta Airlines,Transport,150.0,10,5,40,5,5,5,1,False
+2025-10-04,40.1,Shell Gas,Transport,150.0,10,5,40,12,5,2,1,False
+2025-10-04,176.31,McDonalds,Dining,200.0,10,5,40,9,0,5,1,False
+2025-10-04,105.6,Amazon,Shopping,300.0,10,5,40,2,4,5,1,False
+2025-10-04,46.99,Trader Joes,Groceries,400.0,10,5,40,16,2,2,1,False
+2025-10-05,131.35,AMC Theaters,Entertainment,100.0,10,6,40,0,1,5,1,False
+2025-10-05,196.75,Chipotle,Dining,200.0,10,6,40,4,0,5,1,False
+2025-10-05,104.78,Shell Gas,Transport,150.0,10,6,40,12,5,2,1,False
+2025-10-05,34.2,Trader Joes,Groceries,400.0,10,6,40,16,2,2,1,False
+2025-10-05,113.57,Duke Energy,Utilities,200.0,10,6,40,6,6,5,1,False
+2025-10-05,99.22,Water Dept,Utilities,200.0,10,6,40,18,6,2,1,False
+2025-10-05,89.11,Amazon,Shopping,300.0,10,6,40,2,4,5,1,False
+2025-10-05,150.77,Trader Joes,Groceries,400.0,10,6,40,16,2,2,1,False
+2025-10-05,18.78,Gym Membership,Health,100.0,10,6,40,7,3,2,1,False
+2025-10-06,48.73,CVS Pharmacy,Health,100.0,10,0,41,3,3,4,1,False
+2025-10-06,153.6,Whole Foods,Groceries,400.0,10,0,41,19,2,1,1,False
+2025-10-06,169.41,Netflix,Entertainment,100.0,10,0,41,10,1,1,1,False
+2025-10-07,190.81,Nike,Shopping,300.0,10,1,41,11,4,1,1,False
+2025-10-07,48.71,Trader Joes,Groceries,400.0,10,1,41,16,2,4,1,False
+2025-10-07,145.39,Gym Membership,Health,100.0,10,1,41,7,3,1,1,False
+2025-10-07,20.45,Uber,Transport,150.0,10,1,41,17,5,4,1,False
+2025-10-07,158.96,Uber,Transport,150.0,10,1,41,17,5,1,1,False
+2025-10-07,47.78,AT&T,Utilities,200.0,10,1,41,1,6,4,1,False
+2025-10-08,171.46,Water Dept,Utilities,200.0,10,2,41,18,6,1,1,False
+2025-10-08,146.45,AMC Theaters,Entertainment,100.0,10,2,41,0,1,5,1,False
+2025-10-08,67.01,Starbucks,Dining,200.0,10,2,41,14,0,1,1,False
+2025-10-08,60.55,Spotify,Entertainment,100.0,10,2,41,13,1,4,1,False
+2025-10-08,168.98,Kroger,Groceries,400.0,10,2,41,8,2,1,1,False
+2025-10-08,66.51,Nike,Shopping,300.0,10,2,41,11,4,4,1,False
+2025-10-08,85.0,Netflix,Entertainment,100.0,10,2,41,10,1,1,1,False
+2025-10-08,137.17,Nike,Shopping,300.0,10,2,41,11,4,1,1,False
+2025-10-09,89.08,Whole Foods,Groceries,400.0,10,3,41,19,2,2,1,False
+2025-10-09,188.39,Trader Joes,Groceries,400.0,10,3,41,16,2,1,1,False
+2025-10-09,119.68,Whole Foods,Groceries,400.0,10,3,41,19,2,1,1,False
+2025-10-09,150.35,Amazon,Shopping,300.0,10,3,41,2,4,5,1,False
+2025-10-09,174.64,Uber,Transport,150.0,10,3,41,17,5,1,1,False
+2025-10-09,149.12,Amazon,Shopping,300.0,10,3,41,2,4,5,1,False
+2025-10-10,103.71,Starbucks,Dining,200.0,10,4,41,14,0,2,1,False
+2025-10-10,88.1,CVS Pharmacy,Health,100.0,10,4,41,3,3,5,1,False
+2025-10-10,123.91,Gym Membership,Health,100.0,10,4,41,7,3,5,1,False
+2025-10-10,84.74,CVS Pharmacy,Health,100.0,10,4,41,3,3,5,1,False
+2025-10-10,154.45,Shell Gas,Transport,150.0,10,4,41,12,5,5,1,False
+2025-10-10,63.9,Uber,Transport,150.0,10,4,41,17,5,2,1,False
+2025-10-10,184.6,Chipotle,Dining,200.0,10,4,41,4,0,5,1,False
+2025-10-11,178.58,McDonalds,Dining,200.0,10,5,41,9,0,5,1,False
+2025-10-11,39.03,Water Dept,Utilities,200.0,10,5,41,18,6,2,1,False
+2025-10-11,199.2,Whole Foods,Groceries,400.0,10,5,41,19,2,1,-1,True
+2025-10-11,47.47,Trader Joes,Groceries,400.0,10,5,41,16,2,2,1,False
+2025-10-11,17.95,Amazon,Shopping,300.0,10,5,41,2,4,6,1,False
+2025-10-11,111.26,Starbucks,Dining,200.0,10,5,41,14,0,2,1,False
+2025-10-11,73.37,Netflix,Entertainment,100.0,10,5,41,10,1,2,1,False
+2025-10-11,126.76,Delta Airlines,Transport,150.0,10,5,41,5,5,5,1,False
+2025-10-12,18.08,Spotify,Entertainment,100.0,10,6,41,13,1,2,1,False
+2025-10-12,192.91,Duke Energy,Utilities,200.0,10,6,41,6,6,5,1,False
+2025-10-12,79.78,Water Dept,Utilities,200.0,10,6,41,18,6,2,1,False
+2025-10-12,126.02,Trader Joes,Groceries,400.0,10,6,41,16,2,2,1,False
+2025-10-13,153.35,Trader Joes,Groceries,400.0,10,0,42,16,2,1,1,False
+2025-10-13,112.77,Netflix,Entertainment,100.0,10,0,42,10,1,1,1,False
+2025-10-13,30.33,Kroger,Groceries,400.0,10,0,42,8,2,4,1,False
+2025-10-13,78.3,Whole Foods,Groceries,400.0,10,0,42,19,2,1,1,False
+2025-10-13,45.72,Whole Foods,Groceries,400.0,10,0,42,19,2,1,1,False
+2025-10-13,169.89,Chipotle,Dining,200.0,10,0,42,4,0,3,1,False
+2025-10-14,61.84,Netflix,Entertainment,100.0,10,1,42,10,1,4,1,False
+2025-10-14,168.24,Shell Gas,Transport,150.0,10,1,42,12,5,1,1,False
+2025-10-14,124.6,Spotify,Entertainment,100.0,10,1,42,13,1,1,1,False
+2025-10-14,120.12,Netflix,Entertainment,100.0,10,1,42,10,1,1,1,False
+2025-10-14,123.94,CVS Pharmacy,Health,100.0,10,1,42,3,3,3,1,False
+2025-10-14,181.4,Target,Shopping,300.0,10,1,42,15,4,1,1,False
+2025-10-15,134.9,AT&T,Utilities,200.0,10,2,42,1,6,5,1,False
+2025-10-15,188.64,Chipotle,Dining,200.0,10,2,42,4,0,5,1,False
+2025-10-15,79.09,Gym Membership,Health,100.0,10,2,42,7,3,4,1,False
+2025-10-15,148.91,Spotify,Entertainment,100.0,10,2,42,13,1,1,1,False
+2025-10-15,13.71,AT&T,Utilities,200.0,10,2,42,1,6,4,1,False
+2025-10-15,65.77,AMC Theaters,Entertainment,100.0,10,2,42,0,1,4,1,False
+2025-10-15,49.92,Shell Gas,Transport,150.0,10,2,42,12,5,4,1,False
+2025-10-15,148.39,AT&T,Utilities,200.0,10,2,42,1,6,5,1,False
+2025-10-15,156.17,Duke Energy,Utilities,200.0,10,2,42,6,6,5,1,False
+2025-10-16,172.47,Shell Gas,Transport,150.0,10,3,42,12,5,1,1,False
+2025-10-16,159.42,Chipotle,Dining,200.0,10,3,42,4,0,5,1,False
+2025-10-16,91.31,Target,Shopping,300.0,10,3,42,15,4,2,1,False
+2025-10-16,144.03,Shell Gas,Transport,150.0,10,3,42,12,5,1,1,False
+2025-10-16,87.57,Spotify,Entertainment,100.0,10,3,42,13,1,2,1,False
+2025-10-16,105.89,Amazon,Shopping,300.0,10,3,42,2,4,5,1,False
+2025-10-16,156.93,Amazon,Shopping,300.0,10,3,42,2,4,5,1,False
+2025-10-17,43.67,Target,Shopping,300.0,10,4,42,15,4,2,1,False
+2025-10-17,21.54,Whole Foods,Groceries,400.0,10,4,42,19,2,2,1,False
+2025-10-17,68.05,Target,Shopping,300.0,10,4,42,15,4,2,1,False
+2025-10-17,22.25,Starbucks,Dining,200.0,10,4,42,14,0,2,1,False
+2025-10-17,41.49,Spotify,Entertainment,100.0,10,4,42,13,1,2,1,False
+2025-10-17,90.85,Starbucks,Dining,200.0,10,4,42,14,0,2,1,False
+2025-10-18,97.88,Kroger,Groceries,400.0,10,5,42,8,2,5,1,False
+2025-10-18,164.8,AMC Theaters,Entertainment,100.0,10,5,42,0,1,5,1,False
+2025-10-18,105.03,CVS Pharmacy,Health,100.0,10,5,42,3,3,5,1,False
+2025-10-18,7.12,Chipotle,Dining,200.0,10,5,42,4,0,2,1,False
+2025-10-18,47.72,Delta Airlines,Transport,150.0,10,5,42,5,5,5,1,False
+2025-10-18,5.86,Chipotle,Dining,200.0,10,5,42,4,0,2,1,False
+2025-10-18,176.48,McDonalds,Dining,200.0,10,5,42,9,0,5,1,False
+2025-10-18,42.71,Starbucks,Dining,200.0,10,5,42,14,0,2,1,False
+2025-10-19,56.88,Uber,Transport,150.0,10,6,42,17,5,2,1,False
+2025-10-19,140.73,CVS Pharmacy,Health,100.0,10,6,42,3,3,5,1,False
+2025-10-19,21.49,Uber,Transport,150.0,10,6,42,17,5,2,1,False
+2025-10-19,27.56,McDonalds,Dining,200.0,10,6,42,9,0,2,1,False
+2025-10-19,180.34,McDonalds,Dining,200.0,10,6,42,9,0,5,1,False
+2025-10-19,24.29,Whole Foods,Groceries,400.0,10,6,42,19,2,2,-1,True
+2025-10-20,47.34,Shell Gas,Transport,150.0,10,0,43,12,5,4,1,False
+2025-10-20,147.64,Delta Airlines,Transport,150.0,10,0,43,5,5,1,1,False
+2025-10-20,63.57,AMC Theaters,Entertainment,100.0,10,0,43,0,1,4,1,False
+2025-10-20,123.65,Delta Airlines,Transport,150.0,10,0,43,5,5,1,1,False
+2025-10-20,44.44,Chipotle,Dining,200.0,10,0,43,4,0,4,1,False
+2025-10-20,53.59,McDonalds,Dining,200.0,10,0,43,9,0,4,1,False
+2025-10-20,108.11,Whole Foods,Groceries,400.0,10,0,43,19,2,1,1,False
+2025-10-21,77.04,McDonalds,Dining,200.0,10,1,43,9,0,4,1,False
+2025-10-21,6.05,Starbucks,Dining,200.0,10,1,43,14,0,4,1,False
+2025-10-21,155.61,Kroger,Groceries,400.0,10,1,43,8,2,1,1,False
+2025-10-21,10.36,CVS Pharmacy,Health,100.0,10,1,43,3,3,4,1,False
+2025-10-21,86.15,Gym Membership,Health,100.0,10,1,43,7,3,4,1,False
+2025-10-22,149.22,Netflix,Entertainment,100.0,10,2,43,10,1,1,1,False
+2025-10-22,31.24,Shell Gas,Transport,150.0,10,2,43,12,5,4,1,False
+2025-10-22,98.17,AMC Theaters,Entertainment,100.0,10,2,43,0,1,5,1,False
+2025-10-22,181.11,Duke Energy,Utilities,200.0,10,2,43,6,6,5,1,False
+2025-10-22,116.17,Netflix,Entertainment,100.0,10,2,43,10,1,1,1,False
+2025-10-22,183.5,Trader Joes,Groceries,400.0,10,2,43,16,2,1,1,False
+2025-10-22,66.26,Target,Shopping,300.0,10,2,43,15,4,1,1,False
+2025-10-23,128.88,Target,Shopping,300.0,10,3,43,15,4,1,1,False
+2025-10-23,22.88,McDonalds,Dining,200.0,10,3,43,9,0,4,1,False
+2025-10-23,102.54,McDonalds,Dining,200.0,10,3,43,9,0,5,1,False
+2025-10-23,68.16,Whole Foods,Groceries,400.0,10,3,43,19,2,2,1,False
+2025-10-23,63.75,Starbucks,Dining,200.0,10,3,43,14,0,2,1,False
+2025-10-23,115.6,CVS Pharmacy,Health,100.0,10,3,43,3,3,5,1,False
+2025-10-23,183.94,AMC Theaters,Entertainment,100.0,10,3,43,0,1,5,1,False
+2025-10-24,171.02,Uber,Transport,150.0,10,4,43,17,5,1,1,False
+2025-10-24,126.29,AMC Theaters,Entertainment,100.0,10,4,43,0,1,5,1,False
+2025-10-24,131.39,AT&T,Utilities,200.0,10,4,43,1,6,5,1,False
+2025-10-24,72.01,Nike,Shopping,300.0,10,4,43,11,4,2,1,False
+2025-10-24,38.38,Water Dept,Utilities,200.0,10,4,43,18,6,2,1,False
+2025-10-24,47.68,AMC Theaters,Entertainment,100.0,10,4,43,0,1,5,1,False
+2025-10-24,114.08,Uber,Transport,150.0,10,4,43,17,5,2,1,False
+2025-10-24,71.05,Water Dept,Utilities,200.0,10,4,43,18,6,2,1,False
+2025-10-25,67.07,Kroger,Groceries,400.0,10,5,43,8,2,2,1,False
+2025-10-25,28.01,AT&T,Utilities,200.0,10,5,43,1,6,5,1,False
+2025-10-25,91.16,Trader Joes,Groceries,400.0,10,5,43,16,2,2,1,False
+2025-10-25,146.33,Chipotle,Dining,200.0,10,5,43,4,0,5,1,False
+2025-10-26,23.05,Uber,Transport,150.0,10,6,43,17,5,2,1,False
+2025-10-26,24.38,Whole Foods,Groceries,400.0,10,6,43,19,2,2,-1,True
+2025-10-26,112.33,CVS Pharmacy,Health,100.0,10,6,43,3,3,5,1,False
+2025-10-26,178.04,AT&T,Utilities,200.0,10,6,43,1,6,5,1,False
+2025-10-26,97.68,Starbucks,Dining,200.0,10,6,43,14,0,2,1,False
+2025-10-26,117.82,CVS Pharmacy,Health,100.0,10,6,43,3,3,5,1,False
+2025-10-26,48.43,McDonalds,Dining,200.0,10,6,43,9,0,2,1,False
+2025-10-26,62.67,Water Dept,Utilities,200.0,10,6,43,18,6,2,1,False
+2025-10-26,179.72,Starbucks,Dining,200.0,10,6,43,14,0,5,1,False
+2025-10-27,46.23,AT&T,Utilities,200.0,10,0,44,1,6,4,1,False
+2025-10-27,33.05,AMC Theaters,Entertainment,100.0,10,0,44,0,1,4,1,False
+2025-10-27,156.08,Netflix,Entertainment,100.0,10,0,44,10,1,1,1,False
+2025-10-27,103.66,McDonalds,Dining,200.0,10,0,44,9,0,1,1,False
+2025-10-27,196.22,Netflix,Entertainment,100.0,10,0,44,10,1,1,1,False
+2025-10-27,189.5,Chipotle,Dining,200.0,10,0,44,4,0,3,1,False
+2025-10-27,130.61,Target,Shopping,300.0,10,0,44,15,4,1,1,False
+2025-10-27,22.01,Delta Airlines,Transport,150.0,10,0,44,5,5,4,1,False
+2025-10-28,101.42,Netflix,Entertainment,100.0,10,1,44,10,1,1,1,False
+2025-10-28,118.55,Nike,Shopping,300.0,10,1,44,11,4,1,1,False
+2025-10-28,157.74,Gym Membership,Health,100.0,10,1,44,7,3,1,1,False
+2025-10-28,24.09,Gym Membership,Health,100.0,10,1,44,7,3,4,1,False
+2025-10-28,33.39,AMC Theaters,Entertainment,100.0,10,1,44,0,1,4,1,False
+2025-10-28,41.5,Delta Airlines,Transport,150.0,10,1,44,5,5,4,1,False
+2025-10-29,142.24,Uber,Transport,150.0,10,2,44,17,5,1,1,False
+2025-10-29,87.41,Target,Shopping,300.0,10,2,44,15,4,1,1,False
+2025-10-29,8.25,McDonalds,Dining,200.0,10,2,44,9,0,4,1,False
+2025-10-29,25.26,Kroger,Groceries,400.0,10,2,44,8,2,4,1,False
+2025-10-29,11.68,CVS Pharmacy,Health,100.0,10,2,44,3,3,4,1,False
+2025-10-29,141.33,Whole Foods,Groceries,400.0,10,2,44,19,2,1,1,False
+2025-10-29,154.17,Trader Joes,Groceries,400.0,10,2,44,16,2,1,1,False
+2025-10-29,123.56,Delta Airlines,Transport,150.0,10,2,44,5,5,5,1,False
+2025-10-30,40.08,Kroger,Groceries,400.0,10,3,44,8,2,4,1,False
+2025-10-30,199.47,Duke Energy,Utilities,200.0,10,3,44,6,6,5,1,False
+2025-10-30,180.45,Gym Membership,Health,100.0,10,3,44,7,3,5,1,False
+2025-10-30,19.67,Shell Gas,Transport,150.0,10,3,44,12,5,2,1,False
+2025-10-30,189.09,Kroger,Groceries,400.0,10,3,44,8,2,5,1,False
+2025-10-31,103.72,AMC Theaters,Entertainment,100.0,10,4,44,0,1,5,1,False
+2025-10-31,162.96,Whole Foods,Groceries,400.0,10,4,44,19,2,1,1,False
+2025-10-31,127.6,Shell Gas,Transport,150.0,10,4,44,12,5,5,1,False
+2025-11-01,104.06,AT&T,Utilities,200.0,11,5,44,1,6,5,1,False
+2025-11-01,24.95,Amazon,Shopping,300.0,11,5,44,2,4,5,1,False
+2025-11-01,23.72,Target,Shopping,300.0,11,5,44,15,4,2,1,False
+2025-11-01,198.55,Water Dept,Utilities,200.0,11,5,44,18,6,1,-1,True
+2025-11-01,182.06,Amazon,Shopping,300.0,11,5,44,2,4,5,1,False
+2025-11-01,22.91,Shell Gas,Transport,150.0,11,5,44,12,5,2,1,False
+2025-11-01,190.42,Chipotle,Dining,200.0,11,5,44,4,0,5,1,False
+2025-11-01,170.35,Uber,Transport,150.0,11,5,44,17,5,1,1,False
+2025-11-02,88.06,Duke Energy,Utilities,200.0,11,6,44,6,6,5,1,False
+2025-11-02,118.51,Whole Foods,Groceries,400.0,11,6,44,19,2,2,-1,True
+2025-11-02,185.44,AT&T,Utilities,200.0,11,6,44,1,6,5,-1,True
+2025-11-02,172.1,AMC Theaters,Entertainment,100.0,11,6,44,0,1,5,-1,True
+2025-11-02,147.78,CVS Pharmacy,Health,100.0,11,6,44,3,3,5,1,False
+2025-11-02,188.81,Target,Shopping,300.0,11,6,44,15,4,5,1,False
+2025-11-02,140.73,McDonalds,Dining,200.0,11,6,44,9,0,5,1,False
+2025-11-02,180.62,Gym Membership,Health,100.0,11,6,44,7,3,5,1,False
+2025-11-02,177.05,Delta Airlines,Transport,150.0,11,6,44,5,5,5,1,False
+2025-11-03,184.2,Water Dept,Utilities,200.0,11,0,45,18,6,1,-1,True
+2025-11-03,197.53,Amazon,Shopping,300.0,11,0,45,2,4,3,-1,True
+2025-11-03,63.55,Uber,Transport,150.0,11,0,45,17,5,1,1,False
+2025-11-03,160.16,Trader Joes,Groceries,400.0,11,0,45,16,2,1,1,False
+2025-11-04,87.37,Whole Foods,Groceries,400.0,11,1,45,19,2,1,1,False
+2025-11-04,72.43,Delta Airlines,Transport,150.0,11,1,45,5,5,4,1,False
+2025-11-04,120.85,AMC Theaters,Entertainment,100.0,11,1,45,0,1,5,1,False
+2025-11-04,22.19,Starbucks,Dining,200.0,11,1,45,14,0,4,1,False
+2025-11-05,121.62,Delta Airlines,Transport,150.0,11,2,45,5,5,5,1,False
+2025-11-05,130.25,Whole Foods,Groceries,400.0,11,2,45,19,2,1,1,False
+2025-11-05,121.36,McDonalds,Dining,200.0,11,2,45,9,0,1,1,False
+2025-11-05,168.92,Gym Membership,Health,100.0,11,2,45,7,3,1,1,False
+2025-11-05,95.72,Nike,Shopping,300.0,11,2,45,11,4,1,1,False
+2025-11-05,139.12,Chipotle,Dining,200.0,11,2,45,4,0,5,1,False
+2025-11-05,160.72,Shell Gas,Transport,150.0,11,2,45,12,5,1,1,False
+2025-11-05,143.67,Whole Foods,Groceries,400.0,11,2,45,19,2,1,1,False
+2025-11-06,81.71,Target,Shopping,300.0,11,3,45,15,4,2,1,False
+2025-11-06,60.88,Nike,Shopping,300.0,11,3,45,11,4,2,1,False
+2025-11-06,59.95,Water Dept,Utilities,200.0,11,3,45,18,6,2,1,False
+2025-11-06,25.76,Netflix,Entertainment,100.0,11,3,45,10,1,2,1,False
+2025-11-06,139.99,Netflix,Entertainment,100.0,11,3,45,10,1,1,1,False
+2025-11-07,181.84,Shell Gas,Transport,150.0,11,4,45,12,5,5,1,False
+2025-11-07,182.52,Delta Airlines,Transport,150.0,11,4,45,5,5,5,1,False
+2025-11-07,134.84,Kroger,Groceries,400.0,11,4,45,8,2,5,1,False
+2025-11-07,118.41,Delta Airlines,Transport,150.0,11,4,45,5,5,5,1,False
+2025-11-07,156.83,Trader Joes,Groceries,400.0,11,4,45,16,2,1,1,False
+2025-11-07,174.17,Uber,Transport,150.0,11,4,45,17,5,1,1,False
+2025-11-07,170.28,Trader Joes,Groceries,400.0,11,4,45,16,2,1,1,False
+2025-11-07,28.82,Shell Gas,Transport,150.0,11,4,45,12,5,2,1,False
+2025-11-08,145.71,Whole Foods,Groceries,400.0,11,5,45,19,2,2,1,False
+2025-11-08,26.36,Uber,Transport,150.0,11,5,45,17,5,2,1,False
+2025-11-08,176.97,Amazon,Shopping,300.0,11,5,45,2,4,5,1,False
+2025-11-08,91.87,CVS Pharmacy,Health,100.0,11,5,45,3,3,5,1,False
+2025-11-08,163.18,Netflix,Entertainment,100.0,11,5,45,10,1,5,1,False
+2025-11-08,118.26,Chipotle,Dining,200.0,11,5,45,4,0,5,1,False
+2025-11-08,115.05,Amazon,Shopping,300.0,11,5,45,2,4,5,1,False
+2025-11-08,128.18,CVS Pharmacy,Health,100.0,11,5,45,3,3,5,1,False
+2025-11-09,145.96,Kroger,Groceries,400.0,11,6,45,8,2,5,1,False
+2025-11-09,97.11,Gym Membership,Health,100.0,11,6,45,7,3,5,1,False
+2025-11-09,51.68,Whole Foods,Groceries,400.0,11,6,45,19,2,2,-1,True
+2025-11-10,153.65,Shell Gas,Transport,150.0,11,0,46,12,5,1,1,False
+2025-11-10,67.53,McDonalds,Dining,200.0,11,0,46,9,0,4,1,False
+2025-11-10,136.3,AT&T,Utilities,200.0,11,0,46,1,6,3,1,False
+2025-11-11,25.66,Nike,Shopping,300.0,11,1,46,11,4,4,1,False
+2025-11-11,18.37,Kroger,Groceries,400.0,11,1,46,8,2,4,1,False
+2025-11-11,39.6,Nike,Shopping,300.0,11,1,46,11,4,4,1,False
+2025-11-11,85.99,Whole Foods,Groceries,400.0,11,1,46,19,2,1,1,False
+2025-11-11,155.26,Delta Airlines,Transport,150.0,11,1,46,5,5,1,1,False
+2025-11-12,132.79,Gym Membership,Health,100.0,11,2,46,7,3,1,1,False
+2025-11-12,185.13,Trader Joes,Groceries,400.0,11,2,46,16,2,1,1,False
+2025-11-12,161.91,Starbucks,Dining,200.0,11,2,46,14,0,1,1,False
+2025-11-12,199.33,Kroger,Groceries,400.0,11,2,46,8,2,1,1,False
+2025-11-12,168.27,Target,Shopping,300.0,11,2,46,15,4,1,1,False
+2025-11-12,107.53,Nike,Shopping,300.0,11,2,46,11,4,1,1,False
+2025-11-13,121.96,Target,Shopping,300.0,11,3,46,15,4,1,1,False
+2025-11-13,190.91,Duke Energy,Utilities,200.0,11,3,46,6,6,5,1,False
+2025-11-13,91.59,CVS Pharmacy,Health,100.0,11,3,46,3,3,5,1,False
+2025-11-13,10.37,Target,Shopping,300.0,11,3,46,15,4,2,1,False
+2025-11-13,60.77,Trader Joes,Groceries,400.0,11,3,46,16,2,2,1,False
+2025-11-13,152.88,Nike,Shopping,300.0,11,3,46,11,4,1,1,False
+2025-11-13,198.13,Shell Gas,Transport,150.0,11,3,46,12,5,1,1,False
+2025-11-14,80.17,Uber,Transport,150.0,11,4,46,17,5,2,1,False
+2025-11-14,176.41,CVS Pharmacy,Health,100.0,11,4,46,3,3,5,1,False
+2025-11-14,176.98,Nike,Shopping,300.0,11,4,46,11,4,5,1,False
+2025-11-14,181.52,Uber,Transport,150.0,11,4,46,17,5,1,1,False
+2025-11-14,119.39,AT&T,Utilities,200.0,11,4,46,1,6,5,1,False
+2025-11-14,100.56,Chipotle,Dining,200.0,11,4,46,4,0,5,1,False
+2025-11-14,98.86,Whole Foods,Groceries,400.0,11,4,46,19,2,2,1,False
+2025-11-14,31.41,Chipotle,Dining,200.0,11,4,46,4,0,5,1,False
+2025-11-15,13.73,Trader Joes,Groceries,400.0,11,5,46,16,2,2,1,False
+2025-11-15,144.77,Duke Energy,Utilities,200.0,11,5,46,6,6,5,1,False
+2025-11-16,191.35,Target,Shopping,300.0,11,6,46,15,4,5,1,False
+2025-11-16,49.9,Duke Energy,Utilities,200.0,11,6,46,6,6,5,1,False
+2025-11-16,157.14,Amazon,Shopping,300.0,11,6,46,2,4,5,1,False
+2025-11-16,133.16,Chipotle,Dining,200.0,11,6,46,4,0,5,1,False
+2025-11-17,95.7,AMC Theaters,Entertainment,100.0,11,0,47,0,1,4,-1,True
+2025-11-17,130.39,Trader Joes,Groceries,400.0,11,0,47,16,2,1,1,False
+2025-11-17,7.91,Chipotle,Dining,200.0,11,0,47,4,0,4,-1,True
+2025-11-17,154.44,Gym Membership,Health,100.0,11,0,47,7,3,1,1,False
+2025-11-17,168.37,Duke Energy,Utilities,200.0,11,0,47,6,6,1,1,False
+2025-11-18,45.3,CVS Pharmacy,Health,100.0,11,1,47,3,3,4,1,False
+2025-11-18,191.63,Uber,Transport,150.0,11,1,47,17,5,1,1,False
+2025-11-18,120.84,Kroger,Groceries,400.0,11,1,47,8,2,1,1,False
+2025-11-18,145.69,Trader Joes,Groceries,400.0,11,1,47,16,2,1,1,False
+2025-11-18,174.17,Trader Joes,Groceries,400.0,11,1,47,16,2,1,1,False
+2025-11-19,124.01,Delta Airlines,Transport,150.0,11,2,47,5,5,5,1,False
+2025-11-19,124.68,CVS Pharmacy,Health,100.0,11,2,47,3,3,5,1,False
+2025-11-19,147.6,Target,Shopping,300.0,11,2,47,15,4,1,1,False
+2025-11-19,102.76,Water Dept,Utilities,200.0,11,2,47,18,6,1,1,False
+2025-11-19,48.87,Delta Airlines,Transport,150.0,11,2,47,5,5,4,1,False
+2025-11-20,162.68,McDonalds,Dining,200.0,11,3,47,9,0,5,1,False
+2025-11-20,148.18,Amazon,Shopping,300.0,11,3,47,2,4,5,1,False
+2025-11-20,44.83,Target,Shopping,300.0,11,3,47,15,4,2,1,False
+2025-11-20,36.46,Water Dept,Utilities,200.0,11,3,47,18,6,2,1,False
+2025-11-20,37.64,Starbucks,Dining,200.0,11,3,47,14,0,2,1,False
+2025-11-20,9.64,Shell Gas,Transport,150.0,11,3,47,12,5,2,1,False
+2025-11-20,176.73,Trader Joes,Groceries,400.0,11,3,47,16,2,1,1,False
+2025-11-20,152.57,Trader Joes,Groceries,400.0,11,3,47,16,2,1,1,False
+2025-11-20,86.68,AT&T,Utilities,200.0,11,3,47,1,6,5,1,False
+2025-11-21,64.56,Amazon,Shopping,300.0,11,4,47,2,4,5,1,False
+2025-11-21,67.2,Netflix,Entertainment,100.0,11,4,47,10,1,2,1,False
+2025-11-21,8.91,Duke Energy,Utilities,200.0,11,4,47,6,6,2,1,False
+2025-11-21,157.53,Amazon,Shopping,300.0,11,4,47,2,4,5,1,False
+2025-11-21,130.58,Shell Gas,Transport,150.0,11,4,47,12,5,5,1,False
+2025-11-21,199.16,Duke Energy,Utilities,200.0,11,4,47,6,6,5,1,False
+2025-11-21,84.36,Target,Shopping,300.0,11,4,47,15,4,2,1,False
+2025-11-21,36.3,Water Dept,Utilities,200.0,11,4,47,18,6,2,1,False
+2025-11-21,197.33,Chipotle,Dining,200.0,11,4,47,4,0,5,1,False
+2025-11-22,181.56,Nike,Shopping,300.0,11,5,47,11,4,5,1,False
+2025-11-22,13.64,Nike,Shopping,300.0,11,5,47,11,4,2,1,False
+2025-11-22,82.36,Trader Joes,Groceries,400.0,11,5,47,16,2,2,1,False
+2025-11-23,16.2,Gym Membership,Health,100.0,11,6,47,7,3,2,1,False
+2025-11-23,92.92,McDonalds,Dining,200.0,11,6,47,9,0,5,1,False
+2025-11-23,73.88,Shell Gas,Transport,150.0,11,6,47,12,5,2,1,False
+2025-11-23,14.26,Uber,Transport,150.0,11,6,47,17,5,2,-1,True
+2025-11-23,75.77,Water Dept,Utilities,200.0,11,6,47,18,6,2,1,False
+2025-11-24,25.58,Uber,Transport,150.0,11,0,48,17,5,4,-1,True
+2025-11-24,198.62,Starbucks,Dining,200.0,11,0,48,14,0,1,1,False
+2025-11-25,131.89,Shell Gas,Transport,150.0,11,1,48,12,5,1,1,False
+2025-11-25,78.65,Whole Foods,Groceries,400.0,11,1,48,19,2,1,1,False
+2025-11-25,123.68,Duke Energy,Utilities,200.0,11,1,48,6,6,1,1,False
+2025-11-26,66.68,Spotify,Entertainment,100.0,11,2,48,13,1,1,1,False
+2025-11-26,181.7,Gym Membership,Health,100.0,11,2,48,7,3,1,1,False
+2025-11-26,123.98,Uber,Transport,150.0,11,2,48,17,5,1,1,False
+2025-11-26,135.45,Netflix,Entertainment,100.0,11,2,48,10,1,1,1,False
+2025-11-26,139.08,Spotify,Entertainment,100.0,11,2,48,13,1,1,1,False
+2025-11-26,61.78,Starbucks,Dining,200.0,11,2,48,14,0,1,1,False
+2025-11-26,42.33,Gym Membership,Health,100.0,11,2,48,7,3,4,1,False
+2025-11-27,156.6,Nike,Shopping,300.0,11,3,48,11,4,1,1,False
+2025-11-27,65.42,Amazon,Shopping,300.0,11,3,48,2,4,5,1,False
+2025-11-27,154.79,Amazon,Shopping,300.0,11,3,48,2,4,5,1,False
+2025-11-27,79.26,Nike,Shopping,300.0,11,3,48,11,4,2,1,False
+2025-11-27,172.28,AT&T,Utilities,200.0,11,3,48,1,6,5,1,False
+2025-11-27,67.41,Nike,Shopping,300.0,11,3,48,11,4,2,1,False
+2025-11-28,182.52,Whole Foods,Groceries,400.0,11,4,48,19,2,1,1,False
+2025-11-28,56.96,Starbucks,Dining,200.0,11,4,48,14,0,2,1,False
+2025-11-28,182.95,Netflix,Entertainment,100.0,11,4,48,10,1,5,1,False
+2025-11-28,146.7,Chipotle,Dining,200.0,11,4,48,4,0,5,1,False
+2025-11-29,6.65,Whole Foods,Groceries,400.0,11,5,48,19,2,2,-1,True
+2025-11-29,181.81,Amazon,Shopping,300.0,11,5,48,2,4,5,1,False
+2025-11-29,65.01,McDonalds,Dining,200.0,11,5,48,9,0,2,1,False
+2025-11-29,42.93,Netflix,Entertainment,100.0,11,5,48,10,1,2,1,False
+2025-11-29,120.46,Water Dept,Utilities,200.0,11,5,48,18,6,2,1,False
+2025-11-29,108.72,Delta Airlines,Transport,150.0,11,5,48,5,5,5,1,False
+2025-11-29,93.29,Duke Energy,Utilities,200.0,11,5,48,6,6,5,1,False
+2025-11-30,148.82,Chipotle,Dining,200.0,11,6,48,4,0,5,1,False
+2025-11-30,141.58,Spotify,Entertainment,100.0,11,6,48,13,1,5,1,False
+2025-11-30,87.97,Gym Membership,Health,100.0,11,6,48,7,3,5,1,False
+2025-11-30,55.67,Water Dept,Utilities,200.0,11,6,48,18,6,2,1,False
+2025-11-30,178.49,Delta Airlines,Transport,150.0,11,6,48,5,5,5,1,False
+2025-11-30,177.99,Amazon,Shopping,300.0,11,6,48,2,4,5,1,False
+2025-12-01,154.44,Nike,Shopping,300.0,12,0,49,11,4,1,1,False
+2025-12-01,43.04,Amazon,Shopping,300.0,12,0,49,2,4,4,1,False
+2025-12-01,58.83,Trader Joes,Groceries,400.0,12,0,49,16,2,1,1,False
+2025-12-01,97.94,Shell Gas,Transport,150.0,12,0,49,12,5,1,1,False
+2025-12-01,183.3,AMC Theaters,Entertainment,100.0,12,0,49,0,1,3,-1,True
+2025-12-01,48.06,Uber,Transport,150.0,12,0,49,17,5,1,1,False
+2025-12-01,136.52,Spotify,Entertainment,100.0,12,0,49,13,1,1,1,False
+2025-12-01,16.15,AT&T,Utilities,200.0,12,0,49,1,6,4,-1,True
+2025-12-02,116.61,Amazon,Shopping,300.0,12,1,49,2,4,5,1,False
+2025-12-02,117.76,Kroger,Groceries,400.0,12,1,49,8,2,1,1,False
+2025-12-02,129.37,Water Dept,Utilities,200.0,12,1,49,18,6,1,1,False
+2025-12-02,138.67,Water Dept,Utilities,200.0,12,1,49,18,6,1,1,False
+2025-12-02,58.23,Water Dept,Utilities,200.0,12,1,49,18,6,1,1,False
+2025-12-02,159.33,Spotify,Entertainment,100.0,12,1,49,13,1,1,1,False
+2025-12-02,146.64,Chipotle,Dining,200.0,12,1,49,4,0,1,1,False
+2025-12-03,45.2,AT&T,Utilities,200.0,12,2,49,1,6,4,1,False
+2025-12-03,113.1,Uber,Transport,150.0,12,2,49,17,5,1,1,False
+2025-12-03,68.4,Spotify,Entertainment,100.0,12,2,49,13,1,1,1,False
+2025-12-03,154.02,Shell Gas,Transport,150.0,12,2,49,12,5,1,1,False
+2025-12-04,139.42,Whole Foods,Groceries,400.0,12,3,49,19,2,1,1,False
+2025-12-04,150.7,Amazon,Shopping,300.0,12,3,49,2,4,5,1,False
+2025-12-04,98.46,Gym Membership,Health,100.0,12,3,49,7,3,5,1,False
+2025-12-05,72.45,Delta Airlines,Transport,150.0,12,4,49,5,5,5,1,False
+2025-12-05,31.9,Nike,Shopping,300.0,12,4,49,11,4,2,1,False
+2025-12-05,80.04,Uber,Transport,150.0,12,4,49,17,5,2,1,False
+2025-12-05,95.14,Spotify,Entertainment,100.0,12,4,49,13,1,2,1,False
+2025-12-05,15.91,Gym Membership,Health,100.0,12,4,49,7,3,2,1,False
+2025-12-06,149.48,Uber,Transport,150.0,12,5,49,17,5,1,1,False
+2025-12-06,59.86,Gym Membership,Health,100.0,12,5,49,7,3,5,1,False
+2025-12-06,193.19,Target,Shopping,300.0,12,5,49,15,4,5,1,False
+2025-12-06,134.5,Nike,Shopping,300.0,12,5,49,11,4,5,1,False
+2025-12-06,165.65,Whole Foods,Groceries,400.0,12,5,49,19,2,1,-1,True
+2025-12-06,108.94,Nike,Shopping,300.0,12,5,49,11,4,5,1,False
+2025-12-06,194.5,Nike,Shopping,300.0,12,5,49,11,4,5,1,False
+2025-12-06,115.82,Shell Gas,Transport,150.0,12,5,49,12,5,5,1,False
+2025-12-07,102.93,Whole Foods,Groceries,400.0,12,6,49,19,2,2,-1,True
+2025-12-07,19.74,Water Dept,Utilities,200.0,12,6,49,18,6,2,-1,True
+2025-12-07,33.47,CVS Pharmacy,Health,100.0,12,6,49,3,3,5,1,False
+2025-12-07,47.19,Uber,Transport,150.0,12,6,49,17,5,2,1,False
+2025-12-08,137.96,Nike,Shopping,300.0,12,0,50,11,4,1,1,False
+2025-12-08,187.44,Chipotle,Dining,200.0,12,0,50,4,0,1,-1,True
+2025-12-08,166.07,Delta Airlines,Transport,150.0,12,0,50,5,5,1,1,False
+2025-12-08,116.15,Trader Joes,Groceries,400.0,12,0,50,16,2,1,1,False
+2025-12-08,17.77,Chipotle,Dining,200.0,12,0,50,4,0,4,-1,True
+2025-12-08,68.46,Amazon,Shopping,300.0,12,0,50,2,4,4,1,False
+2025-12-09,121.01,AT&T,Utilities,200.0,12,1,50,1,6,5,1,False
+2025-12-09,105.79,AT&T,Utilities,200.0,12,1,50,1,6,5,1,False
+2025-12-09,22.53,Trader Joes,Groceries,400.0,12,1,50,16,2,4,1,False
+2025-12-09,75.53,Nike,Shopping,300.0,12,1,50,11,4,1,1,False
+2025-12-09,84.43,Amazon,Shopping,300.0,12,1,50,2,4,4,1,False
+2025-12-09,9.37,Uber,Transport,150.0,12,1,50,17,5,4,-1,True
+2025-12-10,19.94,Kroger,Groceries,400.0,12,2,50,8,2,4,1,False
+2025-12-10,176.18,McDonalds,Dining,200.0,12,2,50,9,0,1,1,False
+2025-12-10,12.51,Nike,Shopping,300.0,12,2,50,11,4,4,1,False
+2025-12-10,145.24,Delta Airlines,Transport,150.0,12,2,50,5,5,5,1,False
+2025-12-10,132.23,Delta Airlines,Transport,150.0,12,2,50,5,5,5,1,False
+2025-12-10,40.02,Water Dept,Utilities,200.0,12,2,50,18,6,2,1,False
+2025-12-10,63.19,CVS Pharmacy,Health,100.0,12,2,50,3,3,4,1,False
+2025-12-10,76.8,CVS Pharmacy,Health,100.0,12,2,50,3,3,5,1,False
+2025-12-11,146.3,Starbucks,Dining,200.0,12,3,50,14,0,1,1,False
+2025-12-11,133.28,Trader Joes,Groceries,400.0,12,3,50,16,2,1,1,False
+2025-12-11,174.03,Nike,Shopping,300.0,12,3,50,11,4,1,1,False
+2025-12-11,170.74,Nike,Shopping,300.0,12,3,50,11,4,1,1,False
+2025-12-11,128.11,Whole Foods,Groceries,400.0,12,3,50,19,2,1,1,False
+2025-12-11,117.09,Spotify,Entertainment,100.0,12,3,50,13,1,1,1,False
+2025-12-11,126.77,Amazon,Shopping,300.0,12,3,50,2,4,5,1,False
+2025-12-11,129.32,Gym Membership,Health,100.0,12,3,50,7,3,5,1,False
+2025-12-12,198.74,Netflix,Entertainment,100.0,12,4,50,10,1,5,1,False
+2025-12-12,142.53,AT&T,Utilities,200.0,12,4,50,1,6,5,1,False
+2025-12-12,78.3,Kroger,Groceries,400.0,12,4,50,8,2,5,1,False
+2025-12-12,149.23,Starbucks,Dining,200.0,12,4,50,14,0,1,1,False
+2025-12-12,70.76,Water Dept,Utilities,200.0,12,4,50,18,6,2,1,False
+2025-12-12,143.56,Trader Joes,Groceries,400.0,12,4,50,16,2,1,1,False
+2025-12-12,62.22,Netflix,Entertainment,100.0,12,4,50,10,1,2,1,False
+2025-12-13,112.99,Spotify,Entertainment,100.0,12,5,50,13,1,2,1,False
+2025-12-13,9.15,McDonalds,Dining,200.0,12,5,50,9,0,2,1,False
+2025-12-13,129.78,Whole Foods,Groceries,400.0,12,5,50,19,2,2,-1,True
+2025-12-13,107.1,Shell Gas,Transport,150.0,12,5,50,12,5,2,1,False
+2025-12-14,64.91,Trader Joes,Groceries,400.0,12,6,50,16,2,2,1,False
+2025-12-14,154.49,Starbucks,Dining,200.0,12,6,50,14,0,5,1,False
+2025-12-14,86.02,Kroger,Groceries,400.0,12,6,50,8,2,5,1,False
+2025-12-14,51.72,Nike,Shopping,300.0,12,6,50,11,4,2,1,False
+2025-12-14,144.11,Starbucks,Dining,200.0,12,6,50,14,0,5,1,False
+2025-12-14,33.4,CVS Pharmacy,Health,100.0,12,6,50,3,3,5,1,False
+2025-12-14,139.34,Target,Shopping,300.0,12,6,50,15,4,2,1,False
+2025-12-15,89.36,Amazon,Shopping,300.0,12,0,51,2,4,4,1,False
+2025-12-15,72.53,Uber,Transport,150.0,12,0,51,17,5,1,1,False
+2025-12-15,138.13,Shell Gas,Transport,150.0,12,0,51,12,5,1,1,False
+2025-12-15,46.23,CVS Pharmacy,Health,100.0,12,0,51,3,3,4,1,False
+2025-12-16,92.18,Starbucks,Dining,200.0,12,1,51,14,0,1,1,False
+2025-12-16,72.8,Amazon,Shopping,300.0,12,1,51,2,4,4,1,False
+2025-12-16,159.74,Chipotle,Dining,200.0,12,1,51,4,0,1,1,False
+2025-12-16,153.88,Uber,Transport,150.0,12,1,51,17,5,1,1,False
+2025-12-16,107.77,Spotify,Entertainment,100.0,12,1,51,13,1,1,1,False
+2025-12-16,19.43,Starbucks,Dining,200.0,12,1,51,14,0,4,1,False
+2025-12-16,155.39,Trader Joes,Groceries,400.0,12,1,51,16,2,1,1,False
+2025-12-17,104.34,Whole Foods,Groceries,400.0,12,2,51,19,2,1,1,False
+2025-12-17,64.76,Whole Foods,Groceries,400.0,12,2,51,19,2,1,1,False
+2025-12-17,125.85,Target,Shopping,300.0,12,2,51,15,4,1,1,False
+2025-12-17,63.96,Uber,Transport,150.0,12,2,51,17,5,1,1,False
+2025-12-17,80.77,Starbucks,Dining,200.0,12,2,51,14,0,1,1,False
+2025-12-17,28.23,Trader Joes,Groceries,400.0,12,2,51,16,2,2,1,False
+2025-12-17,47.37,Whole Foods,Groceries,400.0,12,2,51,19,2,2,1,False
+2025-12-18,61.27,Target,Shopping,300.0,12,3,51,15,4,2,1,False
+2025-12-18,72.72,Netflix,Entertainment,100.0,12,3,51,10,1,2,1,False
+2025-12-18,163.99,Shell Gas,Transport,150.0,12,3,51,12,5,1,1,False
+2025-12-18,171.63,Nike,Shopping,300.0,12,3,51,11,4,1,1,False
+2025-12-18,104.72,Water Dept,Utilities,200.0,12,3,51,18,6,1,1,False
+2025-12-18,181.15,Shell Gas,Transport,150.0,12,3,51,12,5,1,1,False
+2025-12-18,10.55,AMC Theaters,Entertainment,100.0,12,3,51,0,1,4,-1,True
+2025-12-18,115.25,Whole Foods,Groceries,400.0,12,3,51,19,2,1,1,False
+2025-12-18,43.21,Gym Membership,Health,100.0,12,3,51,7,3,2,1,False
+2025-12-19,74.4,CVS Pharmacy,Health,100.0,12,4,51,3,3,5,1,False
+2025-12-19,17.82,Kroger,Groceries,400.0,12,4,51,8,2,2,1,False
+2025-12-19,50.15,Amazon,Shopping,300.0,12,4,51,2,4,5,1,False
+2025-12-19,153.41,AMC Theaters,Entertainment,100.0,12,4,51,0,1,5,1,False
+2025-12-19,46.22,Water Dept,Utilities,200.0,12,4,51,18,6,2,1,False
+2025-12-20,66.12,McDonalds,Dining,200.0,12,5,51,9,0,2,1,False
+2025-12-20,164.87,Chipotle,Dining,200.0,12,5,51,4,0,5,1,False
+2025-12-20,33.55,Chipotle,Dining,200.0,12,5,51,4,0,5,1,False
+2025-12-20,98.6,Delta Airlines,Transport,150.0,12,5,51,5,5,5,1,False
+2025-12-20,19.09,Nike,Shopping,300.0,12,5,51,11,4,2,1,False
+2025-12-21,184.05,Spotify,Entertainment,100.0,12,6,51,13,1,5,1,False
+2025-12-21,102.1,Spotify,Entertainment,100.0,12,6,51,13,1,2,1,False
+2025-12-21,91.42,AMC Theaters,Entertainment,100.0,12,6,51,0,1,5,-1,True
+2025-12-21,156.25,Chipotle,Dining,200.0,12,6,51,4,0,5,1,False
+2025-12-21,101.34,McDonalds,Dining,200.0,12,6,51,9,0,5,1,False
+2025-12-21,150.52,McDonalds,Dining,200.0,12,6,51,9,0,5,1,False
+2025-12-21,90.04,Chipotle,Dining,200.0,12,6,51,4,0,5,1,False
+2025-12-22,28.38,McDonalds,Dining,200.0,12,0,52,9,0,4,1,False
+2025-12-22,150.93,Nike,Shopping,300.0,12,0,52,11,4,1,1,False
+2025-12-22,72.1,Whole Foods,Groceries,400.0,12,0,52,19,2,1,-1,True
+2025-12-22,188.05,Trader Joes,Groceries,400.0,12,0,52,16,2,1,-1,True
+2025-12-22,148.48,AMC Theaters,Entertainment,100.0,12,0,52,0,1,3,-1,True
+2025-12-22,50.32,Amazon,Shopping,300.0,12,0,52,2,4,4,1,False
+2025-12-23,79.27,Whole Foods,Groceries,400.0,12,1,52,19,2,1,1,False
+2025-12-23,173.71,Starbucks,Dining,200.0,12,1,52,14,0,1,1,False
+2025-12-23,194.68,AMC Theaters,Entertainment,100.0,12,1,52,0,1,5,-1,True
+2025-12-23,73.85,McDonalds,Dining,200.0,12,1,52,9,0,1,1,False
+2025-12-23,90.0,McDonalds,Dining,200.0,12,1,52,9,0,1,1,False
+2025-12-23,150.67,Water Dept,Utilities,200.0,12,1,52,18,6,1,1,False
+2025-12-24,71.65,Trader Joes,Groceries,400.0,12,2,52,16,2,1,1,False
+2025-12-24,34.17,Water Dept,Utilities,200.0,12,2,52,18,6,2,1,False
+2025-12-24,71.67,Gym Membership,Health,100.0,12,2,52,7,3,4,1,False
+2025-12-24,7.26,Duke Energy,Utilities,200.0,12,2,52,6,6,4,1,False
+2025-12-24,123.87,Target,Shopping,300.0,12,2,52,15,4,1,1,False
+2025-12-24,85.88,Gym Membership,Health,100.0,12,2,52,7,3,1,1,False
+2025-12-25,174.55,Spotify,Entertainment,100.0,12,3,52,13,1,1,1,False
+2025-12-25,133.74,Shell Gas,Transport,150.0,12,3,52,12,5,1,1,False
+2025-12-25,38.65,McDonalds,Dining,200.0,12,3,52,9,0,2,1,False
+2025-12-25,184.38,McDonalds,Dining,200.0,12,3,52,9,0,5,1,False
+2025-12-25,104.38,CVS Pharmacy,Health,100.0,12,3,52,3,3,5,1,False
+2025-12-26,47.72,Shell Gas,Transport,150.0,12,4,52,12,5,2,1,False
+2025-12-26,61.24,Trader Joes,Groceries,400.0,12,4,52,16,2,2,1,False
+2025-12-26,71.28,Starbucks,Dining,200.0,12,4,52,14,0,2,1,False
+2025-12-26,96.6,Chipotle,Dining,200.0,12,4,52,4,0,5,1,False
+2025-12-27,115.35,Delta Airlines,Transport,150.0,12,5,52,5,5,5,1,False
+2025-12-27,8.22,Kroger,Groceries,400.0,12,5,52,8,2,2,1,False
+2025-12-27,56.75,Shell Gas,Transport,150.0,12,5,52,12,5,2,1,False
+2025-12-27,112.22,AMC Theaters,Entertainment,100.0,12,5,52,0,1,5,-1,True
+2025-12-27,187.49,Shell Gas,Transport,150.0,12,5,52,12,5,5,1,False
+2025-12-28,189.74,Netflix,Entertainment,100.0,12,6,52,10,1,5,1,False
+2025-12-28,62.34,AMC Theaters,Entertainment,100.0,12,6,52,0,1,5,-1,True
+2025-12-28,158.06,McDonalds,Dining,200.0,12,6,52,9,0,5,1,False
+2025-12-28,129.52,AT&T,Utilities,200.0,12,6,52,1,6,5,1,False
+2025-12-29,10.67,Chipotle,Dining,200.0,12,0,1,4,0,4,-1,True
+2025-12-29,132.29,Target,Shopping,300.0,12,0,1,15,4,1,1,False
+2025-12-29,70.25,Nike,Shopping,300.0,12,0,1,11,4,1,1,False
+2025-12-29,189.13,Gym Membership,Health,100.0,12,0,1,7,3,1,1,False
+2025-12-29,29.56,Netflix,Entertainment,100.0,12,0,1,10,1,4,1,False
+2025-12-29,169.94,Netflix,Entertainment,100.0,12,0,1,10,1,1,1,False
+2025-12-29,114.53,Trader Joes,Groceries,400.0,12,0,1,16,2,1,1,False
+2025-12-29,115.7,Starbucks,Dining,200.0,12,0,1,14,0,1,1,False
+2025-12-29,183.13,Whole Foods,Groceries,400.0,12,0,1,19,2,1,-1,True
+2025-12-30,102.92,Netflix,Entertainment,100.0,12,1,1,10,1,1,1,False
+2025-12-30,43.87,CVS Pharmacy,Health,100.0,12,1,1,3,3,4,1,False
+2025-12-30,11.86,Spotify,Entertainment,100.0,12,1,1,13,1,4,1,False
+2025-12-30,85.93,Target,Shopping,300.0,12,1,1,15,4,1,1,False
+2025-12-30,59.33,Chipotle,Dining,200.0,12,1,1,4,0,4,1,False
+2025-12-30,83.58,Trader Joes,Groceries,400.0,12,1,1,16,2,1,1,False
+2025-12-31,101.13,Whole Foods,Groceries,400.0,12,2,1,19,2,1,1,False
+2025-12-31,19.21,AMC Theaters,Entertainment,100.0,12,2,1,0,1,4,-1,True
+2025-12-31,37.55,Spotify,Entertainment,100.0,12,2,1,13,1,2,1,False
+2025-12-31,102.49,Duke Energy,Utilities,200.0,12,2,1,6,6,5,1,False
+2025-12-31,123.98,Whole Foods,Groceries,400.0,12,2,1,19,2,1,1,False
+2025-12-31,65.87,Shell Gas,Transport,150.0,12,2,1,12,5,1,1,False
+2025-12-31,66.8,Amazon,Shopping,300.0,12,2,1,2,4,5,1,False
+2026-01-01,105.21,Whole Foods,Groceries,400.0,1,3,1,19,2,0,1,False
+2026-01-01,80.74,Trader Joes,Groceries,400.0,1,3,1,16,2,0,1,False
+2026-01-01,154.63,Gym Membership,Health,100.0,1,3,1,7,3,3,1,False
+2026-01-01,178.42,AMC Theaters,Entertainment,100.0,1,3,1,0,1,3,-1,True
+2026-01-02,108.08,Target,Shopping,300.0,1,4,1,15,4,0,1,False
+2026-01-02,134.65,Uber,Transport,150.0,1,4,1,17,5,0,1,False
+2026-01-02,37.42,AMC Theaters,Entertainment,100.0,1,4,1,0,1,6,-1,True
+2026-01-02,92.25,Duke Energy,Utilities,200.0,1,4,1,6,6,6,1,False
+2026-01-02,183.14,Nike,Shopping,300.0,1,4,1,11,4,0,1,False
+2026-01-02,131.45,AMC Theaters,Entertainment,100.0,1,4,1,0,1,6,1,False
+2026-01-03,59.17,Netflix,Entertainment,100.0,1,5,1,10,1,6,1,False
+2026-01-03,186.94,Water Dept,Utilities,200.0,1,5,1,18,6,0,1,False
+2026-01-03,77.07,Whole Foods,Groceries,400.0,1,5,1,19,2,0,1,False
+2026-01-03,113.39,Chipotle,Dining,200.0,1,5,1,4,0,6,1,False
+2026-01-03,156.01,Duke Energy,Utilities,200.0,1,5,1,6,6,0,1,False
+2026-01-03,40.51,Trader Joes,Groceries,400.0,1,5,1,16,2,6,1,False
+2026-01-03,101.47,Whole Foods,Groceries,400.0,1,5,1,19,2,0,1,False
+2026-01-03,134.38,Uber,Transport,150.0,1,5,1,17,5,0,1,False
+2026-01-03,22.11,Amazon,Shopping,300.0,1,5,1,2,4,6,1,False
+2026-01-04,114.73,Gym Membership,Health,100.0,1,6,1,7,3,6,1,False
+2026-01-04,86.46,McDonalds,Dining,200.0,1,6,1,9,0,6,1,False
+2026-01-04,73.91,Starbucks,Dining,200.0,1,6,1,14,0,6,1,False
+2026-01-04,88.29,Whole Foods,Groceries,400.0,1,6,1,19,2,0,-1,True
+2026-01-05,182.47,Trader Joes,Groceries,400.0,1,0,2,16,2,0,-1,True
+2026-01-05,193.21,Whole Foods,Groceries,400.0,1,0,2,19,2,0,-1,True
+2026-01-05,84.84,CVS Pharmacy,Health,100.0,1,0,2,3,3,3,1,False
+2026-01-05,23.4,Whole Foods,Groceries,400.0,1,0,2,19,2,4,-1,True
+2026-01-05,147.84,Duke Energy,Utilities,200.0,1,0,2,6,6,3,1,False
+2026-01-06,195.83,Nike,Shopping,300.0,1,1,2,11,4,3,-1,True
+2026-01-06,167.78,Spotify,Entertainment,100.0,1,1,2,13,1,0,1,False
+2026-01-06,68.86,Amazon,Shopping,300.0,1,1,2,2,4,3,1,False
+2026-01-06,160.75,CVS Pharmacy,Health,100.0,1,1,2,3,3,3,1,False
+2026-01-06,54.91,Duke Energy,Utilities,200.0,1,1,2,6,6,4,1,False
+2026-01-06,137.55,Uber,Transport,150.0,1,1,2,17,5,0,1,False
+2026-01-06,48.3,Trader Joes,Groceries,400.0,1,1,2,16,2,4,1,False
+2026-01-06,127.82,AMC Theaters,Entertainment,100.0,1,1,2,0,1,3,-1,True
+2026-01-06,50.6,Shell Gas,Transport,150.0,1,1,2,12,5,4,1,False
+2026-01-06,167.32,Delta Airlines,Transport,150.0,1,1,2,5,5,3,1,False
+2026-01-07,185.46,McDonalds,Dining,200.0,1,2,2,9,0,3,1,False
+2026-01-07,56.39,CVS Pharmacy,Health,100.0,1,2,2,3,3,6,1,False
+2026-01-07,128.74,Delta Airlines,Transport,150.0,1,2,2,5,5,3,1,False
+2026-01-07,197.36,Whole Foods,Groceries,400.0,1,2,2,19,2,0,-1,True
+2026-01-07,165.71,Nike,Shopping,300.0,1,2,2,11,4,0,1,False
+2026-01-07,149.38,Uber,Transport,150.0,1,2,2,17,5,0,1,False
+2026-01-07,189.99,Starbucks,Dining,200.0,1,2,2,14,0,0,1,False
+2026-01-07,19.24,Uber,Transport,150.0,1,2,2,17,5,4,1,False
+2026-01-08,89.6,Gym Membership,Health,100.0,1,3,2,7,3,6,1,False
+2026-01-08,12.91,Starbucks,Dining,200.0,1,3,2,14,0,6,1,False
+2026-01-08,127.44,Water Dept,Utilities,200.0,1,3,2,18,6,0,1,False
+2026-01-08,35.51,Duke Energy,Utilities,200.0,1,3,2,6,6,6,1,False
+2026-01-08,31.15,Starbucks,Dining,200.0,1,3,2,14,0,6,1,False
+2026-01-08,79.57,Whole Foods,Groceries,400.0,1,3,2,19,2,0,1,False
+2026-01-08,12.94,Kroger,Groceries,400.0,1,3,2,8,2,6,1,False
+2026-01-08,186.75,Uber,Transport,150.0,1,3,2,17,5,0,1,False
+2026-01-09,149.36,Nike,Shopping,300.0,1,4,2,11,4,0,1,False
+2026-01-09,179.91,Whole Foods,Groceries,400.0,1,4,2,19,2,0,1,False
+2026-01-09,177.57,McDonalds,Dining,200.0,1,4,2,9,0,0,1,False
+2026-01-09,111.64,Uber,Transport,150.0,1,4,2,17,5,0,1,False
+2026-01-09,155.03,Spotify,Entertainment,100.0,1,4,2,13,1,0,1,False
+2026-01-09,122.94,McDonalds,Dining,200.0,1,4,2,9,0,0,1,False
+2026-01-09,168.94,Netflix,Entertainment,100.0,1,4,2,10,1,0,1,False
+2026-01-09,164.65,AMC Theaters,Entertainment,100.0,1,4,2,0,1,3,-1,True
+2026-01-10,127.38,Gym Membership,Health,100.0,1,5,2,7,3,6,1,False
+2026-01-10,146.36,Trader Joes,Groceries,400.0,1,5,2,16,2,0,1,False
+2026-01-10,124.82,Kroger,Groceries,400.0,1,5,2,8,2,6,1,False
+2026-01-10,107.73,McDonalds,Dining,200.0,1,5,2,9,0,6,1,False
+2026-01-10,161.8,Duke Energy,Utilities,200.0,1,5,2,6,6,0,1,False
+2026-01-11,112.83,CVS Pharmacy,Health,100.0,1,6,2,3,3,6,1,False
+2026-01-11,144.94,Starbucks,Dining,200.0,1,6,2,14,0,0,1,False
+2026-01-11,23.91,Chipotle,Dining,200.0,1,6,2,4,0,6,-1,True
+2026-01-11,154.48,Uber,Transport,150.0,1,6,2,17,5,0,1,False
+2026-01-11,105.66,Gym Membership,Health,100.0,1,6,2,7,3,6,1,False
+2026-01-12,166.77,Nike,Shopping,300.0,1,0,3,11,4,3,1,False
+2026-01-12,71.76,Target,Shopping,300.0,1,0,3,15,4,4,1,False
+2026-01-12,154.84,Target,Shopping,300.0,1,0,3,15,4,0,1,False
+2026-01-12,128.39,McDonalds,Dining,200.0,1,0,3,9,0,3,1,False
+2026-01-13,85.22,CVS Pharmacy,Health,100.0,1,1,3,3,3,3,1,False
+2026-01-13,173.32,Whole Foods,Groceries,400.0,1,1,3,19,2,0,1,False
+2026-01-13,87.67,Nike,Shopping,300.0,1,1,3,11,4,4,1,False
+2026-01-13,63.06,Amazon,Shopping,300.0,1,1,3,2,4,3,1,False
+2026-01-13,76.13,AMC Theaters,Entertainment,100.0,1,1,3,0,1,3,-1,True
+2026-01-13,44.94,AMC Theaters,Entertainment,100.0,1,1,3,0,1,6,-1,True
+2026-01-13,182.2,Spotify,Entertainment,100.0,1,1,3,13,1,0,1,False
+2026-01-13,197.03,Target,Shopping,300.0,1,1,3,15,4,0,-1,True
+2026-01-14,171.78,AMC Theaters,Entertainment,100.0,1,2,3,0,1,3,-1,True
+2026-01-14,25.89,Spotify,Entertainment,100.0,1,2,3,13,1,4,1,False
+2026-01-14,64.06,Trader Joes,Groceries,400.0,1,2,3,16,2,0,1,False
+2026-01-15,32.23,Shell Gas,Transport,150.0,1,3,3,12,5,6,1,False
+2026-01-15,10.31,Shell Gas,Transport,150.0,1,3,3,12,5,6,1,False
+2026-01-15,114.85,Netflix,Entertainment,100.0,1,3,3,10,1,0,1,False
+2026-01-15,31.63,Uber,Transport,150.0,1,3,3,17,5,0,1,False
+2026-01-16,56.88,Starbucks,Dining,200.0,1,4,3,14,0,6,1,False
+2026-01-16,86.07,Chipotle,Dining,200.0,1,4,3,4,0,6,1,False
+2026-01-16,193.48,Chipotle,Dining,200.0,1,4,3,4,0,3,1,False
+2026-01-16,193.37,Nike,Shopping,300.0,1,4,3,11,4,0,1,False
+2026-01-16,148.12,Uber,Transport,150.0,1,4,3,17,5,0,1,False
+2026-01-16,142.18,Gym Membership,Health,100.0,1,4,3,7,3,0,1,False
+2026-01-17,93.9,Shell Gas,Transport,150.0,1,5,3,12,5,0,1,False
+2026-01-17,113.26,AT&T,Utilities,200.0,1,5,3,1,6,6,1,False
+2026-01-17,164.26,Spotify,Entertainment,100.0,1,5,3,13,1,0,1,False
+2026-01-17,174.45,Shell Gas,Transport,150.0,1,5,3,12,5,0,1,False
+2026-01-17,57.1,Whole Foods,Groceries,400.0,1,5,3,19,2,0,-1,True
+2026-01-17,20.61,Shell Gas,Transport,150.0,1,5,3,12,5,6,1,False
+2026-01-17,160.16,Shell Gas,Transport,150.0,1,5,3,12,5,0,1,False
+2026-01-17,113.92,Kroger,Groceries,400.0,1,5,3,8,2,6,1,False
+2026-01-17,59.53,Shell Gas,Transport,150.0,1,5,3,12,5,6,1,False
+2026-01-18,5.37,Netflix,Entertainment,100.0,1,6,3,10,1,6,-1,True
+2026-01-18,151.11,AT&T,Utilities,200.0,1,6,3,1,6,6,-1,True
+2026-01-18,28.79,Target,Shopping,300.0,1,6,3,15,4,6,1,False
+2026-01-18,22.15,Chipotle,Dining,200.0,1,6,3,4,0,6,-1,True
+2026-01-18,110.19,AMC Theaters,Entertainment,100.0,1,6,3,0,1,6,-1,True
+2026-01-18,29.68,Duke Energy,Utilities,200.0,1,6,3,6,6,6,1,False
+2026-01-19,150.23,Chipotle,Dining,200.0,1,0,4,4,0,3,1,False
+2026-01-19,192.18,Starbucks,Dining,200.0,1,0,4,14,0,0,-1,True
+2026-01-19,106.73,McDonalds,Dining,200.0,1,0,4,9,0,3,1,False
+2026-01-19,143.05,Chipotle,Dining,200.0,1,0,4,4,0,3,1,False
+2026-01-19,162.19,Target,Shopping,300.0,1,0,4,15,4,0,-1,True
+2026-01-19,52.96,AT&T,Utilities,200.0,1,0,4,1,6,3,-1,True
+2026-01-20,184.89,Whole Foods,Groceries,400.0,1,1,4,19,2,0,-1,True
+2026-01-20,86.46,Water Dept,Utilities,200.0,1,1,4,18,6,0,1,False
+2026-01-20,72.39,AMC Theaters,Entertainment,100.0,1,1,4,0,1,3,-1,True
+2026-01-20,144.33,Amazon,Shopping,300.0,1,1,4,2,4,3,1,False
+2026-01-20,112.89,Spotify,Entertainment,100.0,1,1,4,13,1,0,1,False
+2026-01-20,28.88,CVS Pharmacy,Health,100.0,1,1,4,3,3,4,1,False
+2026-01-21,196.98,McDonalds,Dining,200.0,1,2,4,9,0,3,1,False
+2026-01-21,81.53,Trader Joes,Groceries,400.0,1,2,4,16,2,0,1,False
+2026-01-21,194.38,Shell Gas,Transport,150.0,1,2,4,12,5,0,1,False
+2026-01-21,149.48,Netflix,Entertainment,100.0,1,2,4,10,1,0,1,False
+2026-01-21,197.91,Water Dept,Utilities,200.0,1,2,4,18,6,0,-1,True
+2026-01-21,109.69,Amazon,Shopping,300.0,1,2,4,2,4,3,1,False
+2026-01-21,29.53,CVS Pharmacy,Health,100.0,1,2,4,3,3,6,1,False
+2026-01-21,124.83,Chipotle,Dining,200.0,1,2,4,4,0,3,1,False
+2026-01-22,198.36,Water Dept,Utilities,200.0,1,3,4,18,6,0,-1,True
+2026-01-22,98.29,Nike,Shopping,300.0,1,3,4,11,4,0,1,False
+2026-01-22,69.88,Amazon,Shopping,300.0,1,3,4,2,4,6,1,False
+2026-01-22,65.69,Duke Energy,Utilities,200.0,1,3,4,6,6,6,1,False
+2026-01-22,11.37,Delta Airlines,Transport,150.0,1,3,4,5,5,6,1,False
+2026-01-22,131.73,CVS Pharmacy,Health,100.0,1,3,4,3,3,3,1,False
+2026-01-23,120.56,Chipotle,Dining,200.0,1,4,4,4,0,6,1,False
+2026-01-23,186.83,Delta Airlines,Transport,150.0,1,4,4,5,5,3,1,False
+2026-01-23,151.0,CVS Pharmacy,Health,100.0,1,4,4,3,3,3,1,False
+2026-01-23,79.61,McDonalds,Dining,200.0,1,4,4,9,0,6,1,False
+2026-01-24,144.9,CVS Pharmacy,Health,100.0,1,5,4,3,3,6,1,False
+2026-01-24,20.5,Chipotle,Dining,200.0,1,5,4,4,0,6,1,False
+2026-01-24,88.34,Target,Shopping,300.0,1,5,4,15,4,0,1,False
+2026-01-24,91.45,Duke Energy,Utilities,200.0,1,5,4,6,6,6,1,False
+2026-01-24,88.51,Amazon,Shopping,300.0,1,5,4,2,4,6,1,False
+2026-01-25,169.88,Duke Energy,Utilities,200.0,1,6,4,6,6,0,1,False
+2026-01-25,173.49,Starbucks,Dining,200.0,1,6,4,14,0,0,1,False
+2026-01-25,147.59,AMC Theaters,Entertainment,100.0,1,6,4,0,1,6,-1,True
+2026-01-25,134.31,Shell Gas,Transport,150.0,1,6,4,12,5,0,1,False
+2026-01-25,35.63,CVS Pharmacy,Health,100.0,1,6,4,3,3,6,-1,True
+2026-01-25,154.23,Target,Shopping,300.0,1,6,4,15,4,0,1,False
+2026-01-25,11.72,Kroger,Groceries,400.0,1,6,4,8,2,6,1,False
+2026-01-26,169.57,Trader Joes,Groceries,400.0,1,0,5,16,2,0,-1,True
+2026-01-26,91.13,Gym Membership,Health,100.0,1,0,5,7,3,3,1,False
+2026-01-26,97.85,AT&T,Utilities,200.0,1,0,5,1,6,3,-1,True
+2026-01-26,150.48,CVS Pharmacy,Health,100.0,1,0,5,3,3,3,1,False
+2026-01-26,68.28,Starbucks,Dining,200.0,1,0,5,14,0,4,-1,True
+2026-01-26,94.16,Nike,Shopping,300.0,1,0,5,11,4,3,1,False
+2026-01-26,88.01,Trader Joes,Groceries,400.0,1,0,5,16,2,0,1,False
+2026-01-27,11.2,Whole Foods,Groceries,400.0,1,1,5,19,2,4,-1,True
+2026-01-27,5.01,Netflix,Entertainment,100.0,1,1,5,10,1,4,-1,True
+2026-01-28,135.29,Water Dept,Utilities,200.0,1,2,5,18,6,0,1,False
+2026-01-28,159.59,Whole Foods,Groceries,400.0,1,2,5,19,2,0,1,False
+2026-01-29,192.02,CVS Pharmacy,Health,100.0,1,3,5,3,3,3,1,False
+2026-01-29,51.46,Duke Energy,Utilities,200.0,1,3,5,6,6,6,1,False
+2026-01-29,131.46,Uber,Transport,150.0,1,3,5,17,5,0,1,False
+2026-01-29,195.64,Nike,Shopping,300.0,1,3,5,11,4,0,1,False
+2026-01-29,122.25,Chipotle,Dining,200.0,1,3,5,4,0,3,1,False
+2026-01-29,167.95,Whole Foods,Groceries,400.0,1,3,5,19,2,0,1,False
+2026-01-29,63.72,Shell Gas,Transport,150.0,1,3,5,12,5,6,1,False
+2026-01-29,132.83,Trader Joes,Groceries,400.0,1,3,5,16,2,0,1,False
+2026-01-30,115.07,Spotify,Entertainment,100.0,1,4,5,13,1,0,1,False
+2026-01-30,149.9,Gym Membership,Health,100.0,1,4,5,7,3,0,1,False
+2026-01-30,170.52,Duke Energy,Utilities,200.0,1,4,5,6,6,0,1,False
+2026-01-30,48.77,Netflix,Entertainment,100.0,1,4,5,10,1,6,1,False
+2026-01-30,83.57,AT&T,Utilities,200.0,1,4,5,1,6,6,1,False
+2026-01-30,121.59,Target,Shopping,300.0,1,4,5,15,4,0,1,False
+2026-01-30,30.78,Spotify,Entertainment,100.0,1,4,5,13,1,6,1,False
+2026-01-30,159.58,Starbucks,Dining,200.0,1,4,5,14,0,0,1,False
+2026-01-31,5.55,CVS Pharmacy,Health,100.0,1,5,5,3,3,6,1,False
+2026-01-31,38.26,Spotify,Entertainment,100.0,1,5,5,13,1,6,1,False
+2026-01-31,143.05,Amazon,Shopping,300.0,1,5,5,2,4,6,1,False
+2026-01-31,110.65,Shell Gas,Transport,150.0,1,5,5,12,5,0,1,False
+2026-01-31,186.33,CVS Pharmacy,Health,100.0,1,5,5,3,3,3,1,False
+2026-01-31,192.12,Trader Joes,Groceries,400.0,1,5,5,16,2,0,1,False
+2026-01-31,103.3,AMC Theaters,Entertainment,100.0,1,5,5,0,1,6,1,False
+2026-01-31,31.14,Kroger,Groceries,400.0,1,5,5,8,2,6,1,False
+2026-02-01,110.52,Shell Gas,Transport,150.0,2,6,5,12,5,0,1,False
+2026-02-01,37.85,Nike,Shopping,300.0,2,6,5,11,4,6,1,False
+2026-02-01,40.15,Uber,Transport,150.0,2,6,5,17,5,2,1,False
+2026-02-01,48.28,Nike,Shopping,300.0,2,6,5,11,4,6,1,False
+2026-02-01,71.99,Shell Gas,Transport,150.0,2,6,5,12,5,6,1,False
+2026-02-02,169.91,Delta Airlines,Transport,150.0,2,0,6,5,5,3,1,False
+2026-02-02,88.14,Trader Joes,Groceries,400.0,2,0,6,16,2,4,1,False
+2026-02-02,92.45,CVS Pharmacy,Health,100.0,2,0,6,3,3,3,1,False
+2026-02-02,188.02,Uber,Transport,150.0,2,0,6,17,5,0,-1,True
+2026-02-02,158.55,Gym Membership,Health,100.0,2,0,6,7,3,3,1,False
+2026-02-03,176.28,Target,Shopping,300.0,2,1,6,15,4,0,1,False
+2026-02-03,186.34,Uber,Transport,150.0,2,1,6,17,5,0,1,False
+2026-02-03,59.01,AT&T,Utilities,200.0,2,1,6,1,6,3,1,False
+2026-02-03,174.53,AT&T,Utilities,200.0,2,1,6,1,6,3,1,False
+2026-02-03,175.69,Starbucks,Dining,200.0,2,1,6,14,0,0,1,False
+2026-02-03,112.34,AMC Theaters,Entertainment,100.0,2,1,6,0,1,3,1,False
+2026-02-04,193.31,AMC Theaters,Entertainment,100.0,2,2,6,0,1,3,-1,True
+2026-02-04,158.91,Spotify,Entertainment,100.0,2,2,6,13,1,0,1,False
+2026-02-04,199.7,Gym Membership,Health,100.0,2,2,6,7,3,3,1,False
+2026-02-04,7.79,Gym Membership,Health,100.0,2,2,6,7,3,4,1,False
+2026-02-04,137.4,Uber,Transport,150.0,2,2,6,17,5,0,1,False
+2026-02-04,22.84,Spotify,Entertainment,100.0,2,2,6,13,1,4,1,False
+2026-02-04,60.1,Gym Membership,Health,100.0,2,2,6,7,3,6,1,False
+2026-02-04,135.67,Shell Gas,Transport,150.0,2,2,6,12,5,0,1,False
+2026-02-05,94.6,AT&T,Utilities,200.0,2,3,6,1,6,6,1,False
+2026-02-05,7.63,Water Dept,Utilities,200.0,2,3,6,18,6,2,1,False
+2026-02-05,104.2,Duke Energy,Utilities,200.0,2,3,6,6,6,6,1,False
+2026-02-05,59.65,Uber,Transport,150.0,2,3,6,17,5,0,1,False
+2026-02-05,75.42,Nike,Shopping,300.0,2,3,6,11,4,6,1,False
+2026-02-05,105.46,Kroger,Groceries,400.0,2,3,6,8,2,6,1,False
+2026-02-05,88.58,CVS Pharmacy,Health,100.0,2,3,6,3,3,6,1,False
+2026-02-05,10.03,CVS Pharmacy,Health,100.0,2,3,6,3,3,6,1,False
+2026-02-05,35.68,Gym Membership,Health,100.0,2,3,6,7,3,6,1,False
+2026-02-06,199.49,Delta Airlines,Transport,150.0,2,4,6,5,5,3,1,False
+2026-02-06,160.59,Delta Airlines,Transport,150.0,2,4,6,5,5,3,1,False
+2026-02-06,62.96,Kroger,Groceries,400.0,2,4,6,8,2,6,1,False
+2026-02-06,101.92,Chipotle,Dining,200.0,2,4,6,4,0,6,1,False
+2026-02-06,162.23,Nike,Shopping,300.0,2,4,6,11,4,0,1,False
+2026-02-06,106.73,Kroger,Groceries,400.0,2,4,6,8,2,6,1,False
+2026-02-06,25.68,Netflix,Entertainment,100.0,2,4,6,10,1,6,1,False
+2026-02-06,36.11,Delta Airlines,Transport,150.0,2,4,6,5,5,6,1,False
+2026-02-07,41.91,Duke Energy,Utilities,200.0,2,5,6,6,6,6,1,False
+2026-02-07,57.3,Uber,Transport,150.0,2,5,6,17,5,0,1,False
+2026-02-07,150.52,McDonalds,Dining,200.0,2,5,6,9,0,0,1,False
+2026-02-07,105.31,Chipotle,Dining,200.0,2,5,6,4,0,6,1,False
+2026-02-07,18.43,Delta Airlines,Transport,150.0,2,5,6,5,5,6,1,False
+2026-02-07,81.11,Chipotle,Dining,200.0,2,5,6,4,0,6,1,False
+2026-02-07,11.89,Whole Foods,Groceries,400.0,2,5,6,19,2,2,-1,True
+2026-02-07,116.61,Chipotle,Dining,200.0,2,5,6,4,0,6,1,False
+2026-02-07,180.67,Chipotle,Dining,200.0,2,5,6,4,0,3,1,False
+2026-02-07,15.11,Starbucks,Dining,200.0,2,5,6,14,0,6,1,False
+2026-02-08,49.09,Trader Joes,Groceries,400.0,2,6,6,16,2,2,1,False
+2026-02-08,59.01,Uber,Transport,150.0,2,6,6,17,5,2,1,False
+2026-02-08,95.98,Amazon,Shopping,300.0,2,6,6,2,4,6,1,False
+2026-02-08,104.02,AMC Theaters,Entertainment,100.0,2,6,6,0,1,6,-1,True
+2026-02-08,68.53,AT&T,Utilities,200.0,2,6,6,1,6,6,1,False
+2026-02-08,83.37,Delta Airlines,Transport,150.0,2,6,6,5,5,6,1,False
+2026-02-08,132.8,Chipotle,Dining,200.0,2,6,6,4,0,6,1,False
+2026-02-08,60.71,Kroger,Groceries,400.0,2,6,6,8,2,6,1,False
+2026-02-09,193.97,Duke Energy,Utilities,200.0,2,0,7,6,6,3,-1,True
+2026-02-09,93.38,Water Dept,Utilities,200.0,2,0,7,18,6,0,1,False
+2026-02-09,24.83,Gym Membership,Health,100.0,2,0,7,7,3,4,1,False
+2026-02-09,92.51,Uber,Transport,150.0,2,0,7,17,5,0,1,False
+2026-02-09,116.07,Shell Gas,Transport,150.0,2,0,7,12,5,3,1,False
+2026-02-10,104.88,AMC Theaters,Entertainment,100.0,2,1,7,0,1,3,1,False
+2026-02-10,158.75,Target,Shopping,300.0,2,1,7,15,4,0,1,False
+2026-02-10,70.25,Amazon,Shopping,300.0,2,1,7,2,4,3,1,False
+2026-02-10,108.3,Delta Airlines,Transport,150.0,2,1,7,5,5,3,1,False
+2026-02-10,139.29,AT&T,Utilities,200.0,2,1,7,1,6,3,1,False
+2026-02-11,51.37,Uber,Transport,150.0,2,2,7,17,5,0,1,False
+2026-02-11,161.02,Spotify,Entertainment,100.0,2,2,7,13,1,0,1,False
+2026-02-11,45.66,Delta Airlines,Transport,150.0,2,2,7,5,5,6,1,False
+2026-02-11,145.04,Chipotle,Dining,200.0,2,2,7,4,0,3,1,False
+2026-02-11,136.75,Uber,Transport,150.0,2,2,7,17,5,0,1,False
+2026-02-11,31.57,Water Dept,Utilities,200.0,2,2,7,18,6,4,1,False
+2026-02-11,80.51,AT&T,Utilities,200.0,2,2,7,1,6,3,1,False
+2026-02-12,103.25,Uber,Transport,150.0,2,3,7,17,5,0,1,False
+2026-02-12,120.01,Target,Shopping,300.0,2,3,7,15,4,0,1,False
+2026-02-12,20.29,Netflix,Entertainment,100.0,2,3,7,10,1,6,1,False
+2026-02-12,63.87,AT&T,Utilities,200.0,2,3,7,1,6,6,1,False
+2026-02-12,57.95,Target,Shopping,300.0,2,3,7,15,4,0,1,False
+2026-02-12,124.12,McDonalds,Dining,200.0,2,3,7,9,0,0,1,False
+2026-02-12,183.53,AMC Theaters,Entertainment,100.0,2,3,7,0,1,3,1,False
+2026-02-13,108.11,Amazon,Shopping,300.0,2,4,7,2,4,6,1,False
+2026-02-13,169.31,AMC Theaters,Entertainment,100.0,2,4,7,0,1,3,1,False
+2026-02-13,27.36,CVS Pharmacy,Health,100.0,2,4,7,3,3,6,1,False
+2026-02-13,69.09,Amazon,Shopping,300.0,2,4,7,2,4,6,1,False
+2026-02-13,95.2,Chipotle,Dining,200.0,2,4,7,4,0,6,1,False
+2026-02-13,9.58,Netflix,Entertainment,100.0,2,4,7,10,1,6,1,False
+2026-02-13,52.82,Delta Airlines,Transport,150.0,2,4,7,5,5,6,1,False
+2026-02-14,41.38,Chipotle,Dining,200.0,2,5,7,4,0,6,1,False
+2026-02-14,130.43,Nike,Shopping,300.0,2,5,7,11,4,0,1,False
+2026-02-14,57.51,Starbucks,Dining,200.0,2,5,7,14,0,6,1,False
+2026-02-14,188.37,Spotify,Entertainment,100.0,2,5,7,13,1,0,1,False
+2026-02-14,181.29,Netflix,Entertainment,100.0,2,5,7,10,1,0,1,False
+2026-02-14,96.6,AMC Theaters,Entertainment,100.0,2,5,7,0,1,6,1,False
+2026-02-14,111.28,McDonalds,Dining,200.0,2,5,7,9,0,6,1,False
+2026-02-15,63.11,Target,Shopping,300.0,2,6,7,15,4,6,1,False
+2026-02-15,175.9,Starbucks,Dining,200.0,2,6,7,14,0,0,1,False
+2026-02-15,159.2,Uber,Transport,150.0,2,6,7,17,5,0,1,False
+2026-02-15,59.89,McDonalds,Dining,200.0,2,6,7,9,0,6,1,False
+2026-02-16,141.96,Whole Foods,Groceries,400.0,2,0,8,19,2,0,-1,True
+2026-02-16,159.08,Uber,Transport,150.0,2,0,8,17,5,0,1,False
+2026-02-16,32.2,Shell Gas,Transport,150.0,2,0,8,12,5,4,1,False
+2026-02-16,131.97,Delta Airlines,Transport,150.0,2,0,8,5,5,3,1,False
+2026-02-16,194.69,Netflix,Entertainment,100.0,2,0,8,10,1,3,-1,True
+2026-02-16,156.64,AMC Theaters,Entertainment,100.0,2,0,8,0,1,3,-1,True
+2026-02-16,133.0,Duke Energy,Utilities,200.0,2,0,8,6,6,3,1,False
+2026-02-16,131.3,Netflix,Entertainment,100.0,2,0,8,10,1,3,1,False
+2026-02-16,88.81,Uber,Transport,150.0,2,0,8,17,5,0,1,False
+2026-02-17,188.87,Kroger,Groceries,400.0,2,1,8,8,2,3,1,False
+2026-02-17,166.94,Delta Airlines,Transport,150.0,2,1,8,5,5,3,1,False
+2026-02-17,59.8,Nike,Shopping,300.0,2,1,8,11,4,4,1,False
+2026-02-18,92.3,AMC Theaters,Entertainment,100.0,2,2,8,0,1,3,1,False
+2026-02-18,11.48,Nike,Shopping,300.0,2,2,8,11,4,4,1,False
+2026-02-18,14.3,Chipotle,Dining,200.0,2,2,8,4,0,6,1,False
+2026-02-18,49.63,Uber,Transport,150.0,2,2,8,17,5,0,1,False
+2026-02-18,149.95,Starbucks,Dining,200.0,2,2,8,14,0,0,1,False
+2026-02-18,178.79,Chipotle,Dining,200.0,2,2,8,4,0,3,1,False
+2026-02-18,93.46,AMC Theaters,Entertainment,100.0,2,2,8,0,1,3,1,False
+2026-02-19,59.06,Netflix,Entertainment,100.0,2,3,8,10,1,6,1,False
+2026-02-19,185.31,Target,Shopping,300.0,2,3,8,15,4,0,1,False
+2026-02-19,46.65,Shell Gas,Transport,150.0,2,3,8,12,5,6,1,False
+2026-02-19,60.21,Water Dept,Utilities,200.0,2,3,8,18,6,0,1,False
+2026-02-20,70.3,Water Dept,Utilities,200.0,2,4,8,18,6,0,1,False
+2026-02-20,182.42,Gym Membership,Health,100.0,2,4,8,7,3,0,1,False
+2026-02-20,32.12,Amazon,Shopping,300.0,2,4,8,2,4,6,1,False
+2026-02-20,84.84,Uber,Transport,150.0,2,4,8,17,5,0,1,False
+2026-02-20,70.45,Amazon,Shopping,300.0,2,4,8,2,4,6,1,False
+2026-02-20,7.6,AMC Theaters,Entertainment,100.0,2,4,8,0,1,6,1,False
+2026-02-20,176.7,Delta Airlines,Transport,150.0,2,4,8,5,5,3,1,False
+2026-02-21,36.51,Spotify,Entertainment,100.0,2,5,8,13,1,6,1,False
+2026-02-21,25.79,CVS Pharmacy,Health,100.0,2,5,8,3,3,6,1,False
+2026-02-21,8.75,CVS Pharmacy,Health,100.0,2,5,8,3,3,6,1,False
+2026-02-21,63.88,Uber,Transport,150.0,2,5,8,17,5,0,1,False
+2026-02-22,51.86,Starbucks,Dining,200.0,2,6,8,14,0,6,1,False
+2026-02-22,9.69,AMC Theaters,Entertainment,100.0,2,6,8,0,1,6,-1,True
+2026-02-22,18.88,Delta Airlines,Transport,150.0,2,6,8,5,5,6,1,False
+2026-02-22,53.97,Whole Foods,Groceries,400.0,2,6,8,19,2,2,1,False
+2026-02-22,151.39,Water Dept,Utilities,200.0,2,6,8,18,6,0,1,False
+2026-02-22,153.57,CVS Pharmacy,Health,100.0,2,6,8,3,3,6,1,False
+2026-02-22,22.35,Chipotle,Dining,200.0,2,6,8,4,0,6,1,False
+2026-02-22,48.54,Nike,Shopping,300.0,2,6,8,11,4,6,1,False
+2026-02-23,46.09,Uber,Transport,150.0,2,0,9,17,5,4,1,False
+2026-02-23,13.57,AMC Theaters,Entertainment,100.0,2,0,9,0,1,4,-1,True
+2026-02-23,180.83,AMC Theaters,Entertainment,100.0,2,0,9,0,1,3,-1,True
+2026-02-23,36.73,CVS Pharmacy,Health,100.0,2,0,9,3,3,4,1,False
+2026-02-23,82.38,AT&T,Utilities,200.0,2,0,9,1,6,3,1,False
+2026-02-23,18.51,Whole Foods,Groceries,400.0,2,0,9,19,2,4,-1,True
+2026-02-23,111.7,Uber,Transport,150.0,2,0,9,17,5,0,1,False
+2026-02-23,96.37,Uber,Transport,150.0,2,0,9,17,5,0,1,False
+2026-02-24,63.35,Target,Shopping,300.0,2,1,9,15,4,4,1,False
+2026-02-24,163.22,Gym Membership,Health,100.0,2,1,9,7,3,3,1,False
+2026-02-24,31.38,Shell Gas,Transport,150.0,2,1,9,12,5,4,1,False
+2026-02-24,57.01,Netflix,Entertainment,100.0,2,1,9,10,1,4,1,False
+2026-02-24,37.03,Whole Foods,Groceries,400.0,2,1,9,19,2,4,1,False
+2026-02-25,8.2,Uber,Transport,150.0,2,2,9,17,5,4,1,False
+2026-02-25,63.54,Kroger,Groceries,400.0,2,2,9,8,2,4,1,False
+2026-02-25,133.63,Amazon,Shopping,300.0,2,2,9,2,4,3,1,False
+2026-02-25,64.39,Uber,Transport,150.0,2,2,9,17,5,0,1,False
+2026-02-25,186.33,Gym Membership,Health,100.0,2,2,9,7,3,3,1,False
+2026-02-25,72.68,Nike,Shopping,300.0,2,2,9,11,4,4,1,False
+2026-02-25,80.1,Shell Gas,Transport,150.0,2,2,9,12,5,0,1,False
+2026-02-26,91.12,Netflix,Entertainment,100.0,2,3,9,10,1,6,1,False
+2026-02-26,156.1,Chipotle,Dining,200.0,2,3,9,4,0,3,1,False
+2026-02-26,20.92,Whole Foods,Groceries,400.0,2,3,9,19,2,2,1,False
+2026-02-26,149.81,Delta Airlines,Transport,150.0,2,3,9,5,5,3,1,False
+2026-02-26,196.32,AT&T,Utilities,200.0,2,3,9,1,6,3,-1,True
+2026-02-27,103.97,Target,Shopping,300.0,2,4,9,15,4,0,1,False
+2026-02-27,198.9,Uber,Transport,150.0,2,4,9,17,5,0,1,False
+2026-02-27,39.95,Netflix,Entertainment,100.0,2,4,9,10,1,6,1,False
+2026-02-27,106.83,Uber,Transport,150.0,2,4,9,17,5,0,1,False
+2026-02-28,189.65,Delta Airlines,Transport,150.0,2,5,9,5,5,0,1,False
+2026-02-28,194.17,McDonalds,Dining,200.0,2,5,9,9,0,0,1,False
+2026-02-28,122.25,AT&T,Utilities,200.0,2,5,9,1,6,6,1,False
+2026-02-28,55.56,Uber,Transport,150.0,2,5,9,17,5,0,1,False
+2026-02-28,80.2,McDonalds,Dining,200.0,2,5,9,9,0,6,1,False
+2026-02-28,190.81,Nike,Shopping,300.0,2,5,9,11,4,0,1,False
+2026-02-28,41.23,Kroger,Groceries,400.0,2,5,9,8,2,6,1,False
+2026-02-28,173.34,Target,Shopping,300.0,2,5,9,15,4,0,1,False
+2026-03-01,10.35,Whole Foods,Groceries,400.0,3,6,9,19,2,2,-1,True
+2026-03-01,143.74,Amazon,Shopping,300.0,3,6,9,2,4,6,1,False
+2026-03-01,189.27,Starbucks,Dining,200.0,3,6,9,14,0,0,1,False
+2026-03-01,19.32,Water Dept,Utilities,200.0,3,6,9,18,6,2,-1,True
+2026-03-02,48.15,Chipotle,Dining,200.0,3,0,10,4,0,4,1,False
+2026-03-02,36.63,McDonalds,Dining,200.0,3,0,10,9,0,4,1,False
+2026-03-02,181.9,CVS Pharmacy,Health,100.0,3,0,10,3,3,3,1,False
+2026-03-02,54.16,McDonalds,Dining,200.0,3,0,10,9,0,4,1,False
+2026-03-02,90.69,Kroger,Groceries,400.0,3,0,10,8,2,3,1,False
+2026-03-02,9.79,Target,Shopping,300.0,3,0,10,15,4,4,-1,True
+2026-03-02,146.27,Target,Shopping,300.0,3,0,10,15,4,0,1,False
+2026-03-03,27.65,Starbucks,Dining,200.0,3,1,10,14,0,4,1,False
+2026-03-03,116.8,Amazon,Shopping,300.0,3,1,10,2,4,3,1,False
+2026-03-03,157.96,Starbucks,Dining,200.0,3,1,10,14,0,0,1,False
+2026-03-03,34.41,AT&T,Utilities,200.0,3,1,10,1,6,4,1,False
+2026-03-03,113.78,Target,Shopping,300.0,3,1,10,15,4,0,1,False
+2026-03-04,128.85,Kroger,Groceries,400.0,3,2,10,8,2,3,1,False
+2026-03-04,75.49,AT&T,Utilities,200.0,3,2,10,1,6,3,1,False
+2026-03-04,193.29,Shell Gas,Transport,150.0,3,2,10,12,5,0,1,False
+2026-03-04,160.54,AMC Theaters,Entertainment,100.0,3,2,10,0,1,3,1,False
+2026-03-04,109.63,AMC Theaters,Entertainment,100.0,3,2,10,0,1,3,1,False
+2026-03-04,96.55,Starbucks,Dining,200.0,3,2,10,14,0,0,1,False
+2026-03-05,115.53,Nike,Shopping,300.0,3,3,10,11,4,0,1,False
+2026-03-05,191.91,CVS Pharmacy,Health,100.0,3,3,10,3,3,3,1,False
+2026-03-05,195.73,Uber,Transport,150.0,3,3,10,17,5,0,1,False
+2026-03-05,180.06,Trader Joes,Groceries,400.0,3,3,10,16,2,0,1,False
+2026-03-05,39.76,Target,Shopping,300.0,3,3,10,15,4,4,1,False
+2026-03-05,160.0,Spotify,Entertainment,100.0,3,3,10,13,1,0,1,False
+2026-03-06,13.83,Delta Airlines,Transport,150.0,3,4,10,5,5,6,1,False
+2026-03-06,61.29,Duke Energy,Utilities,200.0,3,4,10,6,6,6,1,False
+2026-03-06,148.38,Netflix,Entertainment,100.0,3,4,10,10,1,0,1,False
+2026-03-06,155.9,Whole Foods,Groceries,400.0,3,4,10,19,2,0,1,False
+2026-03-06,176.46,Nike,Shopping,300.0,3,4,10,11,4,0,1,False
+2026-03-07,198.78,Netflix,Entertainment,100.0,3,5,10,10,1,0,1,False
+2026-03-07,197.45,Whole Foods,Groceries,400.0,3,5,10,19,2,0,-1,True
+2026-03-07,57.08,Starbucks,Dining,200.0,3,5,10,14,0,6,1,False
+2026-03-07,156.2,Amazon,Shopping,300.0,3,5,10,2,4,6,1,False
+2026-03-07,157.98,Duke Energy,Utilities,200.0,3,5,10,6,6,0,1,False
+2026-03-07,187.37,Netflix,Entertainment,100.0,3,5,10,10,1,0,1,False
+2026-03-07,123.65,Uber,Transport,150.0,3,5,10,17,5,0,1,False
+2026-03-07,51.0,Netflix,Entertainment,100.0,3,5,10,10,1,6,1,False
+2026-03-07,119.78,Spotify,Entertainment,100.0,3,5,10,13,1,0,1,False
+2026-03-07,51.7,AT&T,Utilities,200.0,3,5,10,1,6,6,1,False
+2026-03-08,159.95,Shell Gas,Transport,150.0,3,6,10,12,5,0,1,False
+2026-03-08,83.06,Nike,Shopping,300.0,3,6,10,11,4,6,1,False
+2026-03-08,180.65,Water Dept,Utilities,200.0,3,6,10,18,6,0,-1,True
+2026-03-08,28.22,Whole Foods,Groceries,400.0,3,6,10,19,2,2,-1,True
+2026-03-08,158.33,Shell Gas,Transport,150.0,3,6,10,12,5,0,1,False
+2026-03-08,68.99,Trader Joes,Groceries,400.0,3,6,10,16,2,2,1,False
+2026-03-08,166.36,Water Dept,Utilities,200.0,3,6,10,18,6,0,-1,True
+2026-03-08,118.43,Spotify,Entertainment,100.0,3,6,10,13,1,0,1,False
+2026-03-08,6.38,AT&T,Utilities,200.0,3,6,10,1,6,6,-1,True
+2026-03-09,57.26,AT&T,Utilities,200.0,3,0,11,1,6,4,1,False
+2026-03-09,142.79,Duke Energy,Utilities,200.0,3,0,11,6,6,3,1,False
+2026-03-09,120.58,Uber,Transport,150.0,3,0,11,17,5,0,1,False
+2026-03-09,139.77,Delta Airlines,Transport,150.0,3,0,11,5,5,3,1,False
+2026-03-09,113.1,Kroger,Groceries,400.0,3,0,11,8,2,3,1,False
+2026-03-09,182.75,Kroger,Groceries,400.0,3,0,11,8,2,3,1,False
+2026-03-10,79.08,Nike,Shopping,300.0,3,1,11,11,4,4,1,False
+2026-03-10,20.36,CVS Pharmacy,Health,100.0,3,1,11,3,3,4,1,False
+2026-03-10,113.91,Whole Foods,Groceries,400.0,3,1,11,19,2,0,1,False
+2026-03-10,130.67,Amazon,Shopping,300.0,3,1,11,2,4,3,1,False
+2026-03-11,35.98,AT&T,Utilities,200.0,3,2,11,1,6,6,1,False
+2026-03-11,90.34,AT&T,Utilities,200.0,3,2,11,1,6,3,1,False
+2026-03-11,52.55,Uber,Transport,150.0,3,2,11,17,5,4,1,False
+2026-03-11,154.98,Trader Joes,Groceries,400.0,3,2,11,16,2,0,1,False
+2026-03-12,102.17,McDonalds,Dining,200.0,3,3,11,9,0,6,1,False
+2026-03-12,129.41,Starbucks,Dining,200.0,3,3,11,14,0,0,1,False
+2026-03-12,30.99,Amazon,Shopping,300.0,3,3,11,2,4,6,1,False
+2026-03-12,173.67,AT&T,Utilities,200.0,3,3,11,1,6,3,1,False
+2026-03-12,22.4,Kroger,Groceries,400.0,3,3,11,8,2,6,1,False
+2026-03-12,134.28,Delta Airlines,Transport,150.0,3,3,11,5,5,3,1,False
+2026-03-12,160.71,Starbucks,Dining,200.0,3,3,11,14,0,0,1,False
+2026-03-12,148.22,Starbucks,Dining,200.0,3,3,11,14,0,0,1,False
+2026-03-13,115.56,Trader Joes,Groceries,400.0,3,4,11,16,2,0,1,False
+2026-03-13,152.03,Uber,Transport,150.0,3,4,11,17,5,0,1,False
+2026-03-13,174.7,CVS Pharmacy,Health,100.0,3,4,11,3,3,3,1,False
+2026-03-13,61.62,Trader Joes,Groceries,400.0,3,4,11,16,2,0,1,False
+2026-03-13,144.01,Nike,Shopping,300.0,3,4,11,11,4,0,1,False
+2026-03-13,131.4,Target,Shopping,300.0,3,4,11,15,4,0,1,False
+2026-03-14,124.93,Shell Gas,Transport,150.0,3,5,11,12,5,0,1,False
+2026-03-14,83.72,Spotify,Entertainment,100.0,3,5,11,13,1,0,1,False
+2026-03-14,125.19,Chipotle,Dining,200.0,3,5,11,4,0,6,1,False
+2026-03-14,178.43,CVS Pharmacy,Health,100.0,3,5,11,3,3,3,1,False
+2026-03-14,75.74,Target,Shopping,300.0,3,5,11,15,4,0,1,False
+2026-03-14,147.68,Gym Membership,Health,100.0,3,5,11,7,3,0,1,False
+2026-03-15,45.43,Amazon,Shopping,300.0,3,6,11,2,4,6,1,False
+2026-03-15,51.63,Whole Foods,Groceries,400.0,3,6,11,19,2,2,-1,True
+2026-03-15,106.32,Duke Energy,Utilities,200.0,3,6,11,6,6,6,1,False
+2026-03-16,36.95,Duke Energy,Utilities,200.0,3,0,12,6,6,4,1,False
+2026-03-16,63.4,Nike,Shopping,300.0,3,0,12,11,4,4,1,False
+2026-03-16,194.7,Shell Gas,Transport,150.0,3,0,12,12,5,3,1,False
+2026-03-16,39.55,AT&T,Utilities,200.0,3,0,12,1,6,4,1,False
+2026-03-16,62.37,Netflix,Entertainment,100.0,3,0,12,10,1,4,1,False
+2026-03-16,19.75,Target,Shopping,300.0,3,0,12,15,4,4,1,False
+2026-03-16,31.87,Duke Energy,Utilities,200.0,3,0,12,6,6,4,1,False
+2026-03-17,55.56,Delta Airlines,Transport,150.0,3,1,12,5,5,4,1,False
+2026-03-17,163.57,Trader Joes,Groceries,400.0,3,1,12,16,2,0,1,False
+2026-03-17,130.14,Target,Shopping,300.0,3,1,12,15,4,0,1,False
+2026-03-17,173.93,Trader Joes,Groceries,400.0,3,1,12,16,2,0,1,False
+2026-03-17,28.06,Starbucks,Dining,200.0,3,1,12,14,0,4,1,False
+2026-03-17,153.61,Starbucks,Dining,200.0,3,1,12,14,0,0,1,False
+2026-03-17,9.63,Shell Gas,Transport,150.0,3,1,12,12,5,4,1,False
+2026-03-17,17.56,Uber,Transport,150.0,3,1,12,17,5,4,1,False
+2026-03-17,59.84,Gym Membership,Health,100.0,3,1,12,7,3,4,1,False
+2026-03-18,196.22,Chipotle,Dining,200.0,3,2,12,4,0,3,1,False
+2026-03-18,190.22,Starbucks,Dining,200.0,3,2,12,14,0,0,1,False
+2026-03-18,163.38,Netflix,Entertainment,100.0,3,2,12,10,1,3,1,False
+2026-03-18,132.93,Whole Foods,Groceries,400.0,3,2,12,19,2,0,1,False
+2026-03-18,65.01,Duke Energy,Utilities,200.0,3,2,12,6,6,4,1,False
+2026-03-18,120.63,McDonalds,Dining,200.0,3,2,12,9,0,3,1,False
+2026-03-18,136.59,Gym Membership,Health,100.0,3,2,12,7,3,3,1,False
+2026-03-18,145.77,McDonalds,Dining,200.0,3,2,12,9,0,3,1,False
+2026-03-19,146.46,Kroger,Groceries,400.0,3,3,12,8,2,3,1,False
+2026-03-19,15.5,Delta Airlines,Transport,150.0,3,3,12,5,5,6,1,False
+2026-03-19,51.72,Chipotle,Dining,200.0,3,3,12,4,0,6,1,False
+2026-03-19,122.2,Nike,Shopping,300.0,3,3,12,11,4,0,1,False
+2026-03-19,47.9,Amazon,Shopping,300.0,3,3,12,2,4,6,1,False
+2026-03-20,23.71,Chipotle,Dining,200.0,3,4,12,4,0,6,1,False
+2026-03-20,33.49,Kroger,Groceries,400.0,3,4,12,8,2,6,1,False
+2026-03-20,75.04,Chipotle,Dining,200.0,3,4,12,4,0,6,1,False
+2026-03-20,147.85,Amazon,Shopping,300.0,3,4,12,2,4,3,1,False
+2026-03-21,107.2,Delta Airlines,Transport,150.0,3,5,12,5,5,6,1,False
+2026-03-21,147.07,Netflix,Entertainment,100.0,3,5,12,10,1,0,1,False
+2026-03-21,8.86,Target,Shopping,300.0,3,5,12,15,4,2,1,False
+2026-03-21,196.17,Target,Shopping,300.0,3,5,12,15,4,0,1,False
+2026-03-21,62.86,Water Dept,Utilities,200.0,3,5,12,18,6,2,1,False
+2026-03-22,187.74,Uber,Transport,150.0,3,6,12,17,5,0,1,False
+2026-03-22,92.85,Target,Shopping,300.0,3,6,12,15,4,0,1,False
+2026-03-22,57.25,CVS Pharmacy,Health,100.0,3,6,12,3,3,6,1,False
+2026-03-22,184.66,Trader Joes,Groceries,400.0,3,6,12,16,2,0,1,False
+2026-03-22,142.99,Whole Foods,Groceries,400.0,3,6,12,19,2,0,1,False
+2026-03-22,188.44,Whole Foods,Groceries,400.0,3,6,12,19,2,0,-1,True
+2026-03-23,51.96,Chipotle,Dining,200.0,3,0,13,4,0,4,1,False
+2026-03-23,35.87,Duke Energy,Utilities,200.0,3,0,13,6,6,4,1,False
+2026-03-23,33.12,Chipotle,Dining,200.0,3,0,13,4,0,4,1,False
+2026-03-23,106.63,Water Dept,Utilities,200.0,3,0,13,18,6,0,1,False
+2026-03-23,143.26,Uber,Transport,150.0,3,0,13,17,5,0,1,False
+2026-03-23,30.27,Duke Energy,Utilities,200.0,3,0,13,6,6,4,1,False
+2026-03-23,135.72,Gym Membership,Health,100.0,3,0,13,7,3,3,1,False
+2026-03-24,89.44,Uber,Transport,150.0,3,1,13,17,5,0,1,False
+2026-03-24,123.02,Delta Airlines,Transport,150.0,3,1,13,5,5,3,1,False
+2026-03-24,50.58,Spotify,Entertainment,100.0,3,1,13,13,1,4,1,False
+2026-03-24,11.86,Nike,Shopping,300.0,3,1,13,11,4,4,1,False
+2026-03-24,64.98,Delta Airlines,Transport,150.0,3,1,13,5,5,4,1,False
+2026-03-24,160.17,Nike,Shopping,300.0,3,1,13,11,4,3,1,False
+2026-03-24,121.26,AT&T,Utilities,200.0,3,1,13,1,6,3,1,False
+2026-03-24,117.82,Trader Joes,Groceries,400.0,3,1,13,16,2,0,1,False
+2026-03-24,142.72,Nike,Shopping,300.0,3,1,13,11,4,3,1,False
+2026-03-25,110.94,Gym Membership,Health,100.0,3,2,13,7,3,3,1,False
+2026-03-25,15.77,Delta Airlines,Transport,150.0,3,2,13,5,5,4,1,False
+2026-03-25,9.45,Duke Energy,Utilities,200.0,3,2,13,6,6,4,1,False
+2026-03-25,7.68,McDonalds,Dining,200.0,3,2,13,9,0,4,1,False
+2026-03-25,93.02,Whole Foods,Groceries,400.0,3,2,13,19,2,0,1,False
+2026-03-25,154.11,Delta Airlines,Transport,150.0,3,2,13,5,5,3,1,False
+2026-03-25,55.58,Nike,Shopping,300.0,3,2,13,11,4,4,1,False
+2026-03-26,183.6,Trader Joes,Groceries,400.0,3,3,13,16,2,0,1,False
+2026-03-26,43.38,Netflix,Entertainment,100.0,3,3,13,10,1,6,1,False
+2026-03-26,7.13,Nike,Shopping,300.0,3,3,13,11,4,4,1,False
+2026-03-27,15.97,AMC Theaters,Entertainment,100.0,3,4,13,0,1,6,1,False
+2026-03-27,60.75,Whole Foods,Groceries,400.0,3,4,13,19,2,0,1,False
+2026-03-27,119.49,Trader Joes,Groceries,400.0,3,4,13,16,2,0,1,False
+2026-03-27,13.3,AMC Theaters,Entertainment,100.0,3,4,13,0,1,6,1,False
+2026-03-27,181.9,Nike,Shopping,300.0,3,4,13,11,4,0,1,False
+2026-03-28,19.06,AMC Theaters,Entertainment,100.0,3,5,13,0,1,6,1,False
+2026-03-28,184.75,Gym Membership,Health,100.0,3,5,13,7,3,0,1,False
+2026-03-28,101.73,Netflix,Entertainment,100.0,3,5,13,10,1,6,1,False
+2026-03-28,109.95,McDonalds,Dining,200.0,3,5,13,9,0,6,1,False
+2026-03-28,98.84,AT&T,Utilities,200.0,3,5,13,1,6,6,1,False
+2026-03-28,86.76,McDonalds,Dining,200.0,3,5,13,9,0,6,1,False
+2026-03-29,117.21,Kroger,Groceries,400.0,3,6,13,8,2,6,1,False
+2026-03-29,32.27,McDonalds,Dining,200.0,3,6,13,9,0,6,1,False
+2026-03-29,38.54,Gym Membership,Health,100.0,3,6,13,7,3,6,1,False
+2026-03-29,176.08,Amazon,Shopping,300.0,3,6,13,2,4,5,1,False
+2026-03-29,111.54,Whole Foods,Groceries,400.0,3,6,13,19,2,0,1,False
+2026-03-29,143.96,Shell Gas,Transport,150.0,3,6,13,12,5,0,1,False
+2026-03-29,77.01,Uber,Transport,150.0,3,6,13,17,5,0,1,False
+2026-03-29,97.26,Amazon,Shopping,300.0,3,6,13,2,4,6,1,False
+2026-03-30,173.29,AT&T,Utilities,200.0,3,0,14,1,6,3,1,False
+2026-03-30,15.74,AMC Theaters,Entertainment,100.0,3,0,14,0,1,4,-1,True
+2026-03-30,15.75,Chipotle,Dining,200.0,3,0,14,4,0,4,1,False
+2026-03-30,97.38,Spotify,Entertainment,100.0,3,0,14,13,1,4,1,False
+2026-03-30,73.48,Shell Gas,Transport,150.0,3,0,14,12,5,4,1,False
+2026-03-30,95.53,Duke Energy,Utilities,200.0,3,0,14,6,6,3,1,False
+2026-03-30,145.45,Duke Energy,Utilities,200.0,3,0,14,6,6,3,1,False
+2026-03-30,61.51,Water Dept,Utilities,200.0,3,0,14,18,6,4,1,False
+2026-03-30,179.9,Whole Foods,Groceries,400.0,3,0,14,19,2,0,-1,True
+2026-03-30,53.32,AT&T,Utilities,200.0,3,0,14,1,6,4,1,False
+2026-03-31,159.5,Whole Foods,Groceries,400.0,3,1,14,19,2,0,1,False
+2026-03-31,89.84,Uber,Transport,150.0,3,1,14,17,5,0,1,False
+2026-03-31,63.04,Starbucks,Dining,200.0,3,1,14,14,0,4,1,False
+2026-03-31,87.01,Nike,Shopping,300.0,3,1,14,11,4,4,1,False
+2026-03-31,168.22,Netflix,Entertainment,100.0,3,1,14,10,1,3,1,False
+2026-04-01,10.09,Starbucks,Dining,200.0,4,2,14,14,0,4,1,False
+2026-04-01,186.45,Delta Airlines,Transport,150.0,4,2,14,5,5,3,1,False
+2026-04-01,84.55,Netflix,Entertainment,100.0,4,2,14,10,1,4,1,False
+2026-04-01,198.53,Gym Membership,Health,100.0,4,2,14,7,3,3,1,False
+2026-04-01,94.09,CVS Pharmacy,Health,100.0,4,2,14,3,3,3,1,False
+2026-04-01,8.91,Target,Shopping,300.0,4,2,14,15,4,4,1,False
+2026-04-01,46.2,Starbucks,Dining,200.0,4,2,14,14,0,4,1,False
+2026-04-01,140.37,Duke Energy,Utilities,200.0,4,2,14,6,6,3,1,False
+2026-04-02,161.91,Starbucks,Dining,200.0,4,3,14,14,0,0,1,False
+2026-04-02,84.43,Kroger,Groceries,400.0,4,3,14,8,2,6,1,False
+2026-04-02,116.52,Amazon,Shopping,300.0,4,3,14,2,4,3,1,False
+2026-04-02,109.68,CVS Pharmacy,Health,100.0,4,3,14,3,3,3,1,False
+2026-04-02,180.17,Netflix,Entertainment,100.0,4,3,14,10,1,0,1,False
+2026-04-02,8.0,Trader Joes,Groceries,400.0,4,3,14,16,2,2,1,False
+2026-04-02,72.1,CVS Pharmacy,Health,100.0,4,3,14,3,3,6,1,False
+2026-04-02,157.16,McDonalds,Dining,200.0,4,3,14,9,0,0,1,False
+2026-04-02,93.48,Gym Membership,Health,100.0,4,3,14,7,3,6,1,False
+2026-04-02,102.22,Chipotle,Dining,200.0,4,3,14,4,0,6,1,False
+2026-04-03,166.72,Nike,Shopping,300.0,4,4,14,11,4,0,1,False
+2026-04-03,119.87,Amazon,Shopping,300.0,4,4,14,2,4,6,1,False
+2026-04-03,182.91,Target,Shopping,300.0,4,4,14,15,4,0,1,False
+2026-04-03,178.94,Netflix,Entertainment,100.0,4,4,14,10,1,0,1,False
+2026-04-03,43.73,Netflix,Entertainment,100.0,4,4,14,10,1,6,1,False
+2026-04-03,147.36,Uber,Transport,150.0,4,4,14,17,5,0,1,False
+2026-04-04,86.04,Chipotle,Dining,200.0,4,5,14,4,0,6,1,False
+2026-04-04,103.25,Spotify,Entertainment,100.0,4,5,14,13,1,0,1,False
+2026-04-04,189.69,Netflix,Entertainment,100.0,4,5,14,10,1,0,1,False
+2026-04-04,26.27,Uber,Transport,150.0,4,5,14,17,5,2,1,False
+2026-04-04,58.2,Delta Airlines,Transport,150.0,4,5,14,5,5,6,1,False
+2026-04-04,30.7,Nike,Shopping,300.0,4,5,14,11,4,6,1,False
+2026-04-04,154.09,Water Dept,Utilities,200.0,4,5,14,18,6,0,1,False
+2026-04-04,122.73,AT&T,Utilities,200.0,4,5,14,1,6,6,1,False
+2026-04-05,130.1,Whole Foods,Groceries,400.0,4,6,14,19,2,0,1,False
+2026-04-05,70.64,Whole Foods,Groceries,400.0,4,6,14,19,2,2,1,False
+2026-04-06,92.22,AMC Theaters,Entertainment,100.0,4,0,15,0,1,3,1,False
+2026-04-06,115.41,Trader Joes,Groceries,400.0,4,0,15,16,2,1,1,False
+2026-04-06,171.24,AMC Theaters,Entertainment,100.0,4,0,15,0,1,3,1,False
+2026-04-06,139.49,AMC Theaters,Entertainment,100.0,4,0,15,0,1,3,1,False
+2026-04-07,80.48,Target,Shopping,300.0,4,1,15,15,4,4,1,False
+2026-04-07,162.19,Uber,Transport,150.0,4,1,15,17,5,0,1,False
+2026-04-07,5.2,McDonalds,Dining,200.0,4,1,15,9,0,4,1,False
+2026-04-07,185.02,CVS Pharmacy,Health,100.0,4,1,15,3,3,3,1,False
+2026-04-07,60.86,Amazon,Shopping,300.0,4,1,15,2,4,4,1,False
+2026-04-07,166.25,Delta Airlines,Transport,150.0,4,1,15,5,5,3,1,False
+2026-04-07,43.22,Delta Airlines,Transport,150.0,4,1,15,5,5,4,1,False
+2026-04-07,19.85,Shell Gas,Transport,150.0,4,1,15,12,5,4,1,False
+2026-04-08,135.56,Duke Energy,Utilities,200.0,4,2,15,6,6,3,1,False
+2026-04-08,33.45,AT&T,Utilities,200.0,4,2,15,1,6,6,1,False
+2026-04-08,142.14,Spotify,Entertainment,100.0,4,2,15,13,1,0,1,False
+2026-04-08,57.01,Delta Airlines,Transport,150.0,4,2,15,5,5,4,1,False
+2026-04-08,136.98,Delta Airlines,Transport,150.0,4,2,15,5,5,3,1,False
+2026-04-08,24.73,Starbucks,Dining,200.0,4,2,15,14,0,4,1,False
+2026-04-09,113.04,Chipotle,Dining,200.0,4,3,15,4,0,3,1,False
+2026-04-09,167.81,Starbucks,Dining,200.0,4,3,15,14,0,0,1,False
+2026-04-09,78.42,Gym Membership,Health,100.0,4,3,15,7,3,6,1,False
+2026-04-09,190.67,Water Dept,Utilities,200.0,4,3,15,18,6,0,1,False
+2026-04-09,114.52,Chipotle,Dining,200.0,4,3,15,4,0,3,1,False
+2026-04-09,35.01,Chipotle,Dining,200.0,4,3,15,4,0,6,1,False
+2026-04-09,19.69,Trader Joes,Groceries,400.0,4,3,15,16,2,2,1,False
+2026-04-10,11.57,Kroger,Groceries,400.0,4,4,15,8,2,6,1,False
+2026-04-10,97.48,Water Dept,Utilities,200.0,4,4,15,18,6,0,1,False
+2026-04-10,21.83,AT&T,Utilities,200.0,4,4,15,1,6,6,1,False
+2026-04-10,130.78,Chipotle,Dining,200.0,4,4,15,4,0,6,1,False
+2026-04-10,115.0,Trader Joes,Groceries,400.0,4,4,15,16,2,0,1,False
+2026-04-10,151.81,Water Dept,Utilities,200.0,4,4,15,18,6,0,1,False
+2026-04-10,183.76,Water Dept,Utilities,200.0,4,4,15,18,6,0,1,False
+2026-04-10,160.25,Gym Membership,Health,100.0,4,4,15,7,3,0,1,False
+2026-04-11,164.81,Target,Shopping,300.0,4,5,15,15,4,0,1,False
+2026-04-11,89.36,Nike,Shopping,300.0,4,5,15,11,4,6,1,False
+2026-04-11,120.27,CVS Pharmacy,Health,100.0,4,5,15,3,3,6,1,False
+2026-04-11,27.11,Duke Energy,Utilities,200.0,4,5,15,6,6,6,1,False
+2026-04-11,192.71,Gym Membership,Health,100.0,4,5,15,7,3,0,1,False
+2026-04-11,137.73,CVS Pharmacy,Health,100.0,4,5,15,3,3,6,1,False
+2026-04-11,102.41,Shell Gas,Transport,150.0,4,5,15,12,5,0,1,False
+2026-04-12,5.79,Gym Membership,Health,100.0,4,6,15,7,3,6,1,False
+2026-04-12,26.82,Water Dept,Utilities,200.0,4,6,15,18,6,2,1,False
+2026-04-12,123.5,CVS Pharmacy,Health,100.0,4,6,15,3,3,6,1,False
+2026-04-12,44.16,Spotify,Entertainment,100.0,4,6,15,13,1,2,1,False
+2026-04-12,88.86,Starbucks,Dining,200.0,4,6,15,14,0,2,1,False
+2026-04-13,114.62,AT&T,Utilities,200.0,4,0,16,1,6,3,1,False
+2026-04-13,29.74,AMC Theaters,Entertainment,100.0,4,0,16,0,1,4,1,False
+2026-04-13,185.85,McDonalds,Dining,200.0,4,0,16,9,0,3,1,False
+2026-04-13,21.82,McDonalds,Dining,200.0,4,0,16,9,0,4,1,False
+2026-04-14,84.24,Shell Gas,Transport,150.0,4,1,16,12,5,4,1,False
+2026-04-14,196.99,Amazon,Shopping,300.0,4,1,16,2,4,3,1,False
+2026-04-14,77.31,Shell Gas,Transport,150.0,4,1,16,12,5,4,1,False
+2026-04-14,8.88,Netflix,Entertainment,100.0,4,1,16,10,1,4,1,False
+2026-04-14,51.26,Nike,Shopping,300.0,4,1,16,11,4,4,1,False
+2026-04-15,17.53,Target,Shopping,300.0,4,2,16,15,4,4,1,False
+2026-04-15,165.88,Uber,Transport,150.0,4,2,16,17,5,0,1,False
+2026-04-15,118.36,AMC Theaters,Entertainment,100.0,4,2,16,0,1,3,1,False
+2026-04-15,132.22,AMC Theaters,Entertainment,100.0,4,2,16,0,1,3,1,False
+2026-04-15,46.16,Shell Gas,Transport,150.0,4,2,16,12,5,4,1,False
+2026-04-15,177.56,McDonalds,Dining,200.0,4,2,16,9,0,3,1,False
+2026-04-15,81.06,Uber,Transport,150.0,4,2,16,17,5,0,1,False
+2026-04-15,74.48,AMC Theaters,Entertainment,100.0,4,2,16,0,1,3,1,False
+2026-04-15,122.04,Water Dept,Utilities,200.0,4,2,16,18,6,0,1,False
+2026-04-16,11.88,Uber,Transport,150.0,4,3,16,17,5,2,1,False
+2026-04-16,115.22,Whole Foods,Groceries,400.0,4,3,16,19,2,0,1,False
+2026-04-16,104.26,Nike,Shopping,300.0,4,3,16,11,4,0,1,False
+2026-04-16,177.98,Gym Membership,Health,100.0,4,3,16,7,3,3,1,False
+2026-04-16,41.98,AMC Theaters,Entertainment,100.0,4,3,16,0,1,6,1,False
+2026-04-16,58.49,CVS Pharmacy,Health,100.0,4,3,16,3,3,6,1,False
+2026-04-16,37.34,Starbucks,Dining,200.0,4,3,16,14,0,4,1,False
+2026-04-17,24.37,Trader Joes,Groceries,400.0,4,4,16,16,2,2,1,False
+2026-04-17,44.34,Spotify,Entertainment,100.0,4,4,16,13,1,2,1,False
+2026-04-17,33.34,Trader Joes,Groceries,400.0,4,4,16,16,2,2,1,False
+2026-04-17,19.7,Nike,Shopping,300.0,4,4,16,11,4,6,1,False
+2026-04-17,130.24,McDonalds,Dining,200.0,4,4,16,9,0,0,1,False
+2026-04-17,196.33,AMC Theaters,Entertainment,100.0,4,4,16,0,1,3,1,False
+2026-04-17,102.49,Shell Gas,Transport,150.0,4,4,16,12,5,0,1,False
+2026-04-18,62.87,Chipotle,Dining,200.0,4,5,16,4,0,6,1,False
+2026-04-18,6.87,Whole Foods,Groceries,400.0,4,5,16,19,2,2,-1,True
+2026-04-18,118.47,Delta Airlines,Transport,150.0,4,5,16,5,5,6,1,False
+2026-04-18,83.78,CVS Pharmacy,Health,100.0,4,5,16,3,3,6,1,False
+2026-04-18,148.95,Shell Gas,Transport,150.0,4,5,16,12,5,0,1,False
+2026-04-19,54.13,Netflix,Entertainment,100.0,4,6,16,10,1,6,1,False
+2026-04-19,54.97,CVS Pharmacy,Health,100.0,4,6,16,3,3,6,1,False
+2026-04-19,182.04,Trader Joes,Groceries,400.0,4,6,16,16,2,0,1,False
+2026-04-19,55.15,Uber,Transport,150.0,4,6,16,17,5,2,1,False
+2026-04-19,153.71,AMC Theaters,Entertainment,100.0,4,6,16,0,1,5,1,False
+2026-04-19,46.21,Netflix,Entertainment,100.0,4,6,16,10,1,6,1,False
+2026-04-20,43.11,Starbucks,Dining,200.0,4,0,17,14,0,4,1,False
+2026-04-20,97.88,Shell Gas,Transport,150.0,4,0,17,12,5,4,1,False
+2026-04-20,143.89,Whole Foods,Groceries,400.0,4,0,17,19,2,0,1,False
+2026-04-20,134.07,Trader Joes,Groceries,400.0,4,0,17,16,2,1,1,False
+2026-04-20,51.77,Starbucks,Dining,200.0,4,0,17,14,0,4,1,False
+2026-04-20,70.61,Nike,Shopping,300.0,4,0,17,11,4,4,1,False
+2026-04-21,157.89,McDonalds,Dining,200.0,4,1,17,9,0,3,1,False
+2026-04-21,8.13,Starbucks,Dining,200.0,4,1,17,14,0,4,1,False
+2026-04-21,39.05,Starbucks,Dining,200.0,4,1,17,14,0,4,1,False
+2026-04-21,69.01,Gym Membership,Health,100.0,4,1,17,7,3,4,1,False
+2026-04-22,67.41,Uber,Transport,150.0,4,2,17,17,5,0,1,False
+2026-04-22,50.91,Uber,Transport,150.0,4,2,17,17,5,4,1,False
+2026-04-22,99.56,Shell Gas,Transport,150.0,4,2,17,12,5,0,1,False
+2026-04-22,149.06,Nike,Shopping,300.0,4,2,17,11,4,0,1,False
+2026-04-23,136.43,Duke Energy,Utilities,200.0,4,3,17,6,6,3,1,False
+2026-04-23,108.03,Nike,Shopping,300.0,4,3,17,11,4,0,1,False
+2026-04-23,182.71,Target,Shopping,300.0,4,3,17,15,4,0,1,False
+2026-04-23,195.07,Trader Joes,Groceries,400.0,4,3,17,16,2,0,1,False
+2026-04-24,192.32,Gym Membership,Health,100.0,4,4,17,7,3,0,1,False
+2026-04-24,99.68,Uber,Transport,150.0,4,4,17,17,5,0,1,False
+2026-04-25,175.19,Delta Airlines,Transport,150.0,4,5,17,5,5,5,1,False
+2026-04-25,65.26,Uber,Transport,150.0,4,5,17,17,5,2,1,False
+2026-04-25,167.86,AT&T,Utilities,200.0,4,5,17,1,6,5,1,False
+2026-04-25,118.08,AT&T,Utilities,200.0,4,5,17,1,6,6,1,False
+2026-04-26,182.38,Duke Energy,Utilities,200.0,4,6,17,6,6,5,1,False
+2026-04-26,149.28,Kroger,Groceries,400.0,4,6,17,8,2,0,1,False
+2026-04-26,147.01,Shell Gas,Transport,150.0,4,6,17,12,5,0,1,False
+2026-04-27,164.35,Spotify,Entertainment,100.0,4,0,18,13,1,3,1,False
+2026-04-27,106.1,Target,Shopping,300.0,4,0,18,15,4,4,1,False
+2026-04-27,123.84,Duke Energy,Utilities,200.0,4,0,18,6,6,3,1,False
+2026-04-27,168.85,Netflix,Entertainment,100.0,4,0,18,10,1,3,1,False
+2026-04-27,69.55,Duke Energy,Utilities,200.0,4,0,18,6,6,4,1,False
+2026-04-27,150.02,Starbucks,Dining,200.0,4,0,18,14,0,3,1,False
+2026-04-28,7.23,Starbucks,Dining,200.0,4,1,18,14,0,4,1,False
+2026-04-28,105.2,Delta Airlines,Transport,150.0,4,1,18,5,5,3,1,False
+2026-04-28,61.01,Target,Shopping,300.0,4,1,18,15,4,4,1,False
+2026-04-28,199.44,Uber,Transport,150.0,4,1,18,17,5,0,1,False
+2026-04-28,101.1,Netflix,Entertainment,100.0,4,1,18,10,1,4,1,False
+2026-04-28,120.68,Kroger,Groceries,400.0,4,1,18,8,2,3,1,False
+2026-04-28,183.29,Starbucks,Dining,200.0,4,1,18,14,0,0,1,False
+2026-04-28,140.26,CVS Pharmacy,Health,100.0,4,1,18,3,3,3,1,False
+2026-04-28,196.42,Duke Energy,Utilities,200.0,4,1,18,6,6,3,1,False
+2026-04-29,147.88,Whole Foods,Groceries,400.0,4,2,18,19,2,0,1,False
+2026-04-29,175.35,AT&T,Utilities,200.0,4,2,18,1,6,3,1,False
+2026-04-29,190.33,Uber,Transport,150.0,4,2,18,17,5,0,1,False
+2026-04-29,103.44,Chipotle,Dining,200.0,4,2,18,4,0,3,1,False
+2026-04-30,79.24,Shell Gas,Transport,150.0,4,3,18,12,5,0,1,False
+2026-04-30,117.6,Trader Joes,Groceries,400.0,4,3,18,16,2,0,1,False
+2026-04-30,95.34,Netflix,Entertainment,100.0,4,3,18,10,1,0,1,False
+2026-04-30,169.02,Nike,Shopping,300.0,4,3,18,11,4,0,1,False
+2026-04-30,70.05,Chipotle,Dining,200.0,4,3,18,4,0,6,1,False
+2026-04-30,76.79,Gym Membership,Health,100.0,4,3,18,7,3,6,1,False
+2026-04-30,51.19,Whole Foods,Groceries,400.0,4,3,18,19,2,2,1,False
+2026-04-30,97.95,Gym Membership,Health,100.0,4,3,18,7,3,6,1,False
+2026-05-01,72.39,AMC Theaters,Entertainment,100.0,5,4,18,0,1,6,1,False
+2026-05-01,148.65,Kroger,Groceries,400.0,5,4,18,8,2,0,1,False
+2026-05-01,180.98,Water Dept,Utilities,200.0,5,4,18,18,6,0,1,False
+2026-05-01,85.01,McDonalds,Dining,200.0,5,4,18,9,0,6,1,False
+2026-05-01,141.97,Delta Airlines,Transport,150.0,5,4,18,5,5,5,1,False
+2026-05-01,145.02,Amazon,Shopping,300.0,5,4,18,2,4,5,1,False
+2026-05-02,75.55,Trader Joes,Groceries,400.0,5,5,18,16,2,2,1,False
+2026-05-02,188.45,CVS Pharmacy,Health,100.0,5,5,18,3,3,5,1,False
+2026-05-02,149.04,Delta Airlines,Transport,150.0,5,5,18,5,5,5,1,False
+2026-05-02,125.29,Spotify,Entertainment,100.0,5,5,18,13,1,0,1,False
+2026-05-02,155.4,AT&T,Utilities,200.0,5,5,18,1,6,5,1,False
+2026-05-02,175.46,McDonalds,Dining,200.0,5,5,18,9,0,0,1,False
+2026-05-03,197.6,CVS Pharmacy,Health,100.0,5,6,18,3,3,5,1,False
+2026-05-03,60.81,CVS Pharmacy,Health,100.0,5,6,18,3,3,6,1,False
+2026-05-03,37.7,CVS Pharmacy,Health,100.0,5,6,18,3,3,6,1,False
+2026-05-03,124.78,Shell Gas,Transport,150.0,5,6,18,12,5,0,1,False
+2026-05-03,27.77,Target,Shopping,300.0,5,6,18,15,4,2,1,False
+2026-05-03,108.47,Netflix,Entertainment,100.0,5,6,18,10,1,6,1,False
+2026-05-04,191.93,Netflix,Entertainment,100.0,5,0,19,10,1,3,1,False
+2026-05-04,148.99,Gym Membership,Health,100.0,5,0,19,7,3,3,1,False
+2026-05-04,167.62,Kroger,Groceries,400.0,5,0,19,8,2,3,1,False
+2026-05-04,127.18,Nike,Shopping,300.0,5,0,19,11,4,3,1,False
+2026-05-04,168.97,Water Dept,Utilities,200.0,5,0,19,18,6,1,1,False
+2026-05-05,25.62,Duke Energy,Utilities,200.0,5,1,19,6,6,4,1,False
+2026-05-05,134.61,Spotify,Entertainment,100.0,5,1,19,13,1,1,1,False
+2026-05-05,199.15,Starbucks,Dining,200.0,5,1,19,14,0,0,1,False
+2026-05-06,147.94,Netflix,Entertainment,100.0,5,2,19,10,1,3,1,False
+2026-05-06,69.76,McDonalds,Dining,200.0,5,2,19,9,0,4,1,False
+2026-05-06,53.75,Nike,Shopping,300.0,5,2,19,11,4,4,1,False
+2026-05-06,158.26,Trader Joes,Groceries,400.0,5,2,19,16,2,0,1,False
+2026-05-07,181.07,Gym Membership,Health,100.0,5,3,19,7,3,3,1,False
+2026-05-07,72.9,Gym Membership,Health,100.0,5,3,19,7,3,6,1,False
+2026-05-07,136.93,AMC Theaters,Entertainment,100.0,5,3,19,0,1,3,1,False
+2026-05-07,176.3,Target,Shopping,300.0,5,3,19,15,4,0,1,False
+2026-05-08,38.67,AT&T,Utilities,200.0,5,4,19,1,6,6,1,False
+2026-05-08,54.94,Spotify,Entertainment,100.0,5,4,19,13,1,2,1,False
+2026-05-08,197.34,Target,Shopping,300.0,5,4,19,15,4,0,1,False
+2026-05-08,42.13,Uber,Transport,150.0,5,4,19,17,5,2,1,False
+2026-05-08,141.6,Spotify,Entertainment,100.0,5,4,19,13,1,0,1,False
+2026-05-08,197.25,Chipotle,Dining,200.0,5,4,19,4,0,3,1,False
+2026-05-09,8.16,Whole Foods,Groceries,400.0,5,5,19,19,2,2,-1,True
+2026-05-09,46.82,Spotify,Entertainment,100.0,5,5,19,13,1,2,1,False
+2026-05-09,125.47,Starbucks,Dining,200.0,5,5,19,14,0,0,1,False
+2026-05-09,107.94,Starbucks,Dining,200.0,5,5,19,14,0,0,1,False
+2026-05-09,95.08,Trader Joes,Groceries,400.0,5,5,19,16,2,2,1,False
+2026-05-09,48.29,AMC Theaters,Entertainment,100.0,5,5,19,0,1,6,1,False
+2026-05-09,150.82,Whole Foods,Groceries,400.0,5,5,19,19,2,0,1,False

@@ -1,0 +1,111 @@
+date,amount,merchant,category
+2025-08-25,199.24,Amazon,Shopping
+2025-10-11,199.2,Whole Foods,Groceries
+2025-11-01,198.55,Water Dept,Utilities
+2026-01-22,198.36,Water Dept,Utilities
+2026-01-21,197.91,Water Dept,Utilities
+2025-11-03,197.53,Amazon,Shopping
+2025-06-09,197.49,Water Dept,Utilities
+2026-03-07,197.45,Whole Foods,Groceries
+2026-01-07,197.36,Whole Foods,Groceries
+2026-01-13,197.03,Target,Shopping
+2025-08-03,196.8,Whole Foods,Groceries
+2026-02-26,196.32,AT&T,Utilities
+2026-01-06,195.83,Nike,Shopping
+2026-02-16,194.69,Netflix,Entertainment
+2025-12-23,194.68,AMC Theaters,Entertainment
+2025-07-28,194.32,Whole Foods,Groceries
+2026-02-09,193.97,Duke Energy,Utilities
+2026-02-04,193.31,AMC Theaters,Entertainment
+2026-01-05,193.21,Whole Foods,Groceries
+2025-05-11,192.6,AMC Theaters,Entertainment
+2025-07-07,192.37,AT&T,Utilities
+2026-01-19,192.18,Starbucks,Dining
+2025-09-27,191.95,AMC Theaters,Entertainment
+2025-08-18,191.62,AT&T,Utilities
+2026-03-22,188.44,Whole Foods,Groceries
+2025-12-22,188.05,Trader Joes,Groceries
+2026-02-02,188.02,Uber,Transport
+2025-12-08,187.44,Chipotle,Dining
+2025-11-02,185.44,AT&T,Utilities
+2026-01-20,184.89,Whole Foods,Groceries
+2025-11-03,184.2,Water Dept,Utilities
+2025-12-01,183.3,AMC Theaters,Entertainment
+2025-12-29,183.13,Whole Foods,Groceries
+2025-06-01,182.78,AMC Theaters,Entertainment
+2026-01-05,182.47,Trader Joes,Groceries
+2026-02-23,180.83,AMC Theaters,Entertainment
+2026-03-08,180.65,Water Dept,Utilities
+2026-03-30,179.9,Whole Foods,Groceries
+2026-01-01,178.42,AMC Theaters,Entertainment
+2025-06-02,175.83,AMC Theaters,Entertainment
+2025-11-02,172.1,AMC Theaters,Entertainment
+2026-01-14,171.78,AMC Theaters,Entertainment
+2026-01-26,169.57,Trader Joes,Groceries
+2026-03-08,166.36,Water Dept,Utilities
+2025-12-06,165.65,Whole Foods,Groceries
+2026-01-09,164.65,AMC Theaters,Entertainment
+2026-01-19,162.19,Target,Shopping
+2026-02-16,156.64,AMC Theaters,Entertainment
+2026-01-18,151.11,AT&T,Utilities
+2025-12-22,148.48,AMC Theaters,Entertainment
+2026-01-25,147.59,AMC Theaters,Entertainment
+2026-02-16,141.96,Whole Foods,Groceries
+2025-12-13,129.78,Whole Foods,Groceries
+2026-01-06,127.82,AMC Theaters,Entertainment
+2025-11-02,118.51,Whole Foods,Groceries
+2025-12-27,112.22,AMC Theaters,Entertainment
+2026-01-18,110.19,AMC Theaters,Entertainment
+2026-02-08,104.02,AMC Theaters,Entertainment
+2025-12-07,102.93,Whole Foods,Groceries
+2026-01-26,97.85,AT&T,Utilities
+2025-11-17,95.7,AMC Theaters,Entertainment
+2025-12-21,91.42,AMC Theaters,Entertainment
+2026-01-04,88.29,Whole Foods,Groceries
+2026-01-13,76.13,AMC Theaters,Entertainment
+2026-01-20,72.39,AMC Theaters,Entertainment
+2025-12-22,72.1,Whole Foods,Groceries
+2026-01-26,68.28,Starbucks,Dining
+2025-12-28,62.34,AMC Theaters,Entertainment
+2026-01-17,57.1,Whole Foods,Groceries
+2026-01-19,52.96,AT&T,Utilities
+2025-11-09,51.68,Whole Foods,Groceries
+2026-03-15,51.63,Whole Foods,Groceries
+2026-01-13,44.94,AMC Theaters,Entertainment
+2026-01-02,37.42,AMC Theaters,Entertainment
+2026-01-25,35.63,CVS Pharmacy,Health
+2026-03-08,28.22,Whole Foods,Groceries
+2025-11-24,25.58,Uber,Transport
+2025-10-26,24.38,Whole Foods,Groceries
+2025-10-19,24.29,Whole Foods,Groceries
+2026-01-11,23.91,Chipotle,Dining
+2026-01-05,23.4,Whole Foods,Groceries
+2026-01-18,22.15,Chipotle,Dining
+2025-08-31,19.99,Whole Foods,Groceries
+2025-12-07,19.74,Water Dept,Utilities
+2026-03-01,19.32,Water Dept,Utilities
+2025-12-31,19.21,AMC Theaters,Entertainment
+2026-02-23,18.51,Whole Foods,Groceries
+2025-12-08,17.77,Chipotle,Dining
+2025-12-01,16.15,AT&T,Utilities
+2026-03-30,15.74,AMC Theaters,Entertainment
+2025-05-26,15.65,AMC Theaters,Entertainment
+2025-11-23,14.26,Uber,Transport
+2026-02-23,13.57,AMC Theaters,Entertainment
+2026-02-07,11.89,Whole Foods,Groceries
+2026-01-27,11.2,Whole Foods,Groceries
+2025-12-29,10.67,Chipotle,Dining
+2025-12-18,10.55,AMC Theaters,Entertainment
+2026-03-01,10.35,Whole Foods,Groceries
+2026-03-02,9.79,Target,Shopping
+2026-02-22,9.69,AMC Theaters,Entertainment
+2025-12-09,9.37,Uber,Transport
+2026-05-09,8.16,Whole Foods,Groceries
+2025-11-17,7.91,Chipotle,Dining
+2025-08-18,7.53,Whole Foods,Groceries
+2026-04-18,6.87,Whole Foods,Groceries
+2025-06-23,6.77,Uber,Transport
+2025-11-29,6.65,Whole Foods,Groceries
+2026-03-08,6.38,AT&T,Utilities
+2026-01-18,5.37,Netflix,Entertainment
+2026-01-27,5.01,Netflix,Entertainment
